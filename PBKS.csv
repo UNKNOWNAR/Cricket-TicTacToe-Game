@@ -1,0 +1,47 @@
+,PlayerType,YearsPlayed,WicketKeeper,BattingStyle,BowlingStyle,Team
+Yuvraj Singh,BATTERS,"2008,2009,2010",False,Left hand Bat,Slow Left arm Orthodox,PBKS
+Mahela Jayawardene,BATTERS,"2008,2009,2010",False,Right hand Bat,Right arm Medium,PBKS
+Karan Goel,BATTERS,"2008,2009,2010",False,Left hand Bat,Right arm Offbreak,PBKS
+Simon Katich,BATTERS,"2008,2009",False,Left hand Bat,Left arm Wrist spin,PBKS
+Uday Kaul,BATTERS,"2008,2009",True,Left hand Bat,,PBKS
+Shaun Marsh,BATTERS,"2008,2009,2010",False,Left hand Bat,Slow Left arm Orthodox,PBKS
+Luke Pomersbach,BATTERS,"2008,2009",False,Left hand Bat,Right arm Offbreak,PBKS
+Nitin Saini,BATTERS,2008,True,Right hand Bat,,PBKS
+Kumar Sangakkara,BATTERS,"2008,2009,2010",True,Left hand Bat,Right arm Offbreak,PBKS
+Ramnaresh Sarwan,BATTERS,2008,False,Right hand Bat,Legbreak,PBKS
+Sunny Sohal,BATTERS,"2008,2009",False,Right hand Bat,Legbreak,PBKS
+Tanmay Srivastava,BATTERS,"2008,2009,2010",False,Left hand Bat,Right arm Medium,PBKS
+Piyush Chawla,ALLROUNDERS,"2008,2009,2010",False,Left hand Bat,Legbreak,PBKS
+Rishi Dhawan,ALLROUNDERS,2008,False,Right hand Bat,Right arm Medium fast,PBKS
+James Hopes,ALLROUNDERS,"2008,2009,2010",False,Right hand Bat,Right arm Medium,PBKS
+Irfan Pathan,ALLROUNDERS,"2008,2009,2010",False,Left hand Bat,Left arm Medium fast,PBKS
+Kyle Mills,BOWLERS,2008,False,Right hand Bat,Right arm Fast medium,PBKS
+Ramesh Powar,BOWLERS,"2008,2009,2010",False,Right hand Bat,Right arm Offbreak,PBKS
+Sreesanth,BOWLERS,"2008,2009,2010",False,Right hand Bat,Right arm Fast medium,PBKS
+Ajitesh Argal,BOWLERS,"2008,2009",False,Right hand Bat,Right arm Medium,PBKS
+Pankaj Dharmani,BOWLERS,2008,False,Right hand Bat,,PBKS
+Gagandeep Singh,BOWLERS,2008,False,Right hand Bat,Right arm Medium fast,PBKS
+Sahil Kukreja,BOWLERS,"2008,2009",False,Right hand Bat,,PBKS
+Wilkin Mota,BOWLERS,"2008,2009",False,Right hand Bat,Right arm Medium,PBKS
+Vikram Singh,BOWLERS,"2008,2009",False,Right hand Bat,Right arm Medium fast,PBKS
+Wicketkeeper,BATTERS,"2009,2010",False,Right hand Bat,,PBKS
+Taruwar Kohli,BATTERS,2009,False,Right hand Bat,Right arm Medium,PBKS
+Ravikant Shukla,BATTERS,2009,False,Left hand Bat,Right arm Medium,PBKS
+Ryan Ninan,ALLROUNDERS,2009,False,Right hand Bat,Right arm Offbreak,PBKS
+"Yusuf Abdulla, player portrait",ALLROUNDERS,2009,False,,,PBKS
+Bowler,ALLROUNDERS,2009,False,Left hand Bat,Left arm Fast medium,PBKS
+Amanpreet Singh,ALLROUNDERS,"2009,2010",False,Right hand Bat,Right arm Medium fast,PBKS
+Burt Cockley,ALLROUNDERS,2009,False,Right hand Bat,Right arm Fast medium,PBKS
+Vikramjeet Malik,ALLROUNDERS,"2009,2010",False,Right hand Bat,Right arm Medium,PBKS
+Ranadeb Bose,ALLROUNDERS,2009,False,Right hand Bat,Right arm Fast medium,PBKS
+Adrian Barath,BATTERS,2010,False,Right hand Bat,Right arm Offbreak,PBKS
+Manvinder Bisla,BATTERS,2010,False,,,PBKS
+Mohammad Kaif,BATTERS,2010,False,Right hand Bat,Right arm Offbreak,PBKS
+Bipul Sharma,ALLROUNDERS,2010,False,Left hand Bat,Slow Left arm Orthodox,PBKS
+Ravi Bopara,ALLROUNDERS,2010,False,Right hand Bat,Right arm Medium,PBKS
+Reetinder Sodhi,ALLROUNDERS,2010,False,Right hand Bat,Right arm Medium,PBKS
+Yusuf Abdulla,BOWLERS,2010,False,Left hand Bat,Left arm Fast medium,PBKS
+Love Ablish,BOWLERS,2010,False,Right hand Bat,Right arm Medium fast,PBKS
+Brett Lee,BOWLERS,2010,False,Right hand Bat,Right arm Fast,PBKS
+Shalabh Srivastava,BOWLERS,2010,False,Right hand Bat,Left arm Fast medium,PBKS
+Rusty Theron,BOWLERS,2010,False,Right hand Bat,Right arm Medium fast,PBKS
