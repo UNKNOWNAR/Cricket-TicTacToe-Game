@@ -1,44 +1,59 @@
 ,PlayerType,YearsPlayed,WicketKeeper,BattingStyle,BowlingStyle,Team
-Sourav Ganguly,BATTERS,"2008,2009,2010",False,Left hand Bat,Right arm Medium,KKR
-Aakash Chopra,BATTERS,2008,False,Right hand Bat,"Right arm Medium, Right arm Offbreak",KKR
-Debabrata Das,BATTERS,2008,False,Right hand Bat,Legbreak Googly,KKR
-Brad Hodge,BATTERS,"2008,2009,2010",False,Right hand Bat,Right arm Offbreak,KKR
-Brendon McCullum,BATTERS,"2008,2009,2010",True,Right hand Bat,"Right arm Medium, Right arm Offbreak",KKR
-Ricky Ponting,BATTERS,2008,False,Right hand Bat,Right arm Medium,KKR
-Wriddhiman Saha,BATTERS,"2008,2009,2010",True,Right hand Bat,,KKR
-Salman Butt,BATTERS,2008,False,Left hand Bat,Right arm Offbreak,KKR
-Tatenda Taibu,BATTERS,2008,True,Right hand Bat,Right arm Medium,KKR
-CH Gayle headshot,BATTERS,2008,False,Left hand Bat,Right arm Offbreak,KKR
-David Hussey,BATTERS,"2008,2009",False,Right hand Bat,Right arm Offbreak,KKR
-Iqbal Abdulla,BATTERS,"2008,2010",False,Left hand Bat,Slow Left arm Orthodox,KKR
-Mohammad Hafeez,BATTERS,2008,False,Right hand Bat,Right arm Offbreak,KKR
-Laxmi Shukla,BATTERS,"2008,2009,2010",False,Right hand Bat,Right arm Medium,KKR
-Ajit Agarkar,BOWLERS,"2008,2009,2010",False,Right hand Bat,Right arm Fast,KKR
-Ashok Dinda,BOWLERS,"2008,2009,2010",False,Right hand Bat,Right arm Medium fast,KKR
-Murali Kartik,BOWLERS,"2008,2009,2010",False,Left hand Bat,Slow Left arm Orthodox,KKR
-Siddarth Kaul,BOWLERS,2008,False,Right hand Bat,Right arm Medium,KKR
-Ajantha Mendis,BOWLERS,"2008,2009,2010",False,Right hand Bat,Right arm Offbreak,KKR
-Ishant Sharma,BOWLERS,"2008,2009,2010",False,Right hand Bat,Right arm Fast medium,KKR
-Shoaib Akhtar,BOWLERS,2008,False,Right hand Bat,Right arm Fast,KKR
-Umar Gul,BOWLERS,2008,False,Right hand Bat,Right arm Fast medium,KKR
-Rohan Banerjee,BATTERS,2009,False,Left hand Bat,Right arm Medium,KKR
-Arindam Ghosh,BATTERS,2009,False,Right hand Bat,Right arm Medium,KKR
-Morne van Wyk,BATTERS,2009,True,Right hand Bat,Slow Left arm Orthodox,KKR
-Yashpal Singh,BATTERS,2009,False,Right hand Bat,Right arm Medium,KKR
-Chris Gayle,ALLROUNDERS,"2009,2010",False,Left hand Bat,Right arm Offbreak,KKR
-Moises Henriques,ALLROUNDERS,2009,False,Right hand Bat,Right arm Fast medium,KKR
-Angelo Mathews,ALLROUNDERS,"2009,2010",False,Right hand Bat,Right arm Medium,KKR
-Anureet Singh,BOWLERS,2009,False,Right hand Bat,Right arm Medium,KKR
-Charl Langeveldt,BOWLERS,"2009,2010",False,Right hand Bat,Right arm Fast medium,KKR
-Mashrafe Mortaza,BOWLERS,2009,False,Right hand Bat,Right arm Fast medium,KKR
-Shoaib Shaikh,BOWLERS,2009,False,Right hand Bat,Right arm Medium,KKR
+Gautam Gambhir,BATTERS,2011,False,Left hand Bat,Legbreak,KKR
+Manvinder Bisla,BATTERS,2011,False,,,KKR
+Wicketkeeper,BATTERS,2011,False,Right hand Bat,,KKR
+Mark Boucher,BATTERS,2011,True,Right hand Bat,Right arm Medium,KKR
+Shreevats Goswami,BATTERS,2011,True,Left hand Bat,,KKR
+Brad Haddin,BATTERS,2011,True,Right hand Bat,,KKR
+Eoin Morgan,BATTERS,2011,False,Left hand Bat,Right arm Medium,KKR
+Manoj Tiwary,BATTERS,"2011,2010",False,Right hand Bat,Legbreak Googly,KKR
+Rajat Bhatia,ALLROUNDERS,2011,False,Right hand Bat,Right arm Medium fast,KKR
+Iqbal Abdulla,ALLROUNDERS,"2011,2010,2008",False,Left hand Bat,Slow Left arm Orthodox,KKR
+Jacques Kallis,ALLROUNDERS,2011,False,Right hand Bat,Right arm Fast medium,KKR
+Yusuf Pathan,ALLROUNDERS,2011,False,Right hand Bat,Right arm Offbreak,KKR
+Shakib Al Hasan,ALLROUNDERS,2011,False,Left hand Bat,Slow Left arm Orthodox,KKR
+Laxmi Shukla,ALLROUNDERS,"2011,2010,2009,2008",False,Right hand Bat,Right arm Medium,KKR
+Ryan ten Doeschate,ALLROUNDERS,2011,False,Right hand Bat,Right arm Medium fast,KKR
+Lakshmipathy Balaji,BOWLERS,2011,False,Right hand Bat,Right arm Medium fast,KKR
+Sarabjit Ladda,BOWLERS,2011,False,Right hand Bat,Legbreak,KKR
+Brett Lee,BOWLERS,2011,False,Right hand Bat,Right arm Fast,KKR
+Mohammed Shami,BOWLERS,2011,False,Right hand Bat,Right arm Fast,KKR
+James Pattinson,BOWLERS,2011,False,Left hand Bat,Right arm Fast medium,KKR
+Pradeep Sangwan,BOWLERS,2011,False,Right hand Bat,Left arm Medium,KKR
+Jaydev Unadkat,BOWLERS,2011,False,Right hand Bat,Left arm Medium,KKR
+Sourav Ganguly,BATTERS,"2010,2009,2008",False,Left hand Bat,Right arm Medium,KKR
+Brad Hodge,BATTERS,"2010,2009,2008",False,Right hand Bat,Right arm Offbreak,KKR
 Harshad Khadiwale,BATTERS,2010,False,Right hand Bat,Right arm Medium fast,KKR
-Cheteshwar Pujara,BATTERS,2010,False,Right hand Bat,Legbreak,KKR
+Brendon McCullum,BATTERS,"2010,2009,2008",True,Right hand Bat,"Right arm Medium, Right arm Offbreak",KKR
+Wriddhiman Saha,BATTERS,"2010,2009,2008",True,Right hand Bat,,KKR
 Owais Shah,BATTERS,2010,False,Right hand Bat,Right arm Offbreak,KKR
-Manoj Tiwary,BATTERS,2010,False,Right hand Bat,Legbreak Googly,KKR
+Chris Gayle,ALLROUNDERS,"2010,2009,2008",False,Left hand Bat,Right arm Offbreak,KKR
+Angelo Mathews,ALLROUNDERS,"2010,2009",False,Right hand Bat,Right arm Medium,KKR
 Ganapathi Vignesh,ALLROUNDERS,2010,False,Right hand Bat,Right arm Medium fast,KKR
 Varun Aaron,BOWLERS,2010,False,Right hand Bat,Right arm Fast,KKR
+Ajit Agarkar,BOWLERS,"2010,2009,2008",False,Right hand Bat,Right arm Fast,KKR
 Shane Bond,BOWLERS,2010,False,Right hand Bat,Right arm Fast,KKR
+Ashok Dinda,BOWLERS,"2010,2009,2008",False,Right hand Bat,Right arm Medium fast,KKR
+Murali Kartik,BOWLERS,"2010,2009,2008",False,Left hand Bat,Slow Left arm Orthodox,KKR
+Charl Langeveldt,BOWLERS,"2010,2009",False,Right hand Bat,Right arm Fast medium,KKR
+Ajantha Mendis,BOWLERS,"2010,2009,2008",False,Right hand Bat,Right arm Offbreak,KKR
+Ishant Sharma,BOWLERS,"2010,2009,2008",False,Right hand Bat,Right arm Fast medium,KKR
 Eklak Ahmid,BOWLERS,2010,False,Left hand Bat,Left arm Medium fast,KKR
 Rohan Gavaskar,BOWLERS,2010,False,Left hand Bat,Slow Left arm Orthodox,KKR
 Chirag Pathak,BOWLERS,2010,False,Left hand Bat,,KKR
+Arindam Ghosh,BATTERS,2009,False,Right hand Bat,Right arm Medium,KKR
+Morne van Wyk,BATTERS,2009,True,Right hand Bat,Slow Left arm Orthodox,KKR
+Moises Henriques,ALLROUNDERS,2009,False,Right hand Bat,Right arm Fast medium,KKR
+David Hussey,ALLROUNDERS,"2009,2008",False,Right hand Bat,Right arm Offbreak,KKR
+Anureet Singh,BOWLERS,2009,False,Right hand Bat,Right arm Medium,KKR
+Mashrafe Mortaza,BOWLERS,2009,False,Right hand Bat,Right arm Fast medium,KKR
+Shoaib Shaikh,BOWLERS,2009,False,Right hand Bat,Right arm Medium,KKR
+Aakash Chopra,BATTERS,2008,False,Right hand Bat,"Right arm Medium, Right arm Offbreak",KKR
+Debabrata Das,BATTERS,2008,False,Right hand Bat,Legbreak Googly,KKR
+Ricky Ponting,BATTERS,2008,False,Right hand Bat,Right arm Medium,KKR
+Salman Butt,BATTERS,2008,False,Left hand Bat,Right arm Offbreak,KKR
+Tatenda Taibu,BATTERS,2008,True,Right hand Bat,Right arm Medium,KKR
+Mohammad Hafeez,ALLROUNDERS,2008,False,Right hand Bat,Right arm Offbreak,KKR
+Siddarth Kaul,BOWLERS,2008,False,Right hand Bat,Right arm Medium,KKR
+Shoaib Akhtar,BOWLERS,2008,False,Right hand Bat,Right arm Fast,KKR
+Umar Gul,BOWLERS,2008,False,Right hand Bat,Right arm Fast medium,KKR

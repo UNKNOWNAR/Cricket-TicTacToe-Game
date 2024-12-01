@@ -1,38 +1,59 @@
 ,PlayerType,YearsPlayed,WicketKeeper,BattingStyle,BowlingStyle,Team
-Virender Sehwag,BATTERS,"2008,2009,2010",False,Right hand Bat,Right arm Offbreak,DC
-AB de Villiers,BATTERS,"2008,2009,2010",True,Right hand Bat,Right arm Medium,DC
-Shikhar Dhawan,BATTERS,2008,False,Left hand Bat,Right arm Offbreak,DC
-Gautam Gambhir,BATTERS,"2008,2009,2010",False,Left hand Bat,Legbreak,DC
-Dinesh Karthik,BATTERS,"2008,2009,2010",True,Right hand Bat,Right arm Offbreak,DC
-Tejashwi Yadav,BATTERS,"2008,2009",False,Right hand Bat,Right arm Bowler,DC
-Rajat Bhatia,ALLROUNDERS,"2008,2010",False,Right hand Bat,Right arm Medium fast,DC
-Tillakaratne Dilshan,ALLROUNDERS,"2008,2009,2010",False,Right hand Bat,Right arm Offbreak,DC
-Farveez Maharoof,ALLROUNDERS,"2008,2009,2010",False,Right hand Bat,Right arm Fast medium,DC
-Yo Mahesh,ALLROUNDERS,"2008,2009,2010",False,Right hand Bat,Right arm Medium fast,DC
-Mithun Manhas,ALLROUNDERS,"2008,2009,2010",False,Right hand Bat,Right arm Offbreak,DC
-Yogesh Nagar,ALLROUNDERS,"2008,2009",False,Right hand Bat,Right arm Offbreak,DC
-Shoaib Malik,ALLROUNDERS,2008,False,Right hand Bat,Right arm Offbreak,DC
-Mayank Tehlan,ALLROUNDERS,2008,False,Right hand Bat,Right arm Offbreak,DC
-Brett Geeves,ALLROUNDERS,2008,False,,,DC
-Bowler,ALLROUNDERS,2008,False,Right hand Bat,Right arm Fast medium,DC
-Glenn McGrath,ALLROUNDERS,"2008,2009",False,Right hand Bat,Right arm Fast medium,DC
-Amit Mishra,ALLROUNDERS,"2008,2009,2010",False,Right hand Bat,Legbreak,DC
-Mohammad Asif,ALLROUNDERS,2008,False,Left hand Bat,Right arm Fast medium,DC
-Pradeep Sangwan,ALLROUNDERS,"2008,2009,2010",False,Right hand Bat,Left arm Medium,DC
-Owais Shah,BATTERS,2009,False,Right hand Bat,Right arm Offbreak,DC
-David Warner,BATTERS,"2009,2010",False,Left hand Bat,Legbreak,DC
-"Rajat Bhatia, profile",BATTERS,2009,False,Right hand Bat,Right arm Medium fast,DC
-Paul Collingwood,BATTERS,"2009,2010",False,Right hand Bat,Right arm Medium,DC
-Andrew McDonald,BATTERS,"2009,2010",False,Right hand Bat,Right arm Fast medium,DC
-Daniel Vettori,BATTERS,2009,False,Left hand Bat,Slow Left arm Orthodox,DC
-Dirk Nannes,BOWLERS,"2009,2010",False,Right hand Bat,Left arm Fast,DC
-Ashish Nehra,BOWLERS,"2009,2010",False,Right hand Bat,Left arm Medium fast,DC
-Aavishkar Salvi,BOWLERS,"2009,2010",False,Right hand Bat,Right arm Medium,DC
-Umesh Yadav,BOWLERS,"2009,2010",False,Right hand Bat,Right arm Fast,DC
+Virender Sehwag,BATTERS,"2011,2010,2009,2008",False,Right hand Bat,Right arm Offbreak,DC
+Travis Birt,BATTERS,2011,False,Left hand Bat,Right arm Medium,DC
+Robin Bist,BATTERS,2011,False,Right hand Bat,Right arm Offbreak,DC
+Unmukt Chand,BATTERS,2011,True,Right hand Bat,Right arm Offbreak,DC
+Aaron Finch,BATTERS,2011,False,Right hand Bat,Slow Left arm Orthodox,DC
+Colin Ingram,BATTERS,2011,False,Left hand Bat,Legbreak,DC
+Prashant Naik,BATTERS,2011,False,Right hand Bat,Legbreak Googly,DC
+Naman Ojha,BATTERS,2011,True,Right hand Bat,,DC
+Sridharan Sriram,BATTERS,2011,False,Left hand Bat,Slow Left arm Orthodox,DC
+Venugopal Rao,BATTERS,2011,False,Right hand Bat,Right arm Offbreak,DC
+Matthew Wade,BATTERS,2011,True,Left hand Bat,Right arm Medium,DC
+David Warner,BATTERS,"2011,2010,2009",False,Left hand Bat,Legbreak,DC
+Tejashwi Yadav,BATTERS,"2011,2009,2008",False,Right hand Bat,Right arm Bowler,DC
+James Hopes,ALLROUNDERS,2011,False,Right hand Bat,Right arm Medium,DC
+Ajit Chandila,ALLROUNDERS,2011,False,Right hand Bat,Right arm Offbreak,DC
+Robbie Frylinck,ALLROUNDERS,2011,False,Right hand Bat,Right arm Medium,DC
+Andrew McDonald,ALLROUNDERS,"2011,2010,2009",False,Right hand Bat,Right arm Fast medium,DC
+Yogesh Nagar,ALLROUNDERS,"2011,2009,2008",False,Right hand Bat,Right arm Offbreak,DC
+Irfan Pathan,ALLROUNDERS,2011,False,Left hand Bat,Left arm Medium fast,DC
+Roelof van der Merwe,ALLROUNDERS,2011,False,Right hand Bat,Slow Left arm Orthodox,DC
+Varun Aaron,BOWLERS,2011,False,Right hand Bat,Right arm Fast,DC
+Ajit Agarkar,BOWLERS,2011,False,Right hand Bat,Right arm Fast,DC
+Ashok Dinda,BOWLERS,2011,False,Right hand Bat,Right arm Medium fast,DC
+Morne Morkel,BOWLERS,2011,False,Left hand Bat,Right arm Fast,DC
+Shahbaz Nadeem,BOWLERS,2011,False,Right hand Bat,Slow Left arm Orthodox,DC
+Rajesh Pawar,BOWLERS,2011,False,Left hand Bat,Slow Left arm Orthodox,DC
+Aavishkar Salvi,BOWLERS,"2011,2010,2009",False,Right hand Bat,Right arm Medium,DC
+Vikas Mishra,BOWLERS,2011,False,Right hand Bat,Slow Left arm Orthodox,DC
+Vivek Yadav,BOWLERS,2011,False,Right hand Bat,Legbreak,DC
+Umesh Yadav,BOWLERS,"2011,2010,2009",False,Right hand Bat,Right arm Fast,DC
+Gautam Gambhir,BATTERS,"2010,2009,2008",False,Left hand Bat,Legbreak,DC
+AB de Villiers,BATTERS,"2010,2009,2008",True,Right hand Bat,Right arm Medium,DC
+Dinesh Karthik,BATTERS,"2010,2009,2008",True,Right hand Bat,Right arm Offbreak,DC
+Rajat Bhatia,ALLROUNDERS,"2010,2009,2008",False,Right hand Bat,Right arm Medium fast,DC
+Paul Collingwood,ALLROUNDERS,"2010,2009",False,Right hand Bat,Right arm Medium,DC
+Tillakaratne Dilshan,ALLROUNDERS,"2010,2009,2008",False,Right hand Bat,Right arm Offbreak,DC
 Moises Henriques,ALLROUNDERS,2010,False,Right hand Bat,Right arm Fast medium,DC
 Kedar Jadhav,ALLROUNDERS,2010,False,Right hand Bat,Right arm Offbreak,DC
+Farveez Maharoof,ALLROUNDERS,"2010,2009,2008",False,Right hand Bat,Right arm Fast medium,DC
+Yo Mahesh,ALLROUNDERS,"2010,2009,2008",False,Right hand Bat,Right arm Medium fast,DC
+Mithun Manhas,ALLROUNDERS,"2010,2009,2008",False,Right hand Bat,Right arm Offbreak,DC
 Sarabjit Ladda,BOWLERS,2010,False,Right hand Bat,Legbreak,DC
+Amit Mishra,BOWLERS,"2010,2009,2008",False,Right hand Bat,Legbreak,DC
+Dirk Nannes,BOWLERS,"2010,2009",False,Right hand Bat,Left arm Fast,DC
+Ashish Nehra,BOWLERS,"2010,2009",False,Right hand Bat,Left arm Medium fast,DC
 Wayne Parnell,BOWLERS,2010,False,Left hand Bat,Left arm Medium fast,DC
+Pradeep Sangwan,BOWLERS,"2010,2009,2008",False,Right hand Bat,Left arm Medium,DC
 Joginder Singh,BOWLERS,2010,False,Right hand Bat,Right arm Medium,DC
 Shashi Ranjan,BOWLERS,2010,False,Right hand Bat,Right arm Offbreak,DC
 Sarandeep Singh,BOWLERS,2010,False,Right hand Bat,Right arm Offbreak,DC
+Owais Shah,BATTERS,2009,False,Right hand Bat,Right arm Offbreak,DC
+Glenn McGrath,BOWLERS,"2009,2008",False,Right hand Bat,Right arm Fast medium,DC
+Shikhar Dhawan,BATTERS,2008,False,Left hand Bat,Right arm Offbreak,DC
+Manoj Tiwary,BATTERS,2008,False,Right hand Bat,Legbreak Googly,DC
+Shoaib Malik,ALLROUNDERS,2008,False,Right hand Bat,Right arm Offbreak,DC
+Mayank Tehlan,ALLROUNDERS,2008,False,Right hand Bat,Right arm Offbreak,DC
+Brett Geeves,BOWLERS,2008,False,Right hand Bat,Right arm Fast medium,DC
+Mohammad Asif,BOWLERS,2008,False,Left hand Bat,Right arm Fast medium,DC

@@ -1,0 +1,282 @@
+BATTERS
+Swapnil Asnodkar
+Swapnil Asnodkar
+Batter
+
+Age:
+27y 8d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Ankeet Chavan picked up 9 for 23
+Ankeet Chavan
+Batter
+
+Age:
+25y 160d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Aakash Chopra portrait
+Aakash Chopra
+Batter
+
+Age:
+33y 199d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium, Right arm Offbreak
+Rahul Dravid player page headshot cutout, 2021
+Rahul Dravid
+Top order Batter
+
+Age:
+38y 85d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Faiz Fazal
+Faiz Fazal
+Opening Batter
+
+Age:
+25y 211d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Medium
+Amit Gajanan Paunikar
+Amit Paunikar
+†
+Wicketkeeper Batter
+
+Age:
+22y 353d
+Batting:
+Right hand Bat
+AM Rahane headshot
+Ajinkya Rahane
+Top order Batter
+
+Age:
+22y 304d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Pinal Shah Player Profile 
+Pinal Shah
+†
+Wicketkeeper Batter
+
+Age:
+23y 154d
+Batting:
+Right hand Bat
+LRPL Taylor headshot
+Ross Taylor
+Middle order Batter
+
+Age:
+27y 29d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Dishant Yagnik
+Dishant Yagnik
+†
+Wicketkeeper
+
+Age:
+27y 288d
+Batting:
+Left hand Bat
+ALLROUNDERS
+STR Binny headshot
+Stuart Binny
+Allrounder
+
+Age:
+26y 307d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Johan Botha player page headshot cutout, 2021
+Johan Botha
+Allrounder
+
+Age:
+28y 339d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Ashok Menaria portrait
+Ashok Menaria
+Allrounder
+
+Age:
+20y 159d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Sumit Narwal profile picture 
+Sumit Narwal
+Allrounder
+
+Age:
+28y 355d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Medium
+Jacob Oram player page headshot cutout, 2021
+Jacob Oram
+Allrounder
+
+Age:
+32y 252d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Fast medium
+AS Raut
+Abhishek Raut
+Allrounder
+
+Age:
+24y 34d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+SR Watson headshot
+Shane Watson
+Allrounder
+
+Age:
+29y 293d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Paul Collingwood player page headshot cutout, 2021
+Paul Collingwood
+Withdrawn
+Allrounder
+
+Age:
+34y 315d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+BOWLERS
+Shane Warne player page headshot cutout, 2021
+Shane Warne
+(c)
+Bowler
+
+Age:
+41y 205d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Deepak Chahar player page headshot cutout, 2021
+Deepak Chahar
+Bowler
+
+Age:
+18y 242d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+AP Dole
+Aditya Dole
+Bowler
+
+Age:
+23y 179d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+Nayan Doshi, player portrait
+Nayan Doshi
+Bowler
+
+Age:
+32y 182d
+Batting:
+Right hand Bat
+Bowling:
+Slow Left arm Orthodox
+Samad Fallah portrait
+Samad Fallah
+Bowler
+
+Age:
+25y 339d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium
+Pankaj Singh portrait
+Pankaj Singh
+Bowler
+
+Age:
+25y 335d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+D Salunkhe
+Dinesh Salunkhe
+Bowler
+
+Age:
+28y 145d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak
+Amit Singh portrait
+Amit Singh
+Bowler
+
+Age:
+29y 289d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+Shaun Tait player page headshot cutout, 2021
+Shaun Tait
+Bowler
+
+Age:
+28y 43d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Siddharth Trivedi portrait
+Siddharth Trivedi
+Bowler
+
+Age:
+28y 214d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium

@@ -1,0 +1,326 @@
+BATTERS
+Yuvraj Singh, player page headshot cutout, 2024
+Yuvraj Singh
+(c)
+Middle order Batter
+
+Age:
+29y 141d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Sourav Ganguly player page headshot cutout, 2021
+Sourav Ganguly
+(vc)
+Batter
+
+Age:
+38y 298d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Medium
+ER Dwivedi
+Eklavya Dwivedi
+†
+Wicketkeeper
+
+Age:
+22y 284d
+Batting:
+Right hand Bat
+Callum Ferguson player page headshot cutout, 2021
+Callum Ferguson
+Middle order Batter
+
+Age:
+26y 162d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Harpreet Singh, player page headshot cutout, 2024
+Harpreet Singh
+Batter
+
+Age:
+19y 264d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Medium
+Dheeraj Jadhav
+Dheeraj Jadhav
+Batter
+
+Age:
+31y 228d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Abhishek Jhunjhunwala
+Abhishek Jhunjhunwala
+Batter
+
+Age:
+28y 152d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Harshad Khadiwale, player profile
+Harshad Khadiwale
+Opening Batter
+
+Age:
+22y 193d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+Monish Mishra
+Mohnish Mishra
+Batter
+
+Age:
+27y 82d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Tim Paine player page headshot cutout, 2021
+Tim Paine
+†
+Wicketkeeper Batter
+
+Age:
+26y 145d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Manish Pandey player page headshot cutout, 2021
+Manish Pandey
+Top order Batter
+
+Age:
+21y 234d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Graeme Smith player page headshot cutout, 2021
+Graeme Smith
+Opening Batter
+
+Age:
+30y 90d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Robin Uthappa player page headshot cutout, 2021
+Robin Uthappa
+Batter
+
+Age:
+25y 172d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+ALLROUNDERS
+JP Faulkner headshot
+James Faulkner
+Bowling Allrounder
+
+Age:
+21y 3d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Fast medium
+Mithun Manhas, player portrait
+Mithun Manhas
+Allrounder
+
+Age:
+31y 202d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Mitchell Marsh, player page headshot cutout, 2021
+Mitchell Marsh
+Allrounder
+
+Age:
+19y 194d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+ShriKant Mundhe
+Shrikant Mundhe
+Allrounder
+
+Age:
+22y 187d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Jesse Ryder player page headshot cutout, 2021
+Jesse Ryder
+Allrounder
+
+Age:
+26y 269d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Medium
+Shrikant Wagh
+Shrikant Wagh
+Allrounder
+
+Age:
+22y 205d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium fast
+Angelo Mathews, player page headshot cutout 2023
+Angelo Mathews
+Withdrawn
+Allrounder
+
+Age:
+23y 334d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+BOWLERS
+GB Gaikwad
+Ganesh Gaikwad
+Bowler
+
+Age:
+23y 149d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Imtiaz Ahmed headshot
+Imtiaz Ahmed
+Bowler
+
+Age:
+25y 173d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Kamran Khan
+Kamran Khan
+Bowler
+
+Age:
+20y 53d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium fast
+Murali Kartik, player portrait
+Murali Kartik
+Bowler
+
+Age:
+34y 233d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Bhuvneshwar Kumar, player portrait
+Bhuvneshwar Kumar
+Bowler
+
+Age:
+21y 86d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+NL McCullum headshot
+Nathan McCullum
+Bowler
+
+Age:
+30y 243d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Ashish Nehra player page headshot cutout, 2021
+Ashish Nehra
+Bowler
+
+Age:
+32y 3d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Medium fast
+WD Parnell headshot
+Wayne Parnell
+Bowler
+
+Age:
+21y 276d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium fast
+Sachin Rana
+Sachin Rana
+Bowler
+
+Age:
+26y 226d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+Rahul Sharma, player portrait
+Rahul Sharma
+Bowler
+
+Age:
+24y 153d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+JE Taylor headshot
+Jerome Taylor
+Bowler
+
+Age:
+26y 314d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Alfonso Thomas, player portrait
+Alfonso Thomas
+Bowler
+
+Age:
+34y 82d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium

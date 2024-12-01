@@ -1,35 +1,45 @@
 ,PlayerType,YearsPlayed,WicketKeeper,BattingStyle,BowlingStyle,Team
-MS Dhoni,BATTERS,"2008,2009,2010",True,Right hand Bat,Right arm Medium,CSK
-Srikkanth Anirudha,BATTERS,2008,False,Right hand Bat,,CSK
-Arun Karthik,BATTERS,"2008,2009,2010",True,Right hand Bat,Legbreak Googly,CSK
-S Badrinath,BATTERS,"2008,2009,2010",False,Right hand Bat,Right arm Offbreak,CSK
-Stephen Fleming,BATTERS,2008,False,Left hand Bat,,CSK
-Matthew Hayden,BATTERS,"2008,2009,2010",False,Left hand Bat,Right arm Medium,CSK
-Michael Hussey,BATTERS,"2008,2010",False,Left hand Bat,Right arm Medium,CSK
-Chamara Kapugedera,BATTERS,2008,False,Right hand Bat,Right arm Medium,CSK
-Abhinav Mukund,BATTERS,2008,False,Left hand Bat,Legbreak Googly,CSK
-Parthiv Patel,BATTERS,"2008,2009,2010",True,Left hand Bat,Right arm Offbreak,CSK
-Suresh Raina,BATTERS,"2008,2009,2010",False,Left hand Bat,Right arm Offbreak,CSK
-Ravichandran Ashwin,ALLROUNDERS,"2008,2009,2010",False,Right hand Bat,Right arm Offbreak,CSK
-Joginder Sharma,ALLROUNDERS,"2008,2009",False,Right hand Bat,Right arm Fast medium,CSK
-Albie Morkel,ALLROUNDERS,"2008,2009,2010",False,Left hand Bat,Right arm Medium fast,CSK
-Lakshmipathy Balaji,BOWLERS,2008,False,Right hand Bat,Right arm Medium fast,CSK
-Manpreet Gony,BOWLERS,"2008,2009,2010",False,Right hand Bat,Right arm Medium,CSK
-Shadab Jakati,BOWLERS,"2008,2009,2010",False,Left hand Bat,Slow Left arm Orthodox,CSK
-Muthiah Muralidaran,BOWLERS,"2008,2009,2010",False,Right hand Bat,Right arm Offbreak,CSK
-Makhaya Ntini,BOWLERS,"2008,2009,2010",False,Right hand Bat,Right arm Fast,CSK
-Palani Amarnath,BOWLERS,"2008,2009",False,Right hand Bat,Right arm Medium,CSK
-Napoleon Einstein,BOWLERS,2008,False,Right hand Bat,Right arm Offbreak,CSK
-Viraj Kadbe,BOWLERS,"2008,2009",False,Right hand Bat,Legbreak,CSK
-Suresh Kumar,BOWLERS,2008,False,Right hand Bat,Right arm Offbreak,CSK
-George Bailey,BATTERS,"2009,2010",False,Right hand Bat,Right arm Medium,CSK
-Murali Vijay,BATTERS,"2009,2010",False,Right hand Bat,Right arm Offbreak,CSK
-Laxmipathy Balaji portrait,ALLROUNDERS,"2009,2010",False,,,CSK
-Bowler,ALLROUNDERS,"2009,2010",False,Right hand Bat,Right arm Medium fast,CSK
-Thilan Thushara,ALLROUNDERS,"2009,2010",False,Left hand Bat,Left arm Fast medium,CSK
-Sudeep Tyagi,ALLROUNDERS,"2009,2010",False,Right hand Bat,Right arm Medium,CSK
+MS Dhoni,BATTERS,"2011,2010,2009,2008",True,Right hand Bat,Right arm Medium,CSK
+Srikkanth Anirudha,BATTERS,"2011,2008",False,Right hand Bat,,CSK
+S Badrinath,BATTERS,"2011,2010,2009,2008",False,Right hand Bat,Right arm Offbreak,CSK
+George Bailey,BATTERS,"2011,2010,2009",False,Right hand Bat,Right arm Medium,CSK
+Faf du Plessis,BATTERS,2011,False,Right hand Bat,Legbreak,CSK
+Michael Hussey,BATTERS,"2011,2010,2008",False,Left hand Bat,Right arm Medium,CSK
+Abhinav Mukund,BATTERS,"2011,2008",False,Left hand Bat,Legbreak Googly,CSK
+Suresh Raina,BATTERS,"2011,2010,2009,2008",False,Left hand Bat,Right arm Offbreak,CSK
+Wriddhiman Saha,BATTERS,2011,True,Right hand Bat,,CSK
+Kuthethurshri Vasudevadas,BATTERS,2011,False,Left hand Bat,Legbreak,CSK
+Murali Vijay,BATTERS,"2011,2010,2009",False,Right hand Bat,Right arm Offbreak,CSK
+Ravichandran Ashwin,ALLROUNDERS,"2011,2010,2009,2008",False,Right hand Bat,Right arm Offbreak,CSK
+Dwayne Bravo,ALLROUNDERS,2011,False,Right hand Bat,Right arm Medium,CSK
+Joginder Sharma,ALLROUNDERS,"2011,2009,2008",False,Right hand Bat,Right arm Fast medium,CSK
+Yo Mahesh,ALLROUNDERS,2011,False,Right hand Bat,Right arm Medium fast,CSK
+Albie Morkel,ALLROUNDERS,"2011,2010,2009,2008",False,Left hand Bat,Right arm Medium fast,CSK
+Scott Styris,ALLROUNDERS,2011,False,Right hand Bat,Right arm Medium,CSK
+Ganapathi Vignesh,ALLROUNDERS,2011,False,Right hand Bat,Right arm Medium fast,CSK
+Doug Bollinger,BOWLERS,"2011,2010",False,Left hand Bat,Left arm Fast medium,CSK
+Ben Hilfenhaus,BOWLERS,2011,False,Right hand Bat,Right arm Fast medium,CSK
+Shadab Jakati,BOWLERS,"2011,2010,2009,2008",False,Left hand Bat,Slow Left arm Orthodox,CSK
+Nuwan Kulasekara,BOWLERS,2011,False,Right hand Bat,Right arm Fast medium,CSK
+Suraj Randiv,BOWLERS,2011,False,Right hand Bat,Right arm Offbreak,CSK
+Tim Southee,BOWLERS,2011,False,Right hand Bat,Right arm Medium fast,CSK
+Arun Karthik,BATTERS,"2010,2009,2008",True,Right hand Bat,Legbreak Googly,CSK
 Hemang Badani,BATTERS,2010,False,Left hand Bat,Slow Left arm Orthodox,CSK
+Matthew Hayden,BATTERS,"2010,2009,2008",False,Left hand Bat,Right arm Medium,CSK
+Parthiv Patel,BATTERS,"2010,2009,2008",True,Left hand Bat,Right arm Offbreak,CSK
 Justin Kemp,ALLROUNDERS,2010,False,Right hand Bat,Right arm Fast medium,CSK
 Thisara Perera,ALLROUNDERS,2010,False,Left hand Bat,Right arm Medium fast,CSK
-Doug Bollinger,ALLROUNDERS,2010,False,Left hand Bat,Left arm Fast medium,CSK
-Chandrasekar Ganapathy,ALLROUNDERS,2010,False,Right hand Bat,Right arm Medium,CSK
+Lakshmipathy Balaji,BOWLERS,"2010,2009,2008",False,Right hand Bat,Right arm Medium fast,CSK
+Manpreet Gony,BOWLERS,"2010,2009,2008",False,Right hand Bat,Right arm Medium,CSK
+Muthiah Muralidaran,BOWLERS,"2010,2009,2008",False,Right hand Bat,Right arm Offbreak,CSK
+Makhaya Ntini,BOWLERS,"2010,2009,2008",False,Right hand Bat,Right arm Fast,CSK
+Thilan Thushara,BOWLERS,"2010,2009",False,Left hand Bat,Left arm Fast medium,CSK
+Chandrasekar Ganapathy,BOWLERS,2010,False,Right hand Bat,Right arm Medium,CSK
+Jacob Oram,ALLROUNDERS,"2009,2008",False,Left hand Bat,Right arm Fast medium,CSK
+Palani Amarnath,BOWLERS,"2009,2008",False,Right hand Bat,Right arm Medium,CSK
+Viraj Kadbe,BOWLERS,"2009,2008",False,Right hand Bat,Legbreak,CSK
+Stephen Fleming,BATTERS,2008,False,Left hand Bat,,CSK
+Chamara Kapugedera,BATTERS,2008,False,Right hand Bat,Right arm Medium,CSK
+Vidyut Sivaramakrishnan,ALLROUNDERS,2008,False,Left hand Bat,Slow Left arm Orthodox,CSK
+Napoleon Einstein,BOWLERS,2008,False,Right hand Bat,Right arm Offbreak,CSK
+Suresh Kumar,BOWLERS,2008,False,Right hand Bat,Right arm Offbreak,CSK

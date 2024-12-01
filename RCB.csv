@@ -1,52 +1,72 @@
 ,PlayerType,YearsPlayed,WicketKeeper,BattingStyle,BowlingStyle,Team
-Rahul Dravid,BATTERS,"2008,2009,2010",False,Right hand Bat,Right arm Offbreak,RCB
-Mark Boucher,BATTERS,"2008,2009,2010",True,Right hand Bat,Right arm Medium,RCB
-Shivnarine Chanderpaul,BATTERS,2008,False,Left hand Bat,Legbreak,RCB
-Bharat Chipli,BATTERS,"2008,2009",False,Right hand Bat,Right arm Medium,RCB
-Shreevats Goswami,BATTERS,"2008,2009,2010",True,Left hand Bat,,RCB
-Wasim Jaffer,BATTERS,"2008,2009",False,Right hand Bat,Right arm Offbreak,RCB
-Virat Kohli,BATTERS,"2008,2009,2010",False,Right hand Bat,Right arm Medium,RCB
-Misbah-ul-Haq,BATTERS,2008,False,Right hand Bat,Legbreak,RCB
-Ross Taylor,BATTERS,"2008,2009,2010",False,Right hand Bat,Right arm Offbreak,RCB
-Cameron White,BATTERS,"2008,2009,2010",False,Right hand Bat,Legbreak Googly,RCB
-Sunil Joshi,ALLROUNDERS,"2008,2009",False,Left hand Bat,Slow Left arm Orthodox,RCB
-Jacques Kallis,ALLROUNDERS,"2008,2009,2010",False,Right hand Bat,Right arm Fast medium,RCB
-Ashley Noffke,ALLROUNDERS,2008,False,Right hand Bat,Right arm Fast medium,RCB
-Abdur Razzak,BOWLERS,2008,False,Left hand Bat,Slow Left arm Orthodox,RCB
-Balachandra Akhil,BOWLERS,"2008,2009,2010",False,Right hand Bat,Right arm Medium fast,RCB
-KP Appanna,BOWLERS,"2008,2009,2010",False,Right hand Bat,Slow Left arm Orthodox,RCB
-Zaheer Khan,BOWLERS,2008,False,Right hand Bat,Left arm Fast medium,RCB
-Praveen Kumar,BOWLERS,"2008,2009,2010",False,Right hand Bat,Right arm Medium,RCB
-Anil Kumble,BOWLERS,"2008,2009,2010",False,Right hand Bat,Legbreak Googly,RCB
-Dale Steyn,BOWLERS,"2008,2009,2010",False,Right hand Bat,Right arm Fast,RCB
-Vinay Kumar,BOWLERS,"2008,2009,2010",False,Right hand Bat,Right arm Medium,RCB
-Neravanda Aiyappa,BOWLERS,2008,False,Right hand Bat,Right arm Medium,RCB
-Jagadeesh Arunkumar,BOWLERS,"2008,2009",False,Right hand Bat,Right arm Offbreak,RCB
-Devraj Patil,BOWLERS,"2008,2009",False,Right hand Bat,,RCB
+Mayank Agarawal,BATTERS,2011,False,Right hand Bat,Right arm Offbreak,RCB
+Arun Karthik,BATTERS,2011,True,Right hand Bat,Legbreak Googly,RCB
+AB de Villiers,BATTERS,2011,True,Right hand Bat,Right arm Medium,RCB
+Chidhambaram Gautam,BATTERS,"2011,2009",True,Right hand Bat,,RCB
+Wicketkeeper,BATTERS,2011,False,Right hand Bat,,RCB
+Mohammad Kaif,BATTERS,2011,False,Right hand Bat,Right arm Offbreak,RCB
+Virat Kohli,BATTERS,"2011,2010,2009,2008",False,Right hand Bat,Right arm Medium,RCB
+Luke Pomersbach,BATTERS,2011,False,Left hand Bat,Right arm Offbreak,RCB
+Cheteshwar Pujara,BATTERS,2011,False,Right hand Bat,Legbreak,RCB
+Rilee Rossouw,BATTERS,2011,False,Left hand Bat,Right arm Offbreak,RCB
+Saurabh Tiwary,BATTERS,2011,False,Left hand Bat,,RCB
+Jonathan Vandiar,BATTERS,2011,False,Left hand Bat,Legbreak,RCB
+Daniel Vettori,ALLROUNDERS,2011,False,Left hand Bat,Slow Left arm Orthodox,RCB
+BN Bharath,ALLROUNDERS,2011,False,Right hand Bat,Right arm Medium,RCB
+Raju Bhatkal,ALLROUNDERS,"2011,2009",False,Right hand Bat,Right arm Medium,RCB
+Tillakaratne Dilshan,ALLROUNDERS,2011,False,Right hand Bat,Right arm Offbreak,RCB
+Chris Gayle,ALLROUNDERS,2011,False,Left hand Bat,Right arm Offbreak,RCB
+Ryan Ninan,ALLROUNDERS,2011,False,Right hand Bat,Right arm Offbreak,RCB
+Johan van der Wath,ALLROUNDERS,2011,False,Right hand Bat,Right arm Medium fast,RCB
+Sreenath Aravind,BOWLERS,"2011,2009",False,Left hand Bat,Left arm Medium fast,RCB
+Nuwan Pradeep,BOWLERS,2011,False,Right hand Bat,Right arm Fast medium,RCB
+Abrar Kazi,BOWLERS,2011,False,Left hand Bat,Slow Left arm Orthodox,RCB
+Zaheer Khan,BOWLERS,"2011,2008",False,Right hand Bat,Left arm Fast medium,RCB
+Charl Langeveldt,BOWLERS,2011,False,Right hand Bat,Right arm Fast medium,RCB
+Abhimanyu Mithun,BOWLERS,"2011,2010,2009",False,Right hand Bat,Right arm Medium,RCB
+Dirk Nannes,BOWLERS,2011,False,Right hand Bat,Left arm Fast,RCB
+Asad Pathan,BOWLERS,2011,False,Right hand Bat,Right arm Medium,RCB
+Jamaluddin Syed Mohammad,BOWLERS,2011,False,Left hand Bat,Slow Left arm Orthodox,RCB
+Mark Boucher,BATTERS,"2010,2009,2008",True,Right hand Bat,Right arm Medium,RCB
+Rahul Dravid,BATTERS,"2010,2009,2008",False,Right hand Bat,Right arm Offbreak,RCB
+Shreevats Goswami,BATTERS,"2010,2009,2008",True,Left hand Bat,,RCB
+Eoin Morgan,BATTERS,2010,False,Left hand Bat,Right arm Medium,RCB
+Manish Pandey,BATTERS,"2010,2009",False,Right hand Bat,Right arm Medium,RCB
+Steven Smith,BATTERS,2010,False,Right hand Bat,Legbreak Googly,RCB
+Sridharan Sriram,BATTERS,2010,False,Left hand Bat,Slow Left arm Orthodox,RCB
+Ross Taylor,BATTERS,"2010,2009,2008",False,Right hand Bat,Right arm Offbreak,RCB
+Robin Uthappa,BATTERS,"2010,2009",False,Right hand Bat,Right arm Medium,RCB
+Cameron White,BATTERS,"2010,2009,2008",False,Right hand Bat,Legbreak Googly,RCB
+Jacques Kallis,ALLROUNDERS,"2010,2009,2008",False,Right hand Bat,Right arm Fast medium,RCB
+Roelof van der Merwe,ALLROUNDERS,"2010,2009",False,Right hand Bat,Slow Left arm Orthodox,RCB
+Anil Kumble,BOWLERS,"2010,2009,2008",False,Right hand Bat,Legbreak Googly,RCB
+Balachandra Akhil,BOWLERS,"2010,2009,2008",False,Right hand Bat,Right arm Medium fast,RCB
+KP Appanna,BOWLERS,"2010,2009,2008",False,Right hand Bat,Slow Left arm Orthodox,RCB
+Bhuvneshwar Kumar,BOWLERS,"2010,2009",False,Right hand Bat,Right arm Medium,RCB
+Praveen Kumar,BOWLERS,"2010,2009,2008",False,Right hand Bat,Right arm Medium,RCB
+Dale Steyn,BOWLERS,"2010,2009,2008",False,Right hand Bat,Right arm Fast,RCB
+Vinay Kumar,BOWLERS,"2010,2009,2008",False,Right hand Bat,Right arm Medium,RCB
+Dillon du Preez,BOWLERS,"2010,2009",False,Right hand Bat,Right arm Fast medium,RCB
 Rajesh Bishnoi,BATTERS,2009,False,Right hand Bat,Right arm Medium fast,RCB
-Chidhambaram Gautam,BATTERS,2009,True,Right hand Bat,,RCB
+Bharat Chipli,BATTERS,"2009,2008",False,Right hand Bat,Right arm Medium,RCB
+Wasim Jaffer,BATTERS,"2009,2008",False,Right hand Bat,Right arm Offbreak,RCB
 Ishank Jaggi,BATTERS,2009,False,Right hand Bat,Legbreak Googly,RCB
-Manish Pandey,BATTERS,"2009,2010",False,Right hand Bat,Right arm Medium,RCB
-Robin Uthappa,BATTERS,"2009,2010",False,Right hand Bat,Right arm Medium,RCB
-Saurabh Bandekar,BATTERS,2009,False,Right hand Bat,Right arm Medium fast,RCB
-Raju Bhatkal,BATTERS,2009,False,Right hand Bat,Right arm Medium,RCB
-Gaurav Dhiman,BATTERS,2009,False,Right hand Bat,Right arm Fast medium,RCB
-Kedar Jadhav,BATTERS,2009,False,Right hand Bat,Right arm Offbreak,RCB
-Jesse Ryder,BATTERS,2009,False,Left hand Bat,Right arm Medium,RCB
-Roelof van der Merwe,BATTERS,"2009,2010",False,Right hand Bat,Slow Left arm Orthodox,RCB
-Sreenath Aravind,BOWLERS,2009,False,Left hand Bat,Left arm Medium fast,RCB
-Nathan Bracken,BOWLERS,2009,False,Right hand Bat,Left arm Fast medium,RCB
-Bhuvneshwar Kumar,BOWLERS,"2009,2010",False,Right hand Bat,Right arm Medium,RCB
-Abhimanyu Mithun,BOWLERS,"2009,2010",False,Right hand Bat,Right arm Medium,RCB
+Saurabh Bandekar,ALLROUNDERS,2009,False,Right hand Bat,Right arm Medium fast,RCB
+Gaurav Dhiman,ALLROUNDERS,2009,False,Right hand Bat,Right arm Fast medium,RCB
+Kedar Jadhav,ALLROUNDERS,2009,False,Right hand Bat,Right arm Offbreak,RCB
+Sunil Joshi,ALLROUNDERS,"2009,2008",False,Left hand Bat,Slow Left arm Orthodox,RCB
+Jesse Ryder,ALLROUNDERS,2009,False,Left hand Bat,Right arm Medium,RCB
 Pankaj Singh,BOWLERS,2009,False,Right hand Bat,Right arm Medium fast,RCB
 Karn Sharma,BOWLERS,2009,False,Left hand Bat,Legbreak Googly,RCB
 Rangaraj Suthesh,BOWLERS,2009,False,Left hand Bat,Left arm Medium,RCB
-Dillon du Preez,BOWLERS,"2009,2010",False,Right hand Bat,Right arm Fast medium,RCB
+Jagadeesh Arunkumar,BOWLERS,"2009,2008",False,Right hand Bat,Right arm Offbreak,RCB
 Udit Patel,BOWLERS,2009,False,Right hand Bat,Right arm Offbreak,RCB
 Jitendra Patil,BOWLERS,2009,False,Right hand Bat,Left arm Medium,RCB
+Devraj Patil,BOWLERS,"2009,2008",False,Right hand Bat,,RCB
 RK Sabharwal,BOWLERS,2009,False,Right hand Bat,,RCB
 Tinu Yohannan,BOWLERS,2009,False,Right hand Bat,Right arm Medium fast,RCB
-Eoin Morgan,BATTERS,2010,False,Left hand Bat,Right arm Medium,RCB
-Kevin Pietersen,BATTERS,2010,False,Right hand Bat,Right arm Offbreak,RCB
-Steven Smith,BATTERS,2010,False,Right hand Bat,Legbreak Googly,RCB
-Sridharan Sriram,BATTERS,2010,False,Left hand Bat,Slow Left arm Orthodox,RCB
+Shivnarine Chanderpaul,BATTERS,2008,False,Left hand Bat,Legbreak,RCB
+Misbah-ul-Haq,BATTERS,2008,False,Right hand Bat,Legbreak,RCB
+Ashley Noffke,ALLROUNDERS,2008,False,Right hand Bat,Right arm Fast medium,RCB
+Abdur Razzak,BOWLERS,2008,False,Left hand Bat,Slow Left arm Orthodox,RCB
+Neravanda Aiyappa,BOWLERS,2008,False,Right hand Bat,Right arm Medium,RCB

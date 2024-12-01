@@ -1,0 +1,282 @@
+BATTERS
+Mahela Jayawardene,  player page headshot cutout, 2021
+Mahela Jayawardene
+(c)
+Batter
+
+Age:
+33y 343d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Deepak Chougule, player portrait
+Deepak Chougule
+Batter
+
+Age:
+27y 34d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Brad Hodge, player portrait
+Brad Hodge
+Top order Batter
+
+Age:
+36y 127d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Michael Klinger player page headshot cutout, 2021
+Michael Klinger
+Batter
+
+Age:
+30y 305d
+Batting:
+Right hand Bat
+VVS Laxman player page headshot cutout, 2023
+VVS Laxman
+Top order Batter
+
+Age:
+36y 185d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Chandan Madan
+Chandan Madan
+†
+Wicketkeeper
+
+Age:
+28y 202d
+Batting:
+Right hand Bat
+Sushant Marathe, player portrait
+Sushant Marathe
+†
+Wicketkeeper
+
+Age:
+25y 201d
+Batting:
+Left hand Bat
+Bowling:
+Legbreak Googly
+BB McCullum headshot
+Brendon McCullum
+†
+Wicketkeeper Batter
+
+Age:
+29y 220d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium, Right arm Offbreak
+Parthiv Patel player page headshot cutout, 2021
+Parthiv Patel
+†
+Wicketkeeper Batter
+
+Age:
+26y 57d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Owais Shah player page headshot cutout, 2021
+Owais Shah
+Batter
+
+Age:
+32y 195d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Steven Smith, player page headshot cutout, 2024
+Steven Smith
+Top order Batter
+
+Age:
+21y 337d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Tanmay Srivastava, player portrait
+Tanmay Srivastava
+Top order Batter
+
+Age:
+21y 179d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Medium
+Yashpal Singh
+Yashpal Singh
+Batter
+
+Age:
+29y 159d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+ALLROUNDERS
+Y Gnaneshwar Rao player portrait
+Gnaneswara Rao
+Allrounder
+
+Age:
+26y 253d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+RV Gomez player portrait
+Raiphi Gomez
+Allrounder
+
+Age:
+25y 201d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+John Hastings player page headshot cutout, 2021
+John Hastings
+Allrounder
+
+Age:
+25y 182d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+RA Jadeja headshot
+Ravindra Jadeja
+Allrounder
+
+Age:
+22y 150d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Kedar Jadhav player page headshot cutout, 2021
+Kedar Jadhav
+Batting Allrounder
+
+Age:
+26y 40d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Steve O'Keefe player page headshot cutout, 2021
+Steve O'Keefe
+Allrounder
+
+Age:
+26y 147d
+Batting:
+Right hand Bat
+Bowling:
+Slow Left arm Orthodox
+Thisara Perera, player page headshot cutout, 2021
+Thisara Perera
+Bowling Allrounder
+
+Age:
+22y 32d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Medium fast
+P Prasanth
+Padmanabhan Prasanth
+Allrounder
+
+Age:
+25y 244d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+BOWLERS
+B Akhil, Portrait
+Balachandra Akhil
+Bowler
+
+Age:
+33y 210d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+Muttiah Muralitharan player page headshot cutout, 2021
+Muthiah Muralidaran
+Bowler
+
+Age:
+39y 18d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Ramesh Powar, player portrait
+Ramesh Powar
+Bowler
+
+Age:
+32y 350d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+RP Singh, player portrait
+RP Singh
+Bowler
+
+Age:
+25y 150d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Fast medium
+S Sreesanth player page headshot cutout, 2021
+Sreesanth
+Bowler
+
+Age:
+28y 88d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Vinay Kumar player page headshot cutout, 2021
+Vinay Kumar
+Bowler
+
+Age:
+27y 82d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Prasanth Parameswaran, profile photo
+Prasanth Parameswaran
+Age:
+25y 340d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Medium
