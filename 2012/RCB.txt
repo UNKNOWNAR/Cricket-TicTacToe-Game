@@ -1,0 +1,318 @@
+BATTERS
+Mayank Agarawal, player portrait
+Mayank Agarawal
+Batter
+
+Age:
+21y 79d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Arun Karthik, player portrait
+Arun Karthik
+†
+Wicketkeeper Batter
+
+Age:
+26y 80d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+AB de Villiers headshot
+AB de Villiers
+†
+Wicketkeeper Batter
+
+Age:
+28y 78d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Chidhambaram Gautam
+Chidhambaram Gautam
+†
+Wicketkeeper
+
+Age:
+26y 58d
+Batting:
+Right hand Bat
+Mohammad Kaif player page headshot cutout, 2021
+Mohammad Kaif
+Batter
+
+Age:
+31y 156d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+V Kohli headshot
+Virat Kohli
+Top order Batter
+
+Age:
+23y 182d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Karun Nair player page headshot cutout, 2021
+Karun Nair
+Top order Batter
+
+Age:
+20y 151d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Luke Pomersbach, player portrait
+Luke Pomersbach
+Batter
+
+Age:
+27y 220d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Cheteshwar Pujara player page headshot cutout, 2021
+Cheteshwar Pujara
+Top order Batter
+
+Age:
+24y 101d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak
+RR Rossouw headshot
+Rilee Rossouw
+Top order Batter
+
+Age:
+22y 209d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Saurabh Tiwary player page headshot cutout, 2021
+Saurabh Tiwary
+Top order Batter
+
+Age:
+22y 127d
+Batting:
+Left hand Bat
+ALLROUNDERS
+DL Vettori headshot
+Daniel Vettori
+(c)
+Allrounder
+
+Age:
+33y 99d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+RR Bhatkal
+Raju Bhatkal
+Allrounder
+
+Age:
+26y 247d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Tillakaratne Dilshan,  player page headshot cutout, 2021
+Tillakaratne Dilshan
+Allrounder
+
+Age:
+35y 204d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+CH Gayle headshot
+Chris Gayle
+Allrounder
+
+Age:
+32y 227d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Andrew McDonald, player portrait
+Andrew McDonald
+Allrounder
+
+Age:
+30y 335d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+R Ninan
+Ryan Ninan
+Allrounder
+
+Age:
+26y 168d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+BOWLERS
+KP Appanna, profile
+KP Appanna
+Bowler
+
+Age:
+23y 137d
+Batting:
+Right hand Bat
+Bowling:
+Slow Left arm Orthodox
+AA Kazi
+Abrar Kazi
+Bowler
+
+Age:
+22y 219d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Zaheer Khan player page headshot cutout, 2021
+Zaheer Khan
+Bowler
+
+Age:
+33y 210d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Fast medium
+Charl Langeveldt player page headshot cutout, 2021
+Charl Langeveldt
+Bowler
+
+Age:
+37y 140d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Abhimanyu Mithun portrait
+Abhimanyu Mithun
+Bowler
+
+Age:
+22y 193d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Muttiah Muralitharan player page headshot cutout, 2021
+Muthiah Muralidaran
+Bowler
+
+Age:
+40y 18d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Dirk Nannes, player portrait
+Dirk Nannes
+Bowler
+
+Age:
+35y 355d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Fast
+Harshal Patel, player page headshot cutout, 2024
+Harshal Patel
+Bowler
+
+Age:
+21y 164d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+AUK Pathan
+Asad Pathan
+Bowler
+
+Age:
+27y 323d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+JS Mohammad player portrait 
+Jamaluddin Syed Mohammad
+Bowler
+
+Age:
+28y 337d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Vinay Kumar player page headshot cutout, 2021
+Vinay Kumar
+Bowler
+
+Age:
+28y 83d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Sreenath Aravind, player portrait
+Sreenath Aravind
+Withdrawn
+Bowler
+
+Age:
+28y 27d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium fast
+Prasanth Parameswaran, profile photo
+Prasanth Parameswaran
+Age:
+26y 341d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Medium
+S Thiyagarajan
+S Thiyagarajan
+Age:
+27y 192d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Vijay Zol
+Vijay Zol
+Age:
+17y 164d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak

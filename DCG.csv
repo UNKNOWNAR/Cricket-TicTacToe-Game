@@ -1,32 +1,45 @@
 ,PlayerType,YearsPlayed,WicketKeeper,BattingStyle,BowlingStyle,Team
-Kumar Sangakkara,BATTERS,2011,True,Left hand Bat,Right arm Offbreak,DCG
-Bharat Chipli,BATTERS,2011,False,Right hand Bat,Right arm Medium,DCG
-Kedar Devdhar,BATTERS,2011,False,,,DCG
-Wicketkeeper,BATTERS,"2011,2009",False,Right hand Bat,,DCG
-Shikhar Dhawan,BATTERS,2011,False,Left hand Bat,Right arm Offbreak,DCG
-Ishank Jaggi,BATTERS,2011,False,Right hand Bat,Legbreak Googly,DCG
+Kumar Sangakkara,BATTERS,"2012,2011",True,Left hand Bat,Right arm Offbreak,DCG
+Darren Bravo,BATTERS,2012,False,Left hand Bat,Right arm Medium,DCG
+Bharat Chipli,BATTERS,"2012,2011",False,Right hand Bat,Right arm Medium,DCG
+Kedar Devdhar,BATTERS,"2012,2011",False,,,DCG
+Wicketkeeper,BATTERS,"2012,2011,2009",False,Right hand Bat,,DCG
+Shikhar Dhawan,BATTERS,"2012,2011",False,Left hand Bat,Right arm Offbreak,DCG
+Ishank Jaggi,BATTERS,"2012,2011",False,Right hand Bat,Legbreak Googly,DCG
+Abhishek Jhunjhunwala,BATTERS,2012,False,Right hand Bat,Right arm Offbreak,DCG
+Chris Lynn,BATTERS,"2012,2011",False,Right hand Bat,Slow Left arm Orthodox,DCG
+Tanmay Mishra,BATTERS,2012,False,Right hand Bat,Right arm Fast medium,DCG
+Parthiv Patel,BATTERS,2012,True,Left hand Bat,Right arm Offbreak,DCG
+Dwaraka Ravi Teja,BATTERS,"2012,2011,2010,2009,2008",False,Right hand Bat,Legbreak Googly,DCG
+Akshath Reddy,BATTERS,2012,False,Right hand Bat,Legbreak,DCG
+Sunny Sohal,BATTERS,"2012,2011",False,Right hand Bat,Legbreak,DCG
+Tanmay Srivastava,BATTERS,2012,False,Left hand Bat,Right arm Medium,DCG
+Cameron White,BATTERS,"2012,2011",False,Right hand Bat,Legbreak Googly,DCG
+Arjun Yadav,BATTERS,"2012,2011,2010,2009,2008",False,Right hand Bat,Right arm Offbreak,DCG
+Ashish Reddy,ALLROUNDERS,"2012,2011,2010",False,Right hand Bat,Right arm Medium,DCG
+Dan Christian,ALLROUNDERS,"2012,2011",False,Right hand Bat,Right arm Fast medium,DCG
+Jean-Paul Duminy,ALLROUNDERS,"2012,2011",False,Left hand Bat,Right arm Offbreak,DCG
+Biplab Samantray,ALLROUNDERS,2012,False,Right hand Bat,Right arm Medium,DCG
+Anand Rajan,BOWLERS,"2012,2011",False,Right hand Bat,Right arm Medium,DCG
+Ankit Sharma,BOWLERS,"2012,2011",False,Left hand Bat,Slow Left arm Orthodox,DCG
+Tekkami Atchuta Rao,BOWLERS,2012,False,Left hand Bat,Left arm Medium,DCG
+Akash Bhandari,BOWLERS,"2012,2011",False,Right hand Bat,Legbreak,DCG
+Manpreet Gony,BOWLERS,"2012,2011",False,Right hand Bat,Right arm Medium,DCG
+Amit Mishra,BOWLERS,"2012,2011",False,Right hand Bat,Legbreak,DCG
+Dale Steyn,BOWLERS,"2012,2011",False,Right hand Bat,Right arm Fast,DCG
+Rusty Theron,BOWLERS,"2012,2011",False,Right hand Bat,Right arm Medium fast,DCG
+Daniel Harris,BOWLERS,2012,False,Right hand Bat,Right arm Medium,DCG
+Veer Pratap Singh,BOWLERS,2012,False,Right hand Bat,Right arm Medium,DCG
+Syed Quadri,BOWLERS,2012,False,Right hand Bat,Right arm Offbreak,DCG
+Sneha Kishore,BOWLERS,2012,False,Right hand Bat,Slow Left arm Orthodox,DCG
+TP Sudhindra,BOWLERS,2012,False,Left hand Bat,Right arm Fast,DCG
 Michael Lumb,BATTERS,2011,False,Left hand Bat,Right arm Medium,DCG
-Chris Lynn,BATTERS,2011,False,Right hand Bat,Slow Left arm Orthodox,DCG
 Kevin Pietersen,BATTERS,2011,False,Right hand Bat,Right arm Offbreak,DCG
-Dwaraka Ravi Teja,BATTERS,"2011,2010,2009,2008",False,Right hand Bat,Legbreak Googly,DCG
 Jaydev Shah,BATTERS,2011,False,Left hand Bat,Right arm Offbreak,DCG
-Sunny Sohal,BATTERS,2011,False,Right hand Bat,Legbreak,DCG
-Cameron White,BATTERS,2011,False,Right hand Bat,Legbreak Googly,DCG
-Arjun Yadav,BATTERS,"2011,2010,2009,2008",False,Right hand Bat,Right arm Offbreak,DCG
-Ashish Reddy,ALLROUNDERS,"2011,2010",False,Right hand Bat,Right arm Medium,DCG
-Dan Christian,ALLROUNDERS,2011,False,Right hand Bat,Right arm Fast medium,DCG
-Jean-Paul Duminy,ALLROUNDERS,2011,False,Left hand Bat,Right arm Offbreak,DCG
-Anand Rajan,BOWLERS,2011,False,Right hand Bat,Right arm Medium,DCG
-Ankit Sharma,BOWLERS,2011,False,Left hand Bat,Slow Left arm Orthodox,DCG
-Akash Bhandari,BOWLERS,2011,False,Right hand Bat,Legbreak,DCG
-Manpreet Gony,BOWLERS,2011,False,Right hand Bat,Right arm Medium,DCG
 Harmeet Singh,BOWLERS,"2011,2010,2009",False,Right hand Bat,Right arm Medium,DCG
 Ishan Malhotra,BOWLERS,2011,False,Right hand Bat,Right arm Medium fast,DCG
-Amit Mishra,BOWLERS,2011,False,Right hand Bat,Legbreak,DCG
 Pragyan Ojha,BOWLERS,"2011,2010,2009,2008",False,Left hand Bat,Slow Left arm Orthodox,DCG
 Ishant Sharma,BOWLERS,2011,False,Right hand Bat,Right arm Fast medium,DCG
-Dale Steyn,BOWLERS,2011,False,Right hand Bat,Right arm Fast,DCG
-Rusty Theron,BOWLERS,2011,False,Right hand Bat,Right arm Medium fast,DCG
 Adam Gilchrist,BATTERS,"2010,2009,2008",True,Left hand Bat,Right arm Offbreak,DCG
 Herschelle Gibbs,BATTERS,"2010,2009,2008",False,Right hand Bat,Right arm Bowler,DCG
 VVS Laxman,BATTERS,"2010,2009,2008",False,Right hand Bat,Right arm Offbreak,DCG

@@ -1,0 +1,308 @@
+BATTERS
+Mahela Jayawardene,  player page headshot cutout, 2021
+Mahela Jayawardene
+(c)
+Batter
+
+Age:
+35y 310d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Gulam Bodi
+Gulam Bodi
+Opening Batter
+
+Age:
+34y 88d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Wrist spin
+Unmukt Chand, player portrait
+Unmukt Chand
+†
+Wicketkeeper Batter
+
+Age:
+20y 7d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Bharat Chipli lifted Deccan Chargers to a hefty total of 175
+Bharat Chipli
+Batter
+
+Age:
+30y 65d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Chidhambaram Gautam
+Chidhambaram Gautam
+†
+Wicketkeeper
+
+Age:
+27y 25d
+Batting:
+Right hand Bat
+Manpreet Juneja portrait
+Manprit Juneja
+Top order Batter
+
+Age:
+22y 202d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Naman Ojha player page headshot cutout, 2021
+Naman Ojha
+†
+Wicketkeeper Batter
+
+Age:
+29y 256d
+Batting:
+Right hand Bat
+Ben Rohrer, player portrait
+Ben Rohrer
+Middle order Batter
+
+Age:
+32y 7d
+Batting:
+Left hand Bat
+Virender Sehwag player page headshot cutout, 2021
+Virender Sehwag
+Top order Batter
+
+Age:
+34y 164d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Y Venugopala Rao portrait
+Venugopal Rao
+Middle order Batter
+
+Age:
+31y 35d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+DA Warner headshot
+David Warner
+Opening Batter
+
+Age:
+26y 157d
+Batting:
+Left hand Bat
+Bowling:
+Legbreak
+Kevin Pietersen player page headshot cutout, 2021
+Kevin Pietersen
+Withdrawn
+Top order Batter
+
+Age:
+32y 279d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+ALLROUNDERS
+Johan Botha player page headshot cutout, 2021
+Johan Botha
+Allrounder
+
+Age:
+30y 335d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Kedar Jadhav player page headshot cutout, 2021
+Kedar Jadhav
+Batting Allrounder
+
+Age:
+28y 7d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+BMAJ Mendis headshot
+Jeevan Mendis
+Allrounder
+
+Age:
+30y 77d
+Batting:
+Left hand Bat
+Bowling:
+Legbreak
+Y Nagar
+Yogesh Nagar
+Allrounder
+
+Age:
+23y 86d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Irfan Pathan player page headshot cutout, 2021
+Irfan Pathan
+Allrounder
+
+Age:
+28y 157d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium fast
+AD Russell headshot
+Andre Russell
+Allrounder
+
+Age:
+24y 338d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Roelof van der Merwe portrait and headshot, 2023
+Roelof van der Merwe
+Bowling Allrounder
+
+Age:
+28y 92d
+Batting:
+Right hand Bat
+Bowling:
+Slow Left arm Orthodox
+Jesse Ryder player page headshot cutout, 2021
+Jesse Ryder
+Withdrawn
+Allrounder
+
+Age:
+28y 239d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Medium
+BOWLERS
+Ajit Agarkar player page headshot cutout, 2021
+Ajit Agarkar
+Bowler
+
+Age:
+35y 119d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Siddarth Kaul player page headshot cutout, 2021
+Siddarth Kaul
+Bowler
+
+Age:
+22y 318d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+M Morkel headshot
+Morne Morkel
+Bowler
+
+Age:
+28y 178d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Fast
+Shahbaz Nadeem player page headshot cutout, 2021
+Shahbaz Nadeem
+Bowler
+
+Age:
+23y 233d
+Batting:
+Right hand Bat
+Bowling:
+Slow Left arm Orthodox
+Pawan Negi player page headshot cutout, 2021
+Pawan Negi
+Bowler
+
+Age:
+20y 86d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Ashish Nehra player page headshot cutout, 2021
+Ashish Nehra
+Bowler
+
+Age:
+33y 338d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Medium fast
+UT Yadav headshot
+Umesh Yadav
+Bowler
+
+Age:
+25y 159d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Varun Aaron player page headshot cutout, 2021
+Varun Aaron
+Withdrawn
+Bowler
+
+Age:
+23y 155d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+RH Dias
+Royston Dias
+Age:
+20y 62d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium
+SS Nayak
+Sujit Nayak
+Age:
+23y 283d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+AS Singhvi
+Aristh Singhvi
+Age:
+20y 306d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox

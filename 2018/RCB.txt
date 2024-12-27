@@ -1,0 +1,257 @@
+BATTERS
+V Kohli headshot
+Virat Kohli
+(c)
+Top order Batter
+
+Age:
+29y 84d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Q de Kock headshot
+Quinton de Kock
+†
+Wicketkeeper Batter
+
+Age:
+25y 42d
+Batting:
+Left hand Bat
+AB de Villiers headshot
+AB de Villiers
+†
+Wicketkeeper Batter
+
+Age:
+33y 345d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+AA Joshi
+Aniruddha Joshi
+Middle order Batter
+
+Age:
+30y 82d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Sarfaraz Khan, player portrait
+Sarfaraz Khan
+Middle order Batter
+
+Age:
+20y 98d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak
+BB McCullum headshot
+Brendon McCullum
+†
+Wicketkeeper Batter
+
+Age:
+36y 123d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium, Right arm Offbreak
+Parthiv Patel player page headshot cutout, 2021
+Parthiv Patel
+†
+Wicketkeeper Batter
+
+Age:
+32y 325d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Manan Vohra, player portrait
+Manan Vohra
+Opening Batter
+
+Age:
+24y 194d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+ALLROUNDERS
+Moeen Ali cutout
+Moeen Ali
+Batting Allrounder
+
+Age:
+30y 224d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Corey Anderson portrait
+Corey Anderson
+Batting Allrounder
+
+Age:
+27y 46d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium fast
+Colin de Grandhomme player page headshot cutout, 2021
+Colin de Grandhomme
+Allrounder
+
+Age:
+31y 190d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+Pavan Deshpande player portrait
+Pavan Deshpande
+Allrounder
+
+Age:
+28y 134d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Mandeep Singh player page headshot cutout, 2021
+Mandeep Singh
+Allrounder
+
+Age:
+26y 41d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Washington Sundar player page headshot cutout, 2021
+Washington Sundar
+Bowling Allrounder
+
+Age:
+18y 115d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+CR Woakes headshot
+Chris Woakes
+Allrounder
+
+Age:
+28y 332d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+NM Coulter-Nile headshot
+Nathan Coulter-Nile
+Withdrawn
+Bowling Allrounder
+
+Age:
+30y 109d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+BOWLERS
+M Ashwin, player portrait
+Murugan Ashwin
+Bowler
+
+Age:
+27y 142d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Yuzvendra Chahal player page headshot cutout, 2021
+Yuzvendra Chahal
+Bowler
+
+Age:
+27y 189d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Aniket Choudhary portrait
+Aniket Choudhary
+Bowler
+
+Age:
+28y
+Batting:
+Right hand Bat
+Bowling:
+Left arm Medium
+Kulwant Khejroliya, player page headshot cutout 2023
+Kulwant Khejroliya
+Bowler
+
+Age:
+25y 321d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium fast
+Mohammed Siraj player page headshot cutout, 2021
+Mohammed Siraj
+Bowler
+
+Age:
+23y 321d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Pawan Negi player page headshot cutout, 2021
+Pawan Negi
+Bowler
+
+Age:
+25y 22d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Navdeep Saini player page headshot cutout, 2021
+Navdeep Saini
+Bowler
+
+Age:
+25y 66d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Tim Southee portrait
+Tim Southee
+Bowler
+
+Age:
+29y 48d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+UT Yadav headshot
+Umesh Yadav
+Bowler
+
+Age:
+30y 95d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast

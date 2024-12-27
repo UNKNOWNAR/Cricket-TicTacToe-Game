@@ -1,0 +1,325 @@
+BATTERS
+ER Dwivedi
+Eklavya Dwivedi
+†
+Wicketkeeper
+
+Age:
+24y 250d
+Batting:
+Right hand Bat
+AJ Finch headshot
+Aaron Finch
+Top order Batter
+
+Age:
+26y 132d
+Batting:
+Right hand Bat
+Bowling:
+Slow Left arm Orthodox
+Harpreet Singh, player page headshot cutout, 2024
+Harpreet Singh
+Batter
+
+Age:
+21y 230d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Medium
+Dheeraj Jadhav
+Dheeraj Jadhav
+Batter
+
+Age:
+33y 194d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Manish Pandey player page headshot cutout, 2021
+Manish Pandey
+Top order Batter
+
+Age:
+23y 200d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Mahesh Rawat
+Mahesh Rawat
+†
+Wicketkeeper Batter
+
+Age:
+27y 155d
+Batting:
+Right hand Bat
+MN Samuels headshot
+Marlon Samuels
+Top order Batter
+
+Age:
+32y 52d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Steven Smith, player page headshot cutout, 2024
+Steven Smith
+Top order Batter
+
+Age:
+23y 300d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+T Suman portrait
+Tirumalasetti Suman
+Batter
+
+Age:
+29y 104d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Tamim Iqbal, player page headshot cutout, 2024
+Tamim Iqbal
+Opening Batter
+
+Age:
+24y 9d
+Batting:
+Left hand Bat
+LRPL Taylor headshot
+Ross Taylor
+Middle order Batter
+
+Age:
+29y 21d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Robin Uthappa player page headshot cutout, 2021
+Robin Uthappa
+Batter
+
+Age:
+27y 138d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Luke Wright player page headshot cutout, 2021
+Luke Wright
+Top order Batter
+
+Age:
+28y 22d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Yuvraj Singh, player page headshot cutout, 2024
+Yuvraj Singh
+Middle order Batter
+
+Age:
+31y 107d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+MJ Clarke headshot
+Michael Clarke
+Withdrawn
+Middle order Batter
+
+Age:
+31y 361d
+Batting:
+Right hand Bat
+Bowling:
+Slow Left arm Orthodox
+ALLROUNDERS
+Angelo Mathews, player page headshot cutout 2023
+Angelo Mathews
+(c)
+Allrounder
+
+Age:
+25y 300d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+RV Gomez player portrait
+Raiphi Gomez
+Allrounder
+
+Age:
+27y 164d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Mithun Manhas, player portrait
+Mithun Manhas
+Allrounder
+
+Age:
+33y 168d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Mitchell Marsh, player page headshot cutout, 2021
+Mitchell Marsh
+Allrounder
+
+Age:
+21y 160d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Abhishek Nayar, player portrait
+Abhishek Nayar
+Allrounder
+
+Age:
+29y 172d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Medium
+Parvez Rasool player page headshot cutout, 2021
+Parvez Rasool
+Bowling Allrounder
+
+Age:
+24y 44d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Shrikant Wagh
+Shrikant Wagh
+Allrounder
+
+Age:
+24y 171d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium fast
+BOWLERS
+Ashok Dinda portrait
+Ashok Dinda
+Bowler
+
+Age:
+29y 4d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+Bhuvneshwar Kumar, player portrait
+Bhuvneshwar Kumar
+Bowler
+
+Age:
+23y 52d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Ajantha Mendis player page headshot cutout, 2021
+Ajantha Mendis
+Bowler
+
+Age:
+28y 18d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+AG Murtaza
+Ali Murtaza
+Bowler
+
+Age:
+23y 87d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Ishwar Pandey
+Ishwar Pandey
+Bowler
+
+Age:
+23y 226d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+WD Parnell headshot
+Wayne Parnell
+Bowler
+
+Age:
+23y 242d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium fast
+Kane Richardson player page headshot cutout, 2021
+Kane Richardson
+Bowler
+
+Age:
+22y 45d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Rahul Sharma, player portrait
+Rahul Sharma
+Bowler
+
+Age:
+26y 119d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Udit Birla player portrait
+Udit Birla
+Age:
+23y 132d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Anustup Majumdar, player portrait
+Anustup Majumdar
+Age:
+28y 333d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Krishnakant Upadhyay player portrait
+Krishnakant Upadhyay
+Age:
+26y 284d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium

@@ -1,0 +1,301 @@
+BATTERS
+Rohit Sharma, player page headshot cutout, 2024
+Rohit Sharma
+(c)
+Top order Batter
+
+Age:
+25y 311d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Aiden Blizzard, player portrait
+Aiden Blizzard
+Batter
+
+Age:
+28y 253d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium
+Phillip Hughes player page headshot cutout, 2021
+Phillip Hughes
+Opening Batter
+
+Age:
+24y 97d
+Batting:
+Left hand Bat
+Dinesh Karthik player page headshot cutout, 2021
+Dinesh Karthik
+†
+Wicketkeeper Batter
+
+Age:
+27y 279d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Sushant Marathe, player portrait
+Sushant Marathe
+†
+Wicketkeeper
+
+Age:
+27y 142d
+Batting:
+Left hand Bat
+Bowling:
+Legbreak Googly
+AT Rayudu headshot
+Ambati Rayudu
+Middle order Batter
+
+Age:
+27y 165d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Aditya Tare portrait
+Aditya Tare
+†
+Wicketkeeper
+
+Age:
+25y 120d
+Batting:
+Right hand Bat
+SR Tendulkar headshot
+Sachin Tendulkar
+Top order Batter
+
+Age:
+39y 317d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak, Legbreak Googly
+Suryakumar Yadav player page headshot cutout 2021
+Suryakumar Yadav
+Batter
+
+Age:
+22y 174d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium, Right arm Offbreak
+ALLROUNDERS
+Amitoze Singh's Mumbai Indians profile April 19, 2013 
+Amitoze Singh
+Allrounder
+
+Age:
+24y 21d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+NM Coulter-Nile headshot
+Nathan Coulter-Nile
+Bowling Allrounder
+
+Age:
+25y 147d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Rishi Dhawan, player page headshot cutout, 2024
+Rishi Dhawan
+Allrounder
+
+Age:
+23y 16d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+James Franklin player page headshot cutout, 2021
+James Franklin
+Allrounder
+
+Age:
+32y 120d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium
+Jalaj Saxena
+Jalaj Saxena
+Allrounder
+
+Age:
+26y 82d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak, Legbreak Googly
+Glenn Maxwell, player portrait
+Glenn Maxwell
+Batting Allrounder
+
+Age:
+24y 144d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Jacob Oram player page headshot cutout, 2021
+Jacob Oram
+Allrounder
+
+Age:
+34y 222d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Fast medium
+Axar Patel player page headshot cutout 2021
+Axar Patel
+Allrounder
+
+Age:
+19y 46d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Kieron Pollard player page headshot cutout, 2021
+Kieron Pollard
+Batting Allrounder
+
+Age:
+25y 299d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+DR Smith headshot
+Dwayne Smith
+Allrounder
+
+Age:
+29y 329d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+BOWLERS
+Abu Nechim Ahmed
+Abu Nechim
+Bowler
+
+Age:
+24y 122d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+Jasprit Bumrah player page headshot cutout, 2021
+Jasprit Bumrah
+Bowler
+
+Age:
+19y 91d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Yuzvendra Chahal player page headshot cutout, 2021
+Yuzvendra Chahal
+Bowler
+
+Age:
+22y 227d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Harbhajan Singh player page headshot cutout, 2021
+Harbhajan Singh
+Bowler
+
+Age:
+32y 247d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+MG Johnson headshot
+Mitchell Johnson
+Bowler
+
+Age:
+31y 125d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Fast
+DS Kulkarni headshot
+Dhawal Kulkarni
+Bowler
+
+Age:
+24y 87d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+SL Malinga headshot
+Lasith Malinga
+Bowler
+
+Age:
+29y 191d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Pragyan Ojha player page headshot cutout, 2021
+Pragyan Ojha
+Bowler
+
+Age:
+26y 183d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Munaf Patel player page headshot cutout, 2021
+Munaf Patel
+Bowler
+
+Age:
+29y 238d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+Pawan Suyal's Mumbai Indians profile April 19, 2013 
+Pawan Suyal
+Bowler
+
+Age:
+23y 143d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Medium
+Javed Khan's Mumbai Indians profile April 19, 2013 
+Javed Khan
+Age:
+19y 240d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium

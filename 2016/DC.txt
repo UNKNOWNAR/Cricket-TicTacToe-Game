@@ -1,0 +1,251 @@
+BATTERS
+Mayank Agarawal, player portrait
+Mayank Agarawal
+Batter
+
+Age:
+24y 355d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Sam Billings player page headshot cutout, 2021
+Sam Billings
+†
+Wicketkeeper Batter
+
+Age:
+24y 236d
+Batting:
+Right hand Bat
+Q de Kock headshot
+Quinton de Kock
+†
+Wicketkeeper Batter
+
+Age:
+23y 51d
+Batting:
+Left hand Bat
+Akhil Herwadkar
+Akhil Herwadkar
+Opening Batter
+
+Age:
+21y 98d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Shreyas Iyer player page headshot cutout, 2021
+Shreyas Iyer
+Top order Batter
+
+Age:
+21y 62d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak, Legbreak Googly
+Karun Nair player page headshot cutout, 2021
+Karun Nair
+Top order Batter
+
+Age:
+24y 62d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Rishabh Pant player page headshot cutout, 2021
+Rishabh Pant
+†
+Wicketkeeper Batter
+
+Age:
+18y 125d
+Batting:
+Left hand Bat
+Sanju Samson player page headshot cutout, 2021
+Sanju Samson
+†
+Wicketkeeper Batter
+
+Age:
+21y 87d
+Batting:
+Right hand Bat
+ALLROUNDERS
+Carlos Brathwaite player page headshot cutout, 2021
+Carlos Brathwaite
+Allrounder
+
+Age:
+27y 203d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+NM Coulter-Nile headshot
+Nathan Coulter-Nile
+Bowling Allrounder
+
+Age:
+28y 118d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+JP Duminy headshot
+Jean-Paul Duminy
+Batting Allrounder
+
+Age:
+31y 298d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Mahipal Lomror portrait
+Mahipal Lomror
+Allrounder
+
+Age:
+16y 82d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Chris Morris player page headshot cutout, 2021
+Chris Morris
+Bowling Allrounder
+
+Age:
+28y 282d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+BOWLERS
+Zaheer Khan player page headshot cutout, 2021
+Zaheer Khan
+(c)
+Bowler
+
+Age:
+37y 121d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Fast medium
+Khaleel Ahmed player page headshot cutout, 2021
+Khaleel Ahmed
+Bowler
+
+Age:
+18y 63d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Fast medium
+Imran Tahir headshot
+Imran Tahir
+Bowler
+
+Age:
+36y 316d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Chama Milind, player page headshot cutout 2022
+Chama Milind
+Bowler
+
+Age:
+21y 155d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium
+Amit Mishra player page headshot cutout, 2021
+Amit Mishra
+Bowler
+
+Age:
+33y 74d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak
+Mohammed Shami, player portrait
+Mohammed Shami
+Bowler
+
+Age:
+25y 156d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Shahbaz Nadeem player page headshot cutout, 2021
+Shahbaz Nadeem
+Bowler
+
+Age:
+26y 178d
+Batting:
+Right hand Bat
+Bowling:
+Slow Left arm Orthodox
+Pawan Negi player page headshot cutout, 2021
+Pawan Negi
+Bowler
+
+Age:
+23y 31d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Pratyush Singh
+Pratyush Singh
+Bowler
+
+Age:
+21y 155d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Pawan Suyal's Mumbai Indians profile April 19, 2013 
+Pawan Suyal
+Bowler
+
+Age:
+26y 114d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Medium
+Jayant Yadav player page headshot cutout, 2021
+Jayant Yadav
+Bowler
+
+Age:
+26y 15d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Joel Paris, player portrait
+Joel Paris
+Withdrawn
+Bowler
+
+Age:
+23y 57d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Fast medium

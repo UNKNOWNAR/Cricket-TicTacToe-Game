@@ -1,0 +1,288 @@
+BATTERS
+Tim David, player page headshot cutout 2022
+Tim David
+Middle order Batter
+
+Age:
+27y 278d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Harvik Desai, player page headshot cutout, 2024
+Harvik Desai
+†
+Wicketkeeper Batter
+
+Age:
+24y 76d
+Batting:
+Right hand Bat
+Ishan Kishan player page headshot cutout 2021
+Ishan Kishan
+†
+Wicketkeeper Batter
+
+Age:
+25y 154d
+Batting:
+Left hand Bat
+Bowling:
+Legbreak
+Naman Dhir, player page headshot cutout, 2024
+Naman Dhir
+Top order Batter
+
+Age:
+23y 353d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Shivalik Sharma, player page headshot cutout, 2024
+Shivalik Sharma
+Batter
+
+Age:
+25y 21d
+Batting:
+Left hand Bat
+Bowling:
+Legbreak Googly
+Rohit Sharma, player page headshot cutout, 2024
+Rohit Sharma
+Top order Batter
+
+Age:
+36y 233d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Nehal Wadhera, player page headshot cutout, 2024
+Nehal Wadhera
+Top order Batter
+
+Age:
+23y 106d
+Batting:
+Left hand Bat
+Bowling:
+Legbreak
+Suryakumar Yadav player page headshot cutout 2021
+Suryakumar Yadav
+Batter
+
+Age:
+33y 96d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium, Right arm Offbreak
+Vishnu Vinod, player page headshot cutout 2023
+Vishnu Vinod
+†
+Withdrawn
+Wicketkeeper Batter
+
+Age:
+30y 17d
+Batting:
+Right hand Bat
+ALLROUNDERS
+Hardik Pandya, player portrait
+Hardik Pandya
+(c)
+Allrounder
+
+Age:
+30y 69d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+Dewald Brevis, player page headshot cutout 2022
+Dewald Brevis
+Batting Allrounder
+
+Age:
+20y 234d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak
+Piyush Chawla player page headshot cutout, 2021
+Piyush Chawla
+Bowling Allrounder
+
+Age:
+34y 360d
+Batting:
+Left hand Bat
+Bowling:
+Legbreak
+Shreyas Gopal player page headshot cutout, 2021
+Shreyas Gopal
+Allrounder
+
+Age:
+30y 106d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak
+Anshul Kamboj, player page headshot cutout, 2024
+Anshul Kamboj
+Allrounder
+
+Age:
+23y 13d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Mohammad Nabi portrait
+Mohammad Nabi
+Allrounder
+
+Age:
+38y 352d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Shams Mulani, player page headshot cutout, 2024
+Shams Mulani
+Allrounder
+
+Age:
+26y 281d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Romario Shepherd player page headshot cutout, 2021
+Romario Shepherd
+Bowling Allrounder
+
+Age:
+29y 23d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Tilak Varma, player page headshot cutout, 2024
+Tilak Varma
+Batting Allrounder
+
+Age:
+21y 41d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+BOWLERS
+Jasprit Bumrah player page headshot cutout, 2021
+Jasprit Bumrah
+Bowler
+
+Age:
+30y 13d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Gerald Coetzee, player page headshot cutout 2022
+Gerald Coetzee
+Bowler
+
+Age:
+23y 78d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Kumar Kartikeya, player page headshot cutout 2023
+Kumar Kartikeya
+Bowler
+
+Age:
+25y 358d
+Batting:
+Right hand Bat
+Bowling:
+Slow Left arm Orthodox, Left arm Wrist spin
+Akash Madhwal, player page headshot cutout, 2024
+Akash Madhwal
+Bowler
+
+Age:
+30y 24d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+Kwena Maphaka, player portrait
+Kwena Maphaka
+Bowler
+
+Age:
+17y 255d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Fast
+Arjun Tendulkar, player page headshot cutout 2023
+Arjun Tendulkar
+Bowler
+
+Age:
+24y 86d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium fast
+Nuwan Thushara, player portrait
+Nuwan Thushara
+Bowler
+
+Age:
+29y 135d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+Luke Wood player page headshot cutout, 2021
+Luke Wood
+Bowler
+
+Age:
+28y 139d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Fast medium
+Jason Behrendorff player page headshot cutout, 2021
+Jason Behrendorff
+Withdrawn
+Bowler
+
+Age:
+33y 243d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Fast medium
+Notes: Injured
+
+Dilshan Madushanka, player page headshot cutout 2022
+Dilshan Madushanka
+Withdrawn
+Bowler
+
+Age:
+23y 92d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Fast medium

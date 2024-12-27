@@ -1,0 +1,273 @@
+BATTERS
+Shreyas Iyer player page headshot cutout, 2021
+Shreyas Iyer
+(c)
+Top order Batter
+
+Age:
+23y 53d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak, Legbreak Googly
+
+Gautam Gambhir player page headshot cutout, 2021
+Gautam Gambhir
+Top order Batter
+
+Age:
+36y 106d
+Batting:
+Left hand Bat
+Bowling:
+Legbreak
+Gurkeerat Singh player page headshot cutout, 2021
+Gurkeerat Singh Mann
+Middle order Batter
+
+Age:
+27y 213d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Manjot Kalra portrait
+Manjot Kalra
+Opening Batter
+
+Age:
+19y 13d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Bowler
+Colin Munro player page headshot cutout, 2021
+Colin Munro
+Opening Batter
+
+Age:
+30y 323d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Medium fast
+Naman Ojha player page headshot cutout, 2021
+Naman Ojha
+†
+Wicketkeeper Batter
+
+Age:
+34y 192d
+Batting:
+Right hand Bat
+Rishabh Pant player page headshot cutout, 2021
+Rishabh Pant
+†
+Wicketkeeper Batter
+
+Age:
+20y 116d
+Batting:
+Left hand Bat
+Jason Roy player page headshot cutout, 2021
+Jason Roy
+Opening Batter
+
+Age:
+27y 191d
+Batting:
+Right hand Bat
+Prithvi Shaw player page headshot cutout, 2021
+Prithvi Shaw
+Opening Batter
+
+Age:
+18y 80d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+ALLROUNDERS
+Abhishek Sharma, player page headshot cutout 2023
+Abhishek Sharma
+Allrounder
+
+Age:
+17y 146d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Dan Christian player page headshot cutout, 2024
+Dan Christian
+Allrounder
+
+Age:
+34y 269d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Glenn Maxwell, player portrait
+Glenn Maxwell
+Batting Allrounder
+
+Age:
+29y 106d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Vijay Shankar player page headshot cutout, 2021
+Vijay Shankar
+Allrounder
+
+Age:
+27y 2d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Rahul Tewatia player page headshot cutout, 2021
+Rahul Tewatia
+Bowling Allrounder
+
+Age:
+24y 253d
+Batting:
+Left hand Bat
+Bowling:
+Legbreak
+Chris Morris player page headshot cutout, 2021
+Chris Morris
+Withdrawn
+Bowling Allrounder
+
+Age:
+30y 273d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+BOWLERS
+Avesh Khan player page headshot cutout, 2021
+Avesh Khan
+Bowler
+
+Age:
+21y 46d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Trent Boult portrait
+Trent Boult
+Bowler
+
+Age:
+28y 190d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Fast medium
+Junior Dala player page headshot cutout, 2021
+Junior Dala
+Bowler
+
+Age:
+28y 30d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+SS Ghosh
+Sayan Ghosh
+Bowler
+
+Age:
+25y 134d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Sandeep Lamichhane player headshot
+Sandeep Lamichhane
+Bowler
+
+Age:
+17y 179d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Amit Mishra player page headshot cutout, 2021
+Amit Mishra
+Bowler
+
+Age:
+35y 65d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak
+Mohammed Shami, player portrait
+Mohammed Shami
+Bowler
+
+Age:
+27y 147d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Shahbaz Nadeem player page headshot cutout, 2021
+Shahbaz Nadeem
+Bowler
+
+Age:
+28y 169d
+Batting:
+Right hand Bat
+Bowling:
+Slow Left arm Orthodox
+Harshal Patel, player page headshot cutout, 2024
+Harshal Patel
+Bowler
+
+Age:
+27y 66d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Liam Plunkett player page headshot cutout, 2021
+Liam Plunkett
+Bowler
+
+Age:
+32y 297d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Jayant Yadav player page headshot cutout, 2021
+Jayant Yadav
+Bowler
+
+Age:
+28y 6d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Kagiso Rabada player page headshot cutout, 2021
+Kagiso Rabada
+Withdrawn
+Bowler
+
+Age:
+22y 248d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Fast

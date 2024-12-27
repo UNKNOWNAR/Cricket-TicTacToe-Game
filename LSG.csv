@@ -1,0 +1,56 @@
+,PlayerType,YearsPlayed,WicketKeeper,BattingStyle,BowlingStyle,Team
+Abdul Samad,BATTERS,2025,False,Right hand Bat,Legbreak,LSG
+Ayush Badoni,BATTERS,"2025,2024,2023,2022",False,Right hand Bat,Right arm Offbreak,LSG
+Matthew Breetzke,BATTERS,2025,False,Right hand Bat,,LSG
+Aryan Juyal,BATTERS,2025,True,Right hand Bat,,LSG
+Aiden Markram,BATTERS,2025,False,Right hand Bat,Right arm Offbreak,LSG
+David Miller,BATTERS,2025,False,Left hand Bat,Right arm Offbreak,LSG
+Rishabh Pant,BATTERS,2025,True,Left hand Bat,,LSG
+Nicholas Pooran,BATTERS,"2025,2024,2023",True,Left hand Bat,Right arm Offbreak,LSG
+Yuvraj Chaudhary,ALLROUNDERS,2025,False,Left hand Bat,Slow Left arm Orthodox,LSG
+Rajvardhan Hangargekar,ALLROUNDERS,2025,False,Right hand Bat,Right arm Fast medium,LSG
+Arshin Kulkarni,ALLROUNDERS,"2025,2024",False,Right hand Bat,Right arm Medium,LSG
+Mitchell Marsh,ALLROUNDERS,2025,False,Right hand Bat,Right arm Medium,LSG
+Shahbaz Ahmed,ALLROUNDERS,2025,False,Left hand Bat,Slow Left arm Orthodox,LSG
+Akash Deep,BOWLERS,2025,False,Right hand Bat,Right arm Fast medium,LSG
+Akash Singh,BOWLERS,2025,False,Right hand Bat,Left arm Medium fast,LSG
+Avesh Khan,BOWLERS,"2025,2023,2022",False,Right hand Bat,Right arm Fast medium,LSG
+Shamar Joseph,BOWLERS,"2025,2024",False,Left hand Bat,Right arm Fast,LSG
+Mohsin Khan,BOWLERS,"2025,2024,2023,2022",False,Left hand Bat,Left arm Medium fast,LSG
+Prince Yadav,BOWLERS,2025,False,Right hand Bat,Right arm Fast,LSG
+Ravi Bishnoi,BOWLERS,"2025,2024,2023,2022",False,Right hand Bat,Legbreak Googly,LSG
+Manimaran Siddharth,BOWLERS,"2025,2024",False,Right hand Bat,Slow Left arm Orthodox,LSG
+Digvesh Rathi,BOWLERS,2025,False,Right hand Bat,Legbreak,LSG
+KL Rahul,BATTERS,"2024,2023,2022",True,Right hand Bat,,LSG
+Quinton de Kock,BATTERS,"2024,2023,2022",True,Left hand Bat,,LSG
+Devdutt Padikkal,BATTERS,2024,False,Left hand Bat,Right arm Offbreak,LSG
+Ashton Turner,BATTERS,2024,False,Right hand Bat,Right arm Offbreak,LSG
+Krishnappa Gowtham,ALLROUNDERS,"2024,2023,2022",False,Right hand Bat,Right arm Offbreak,LSG
+Deepak Hooda,ALLROUNDERS,"2024,2023,2022",False,Right hand Bat,Right arm Offbreak,LSG
+Prerak Mankad,ALLROUNDERS,"2024,2023",False,Right hand Bat,Right arm Medium,LSG
+Kyle Mayers,ALLROUNDERS,"2024,2023,2022",False,Left hand Bat,Right arm Medium,LSG
+Krunal Pandya,ALLROUNDERS,"2024,2023,2022",False,Left hand Bat,Slow Left arm Orthodox,LSG
+Marcus Stoinis,ALLROUNDERS,"2024,2023,2022",False,Right hand Bat,Right arm Medium,LSG
+Arshad Khan,BOWLERS,2024,False,Left hand Bat,Left arm Medium,LSG
+Matt Henry,BOWLERS,2024,False,Right hand Bat,Right arm Fast medium,LSG
+Amit Mishra,BOWLERS,"2024,2023",False,Right hand Bat,Legbreak,LSG
+Naveen-ul-Haq,BOWLERS,"2024,2023",False,Right hand Bat,Right arm Medium fast,LSG
+Yash Thakur,BOWLERS,"2024,2023",False,Right hand Bat,Right arm Fast medium,LSG
+Yudhvir Singh,BOWLERS,"2024,2023",False,Right hand Bat,Right arm Medium fast,LSG
+Manan Vohra,BATTERS,"2023,2022",False,Right hand Bat,Right arm Medium,LSG
+Withdrawn,BATTERS,2023,False,Right hand Bat,,LSG
+ALLROUNDERS,BATTERS,2023,False,,,LSG
+Daniel Sams,BATTERS,2023,False,Right hand Bat,Left arm Fast medium,LSG
+Karan Sharma,BATTERS,"2023,2022",False,Right hand Bat,Right arm Offbreak,LSG
+Romario Shepherd,BATTERS,2023,False,Right hand Bat,Right arm Fast medium,LSG
+Arpit Guleria,BOWLERS,2023,False,Right hand Bat,Right arm Medium,LSG
+Swapnil Singh,BOWLERS,2023,False,Right hand Bat,Slow Left arm Orthodox,LSG
+Jaydev Unadkat,BOWLERS,2023,False,Right hand Bat,Left arm Medium,LSG
+Evin Lewis,BATTERS,2022,False,Left hand Bat,,LSG
+Manish Pandey,BATTERS,2022,False,Right hand Bat,Right arm Medium,LSG
+Jason Holder,ALLROUNDERS,2022,False,Right hand Bat,Right arm Medium fast,LSG
+Dushmantha Chameera,BOWLERS,2022,False,Right hand Bat,Right arm Fast,LSG
+Shahbaz Nadeem,BOWLERS,2022,False,Right hand Bat,Slow Left arm Orthodox,LSG
+Ankit Rajpoot,BOWLERS,2022,False,Right hand Bat,Right arm Medium,LSG
+Andrew Tye,BOWLERS,2022,False,Right hand Bat,Right arm Medium fast,LSG
+Mayank Yadav,BOWLERS,2022,False,Right hand Bat,Right arm Fast,LSG

@@ -1,27 +1,179 @@
 ,PlayerType,YearsPlayed,WicketKeeper,BattingStyle,BowlingStyle,Team
-Adam Gilchrist,BATTERS,2011,True,Left hand Bat,Right arm Offbreak,PBKS
-Siddharth Chitnis,BATTERS,2011,False,Right hand Bat,Right arm Offbreak,PBKS
-Paras Dogra,BATTERS,2011,False,Right hand Bat,Legbreak,PBKS
+Josh Inglis,BATTERS,2025,True,Right hand Bat,,PBKS
+Shreyas Iyer,BATTERS,2025,False,Right hand Bat,"Right arm Offbreak, Legbreak Googly",PBKS
+Prabhsimran Singh,BATTERS,"2025,2024,2023,2022,2021,2020,2019",True,Right hand Bat,,PBKS
+Vishnu Vinod,BATTERS,2025,True,Right hand Bat,,PBKS
+Nehal Wadhera,BATTERS,2025,False,Left hand Bat,Legbreak,PBKS
+Azmatullah Omarzai,ALLROUNDERS,2025,False,Right hand Bat,Right arm Medium fast,PBKS
+Aaron Hardie,ALLROUNDERS,2025,False,Right hand Bat,Right arm Medium fast,PBKS
+Marco Jansen,ALLROUNDERS,2025,False,Right hand Bat,Left arm Medium fast,PBKS
+Musheer Khan,ALLROUNDERS,2025,False,Right hand Bat,Slow Left arm Orthodox,PBKS
+Shashank Singh,ALLROUNDERS,"2025,2024",False,Right hand Bat,"Right arm Medium, Right arm Offbreak",PBKS
+Suryansh Shedge,ALLROUNDERS,2025,False,Right hand Bat,,PBKS
+"Arshdeep Singh, player portrait",ALLROUNDERS,2025,False,,,PBKS
+Bowler,ALLROUNDERS,2025,False,Left hand Bat,Left arm Medium fast,PBKS
+Xavier Bartlett,ALLROUNDERS,2025,False,Right hand Bat,Right arm Fast medium,PBKS
+Yuzvendra Chahal,ALLROUNDERS,2025,False,Right hand Bat,Legbreak Googly,PBKS
+Praveen Dubey,ALLROUNDERS,2025,False,Right hand Bat,Legbreak Googly,PBKS
+Lockie Ferguson,ALLROUNDERS,2025,False,Right hand Bat,Right arm Fast,PBKS
+Harpreet Brar,ALLROUNDERS,"2025,2024,2023,2022,2021,2020,2019",False,Left hand Bat,Slow Left arm Orthodox,PBKS
+Kuldeep Sen,ALLROUNDERS,2025,False,Right hand Bat,Right arm Fast,PBKS
+Vijaykumar Vyshak,ALLROUNDERS,2025,False,Right hand Bat,Right arm Medium,PBKS
+Yash Thakur,ALLROUNDERS,2025,False,Right hand Bat,Right arm Fast medium,PBKS
+Priyansh Arya,ALLROUNDERS,2025,False,Left hand Bat,Right arm Offbreak,PBKS
+Pyla Avinash,ALLROUNDERS,2025,False,Right hand Bat,Right arm Medium fast,PBKS
+Harnoor Singh,ALLROUNDERS,2025,False,Left hand Bat,Legbreak,PBKS
+Shikhar Dhawan,BATTERS,"2024,2023,2022",False,Left hand Bat,Right arm Offbreak,PBKS
+Harpreet Singh,BATTERS,2024,False,Left hand Bat,Right arm Medium,PBKS
+Rilee Rossouw,BATTERS,2024,False,Left hand Bat,Right arm Offbreak,PBKS
+Jitesh Sharma,BATTERS,"2024,2023,2022",True,Right hand Bat,,PBKS
+Jonny Bairstow,BATTERS,"2024,2023,2022",True,Right hand Bat,Right arm Medium,PBKS
+Withdrawn,BATTERS,"2024,2023",False,Right hand Bat,Right arm Medium,PBKS
+Rishi Dhawan,ALLROUNDERS,"2024,2023,2022,2016,2015,2014,2008",False,Right hand Bat,Right arm Medium fast,PBKS
+Ashutosh Sharma,ALLROUNDERS,2024,False,Right hand Bat,,PBKS
+Shivam Singh,ALLROUNDERS,2024,False,Right hand Bat,Right arm Offbreak,PBKS
+Sikandar Raza,ALLROUNDERS,"2024,2023",False,Right hand Bat,"Right arm Offbreak, Legbreak",PBKS
+Atharva Taide,ALLROUNDERS,"2024,2023,2022",False,Left hand Bat,Slow Left arm Orthodox,PBKS
+Arshdeep Singh,BOWLERS,"2024,2023,2022,2021,2020,2019",False,Left hand Bat,Left arm Medium fast,PBKS
+Rahul Chahar,BOWLERS,"2024,2023,2022",False,Right hand Bat,Legbreak Googly,PBKS
+Nathan Ellis,BOWLERS,"2024,2023,2022,2021",False,Right hand Bat,Right arm Fast medium,PBKS
+Vidwath Kaverappa,BOWLERS,"2024,2023",False,Right hand Bat,Right arm Fast medium,PBKS
+Harshal Patel,BOWLERS,2024,False,Right hand Bat,Right arm Medium,PBKS
+Tanay Thyagarajan,BOWLERS,2024,False,Left hand Bat,Slow Left arm Orthodox,PBKS
+Kagiso Rabada,BOWLERS,"2024,2023,2022",False,Left hand Bat,Right arm Fast,PBKS
+"Prince Choudhary, player page headshot cutout, 2024",BOWLERS,2024,False,Right hand Bat,Legbreak,PBKS
+Vishwanath Singh,BOWLERS,2024,False,Right hand Bat,Right arm Offbreak,PBKS
+Chris Hurley,BATTERS,2023,False,,,PBKS
+"Harpreet Singh, player page headshot cutout, 2024",BATTERS,2023,False,Left hand Bat,Right arm Medium,PBKS
+Bhanuka Rajapaksa,BATTERS,"2023,2022",False,Left hand Bat,Right arm Medium,PBKS
+M Shahrukh Khan,BATTERS,"2023,2022,2021",False,Right hand Bat,Right arm Offbreak,PBKS
+Matthew Short,BATTERS,2023,False,Right hand Bat,Right arm Offbreak,PBKS
+Sam Curran,ALLROUNDERS,"2023,2019",False,Left hand Bat,Left arm Medium fast,PBKS
+Liam Livingstone,ALLROUNDERS,"2023,2022",False,Right hand Bat,"Right arm Offbreak, Legbreak",PBKS
+Mohit Rathee,ALLROUNDERS,2023,False,Right hand Bat,Legbreak,PBKS
+Baltej Singh,BOWLERS,"2023,2022",False,Right hand Bat,Right arm Medium,PBKS
+Gurnoor Brar,BOWLERS,2023,False,Left hand Bat,Right arm Fast,PBKS
+Mayank Agarawal,BATTERS,"2022,2021,2020,2019,2018",False,Right hand Bat,Right arm Offbreak,PBKS
+"Raj Bawa, player page headshot cutout 2022",BATTERS,2022,False,Left hand Bat,Right arm Medium fast,PBKS
+Writtick Chatterjee,BATTERS,2022,False,Right hand Bat,Right arm Offbreak,PBKS
+Benny Howell,BATTERS,2022,False,Right hand Bat,Right arm Medium,PBKS
+Prerak Mankad,BATTERS,2022,False,Right hand Bat,Right arm Medium,PBKS
+Odean Smith,BATTERS,2022,False,Right hand Bat,Right arm Fast medium,PBKS
+Vaibhav Arora,BOWLERS,2022,False,Right hand Bat,Right arm Fast medium,PBKS
+Ansh Patel,BOWLERS,2022,False,Right hand Bat,Left arm Wrist spin,PBKS
+Ishan Porel,BOWLERS,"2022,2021,2020",False,Right hand Bat,Right arm Medium,PBKS
+Sandeep Sharma,BOWLERS,"2022,2017,2016,2015,2014,2013",False,Right hand Bat,Right arm Medium,PBKS
+KL Rahul,BATTERS,"2021,2020,2019,2018",True,Right hand Bat,,PBKS
+Sarfaraz Khan,BATTERS,"2021,2020,2019",False,Right hand Bat,Legbreak,PBKS
+Aiden Markram,BATTERS,2021,False,Right hand Bat,Right arm Offbreak,PBKS
+Nicholas Pooran,BATTERS,"2021,2020,2019",True,Left hand Bat,Right arm Offbreak,PBKS
+Fabian Allen,ALLROUNDERS,2021,False,Right hand Bat,Slow Left arm Orthodox,PBKS
+Moises Henriques,ALLROUNDERS,"2021,2019",False,Right hand Bat,Right arm Fast medium,PBKS
+Deepak Hooda,ALLROUNDERS,"2021,2020",False,Right hand Bat,Right arm Offbreak,PBKS
+Jalaj Saxena,ALLROUNDERS,2021,False,Right hand Bat,"Right arm Offbreak, Legbreak Googly",PBKS
+Mandeep Singh,ALLROUNDERS,"2021,2020,2019,2014,2013,2012,2011",False,Right hand Bat,Right arm Medium,PBKS
+Saurabh Kumar,ALLROUNDERS,2021,False,Left hand Bat,Slow Left arm Orthodox,PBKS
+Utkarsh Singh,ALLROUNDERS,2021,False,Left hand Bat,Right arm Offbreak,PBKS
+Murugan Ashwin,BOWLERS,"2021,2020,2019",False,Right hand Bat,Legbreak Googly,PBKS
+Chris Jordan,BOWLERS,"2021,2020",False,Right hand Bat,Right arm Fast medium,PBKS
+Mohammed Shami,BOWLERS,"2021,2020,2019",False,Right hand Bat,Right arm Fast,PBKS
+Darshan Nalkande,BOWLERS,"2021,2020,2019",False,Right hand Bat,Right arm Fast medium,PBKS
+Adil Rashid,BOWLERS,2021,False,Right hand Bat,Legbreak,PBKS
+Ravi Bishnoi,BOWLERS,"2021,2020",False,Right hand Bat,Legbreak Googly,PBKS
+Karun Nair,BATTERS,"2020,2019,2018",False,Right hand Bat,Right arm Offbreak,PBKS
+CH Gayle headshot,BATTERS,2020,False,Left hand Bat,Right arm Offbreak,PBKS
+Krishnappa Gowtham,BATTERS,2020,False,Right hand Bat,Right arm Offbreak,PBKS
+James Neesham,BATTERS,2020,False,Left hand Bat,Right arm Medium fast,PBKS
+Tajinder Singh,BATTERS,2020,False,Right hand Bat,Right arm Offbreak,PBKS
+Sheldon Cottrell,BOWLERS,2020,False,Right hand Bat,Left arm Fast medium,PBKS
+Mujeeb Ur Rahman,BOWLERS,"2020,2019,2018",False,Right hand Bat,Right arm Offbreak,PBKS
+Jagadeesha Suchith,BOWLERS,2020,False,Left hand Bat,Slow Left arm Orthodox,PBKS
+Hardus Viljoen,BOWLERS,"2020,2019",False,Right hand Bat,Right arm Fast,PBKS
+David Miller,BATTERS,"2019,2018,2017,2016,2015,2014,2013,2012,2011",False,Left hand Bat,Right arm Offbreak,PBKS
+"R Ashwin, player portrait",BATTERS,2019,False,,,PBKS
+(c),BATTERS,2019,False,Right hand Bat,Right arm Offbreak,PBKS
+Chris Gayle,BATTERS,"2019,2018",False,Left hand Bat,Right arm Offbreak,PBKS
+Agnivesh Ayachi,BOWLERS,2019,False,Right hand Bat,Right arm Medium,PBKS
+Ankit Rajpoot,BOWLERS,"2019,2018",False,Right hand Bat,Right arm Medium,PBKS
+Andrew Tye,BOWLERS,"2019,2018",False,Right hand Bat,Right arm Medium fast,PBKS
+Varun Chakravarthy,BOWLERS,2019,False,Right hand Bat,Legbreak Googly,PBKS
+Aaron Finch,BATTERS,2018,False,Right hand Bat,Slow Left arm Orthodox,PBKS
+Manzoor Dar,BATTERS,2018,False,Right hand Bat,Right arm Offbreak,PBKS
+Akshdeep Nath,BATTERS,2018,False,Right hand Bat,Right arm Medium fast,PBKS
+Manoj Tiwary,BATTERS,2018,False,Right hand Bat,Legbreak Googly,PBKS
+Yuvraj Singh,BATTERS,"2018,2010,2009,2008",False,Left hand Bat,Slow Left arm Orthodox,PBKS
+Ravichandran Ashwin,ALLROUNDERS,2018,False,Right hand Bat,Right arm Offbreak,PBKS
+Axar Patel,ALLROUNDERS,"2018,2017,2016,2015,2014",False,Left hand Bat,Slow Left arm Orthodox,PBKS
+Pardeep Sahu,ALLROUNDERS,"2018,2017,2016",False,Right hand Bat,Legbreak Googly,PBKS
+Mayank Dagar,BOWLERS,2018,False,Right hand Bat,Slow Left arm Orthodox,PBKS
+Ben Dwarshuis,BOWLERS,2018,False,Left hand Bat,Left arm Fast medium,PBKS
+Mohit Sharma,BOWLERS,"2018,2017,2016",False,Right hand Bat,Right arm Medium,PBKS
+Barinder Sran,BOWLERS,2018,False,Left hand Bat,Left arm Medium,PBKS
+Hashim Amla,BATTERS,"2017,2016",False,Right hand Bat,"Right arm Medium, Right arm Offbreak",PBKS
+Armaan Jaffer,BATTERS,"2017,2016",False,Right hand Bat,Right arm Offbreak,PBKS
+Martin Guptill,BATTERS,2017,False,Right hand Bat,Right arm Offbreak,PBKS
+Gurkeerat Singh Mann,BATTERS,"2017,2016,2015,2014,2013,2012",False,Right hand Bat,Right arm Offbreak,PBKS
+Eoin Morgan,BATTERS,2017,False,Left hand Bat,Right arm Medium,PBKS
+Nikhil Naik,BATTERS,"2017,2016,2015",True,Right hand Bat,,PBKS
+Wriddhiman Saha,BATTERS,"2017,2016,2015,2014",True,Right hand Bat,,PBKS
+Rinku Singh,BATTERS,2017,False,Left hand Bat,Right arm Offbreak,PBKS
+Manan Vohra,BATTERS,"2017,2016,2015,2014,2013",False,Right hand Bat,Right arm Medium,PBKS
+Daren Sammy,ALLROUNDERS,2017,False,Right hand Bat,Right arm Medium,PBKS
+Rahul Tewatia,ALLROUNDERS,2017,False,Left hand Bat,Legbreak,PBKS
+Varun Aaron,BOWLERS,2017,False,Right hand Bat,Right arm Fast,PBKS
+Anureet Singh,BOWLERS,"2017,2016,2015,2014",False,Right hand Bat,Right arm Medium,PBKS
+KC Cariappa,BOWLERS,"2017,2016",False,Right hand Bat,Legbreak,PBKS
+Matt Henry,BOWLERS,2017,False,Right hand Bat,Right arm Fast medium,PBKS
+T Natarajan,BOWLERS,2017,False,Left hand Bat,Left arm Medium,PBKS
+Ishant Sharma,BOWLERS,2017,False,Right hand Bat,Right arm Fast medium,PBKS
+Swapnil Singh,BOWLERS,"2017,2016",False,Right hand Bat,Slow Left arm Orthodox,PBKS
+Murali Vijay,BATTERS,"2016,2015",False,Right hand Bat,Right arm Offbreak,PBKS
+Farhaan Behardien,ALLROUNDERS,2016,False,Right hand Bat,Right arm Fast medium,PBKS
+Kyle Abbott,BOWLERS,"2016,2012",False,Right hand Bat,Right arm Fast medium,PBKS
+Mitchell Johnson,BOWLERS,"2016,2015,2014",False,Left hand Bat,Left arm Fast,PBKS
+Shardul Thakur,BOWLERS,"2016,2015,2014",False,Right hand Bat,Right arm Medium,PBKS
+George Bailey,BATTERS,"2015,2014",False,Right hand Bat,Right arm Medium,PBKS
+Shaun Marsh,BATTERS,"2015,2014,2013,2012,2011,2010,2009,2008",False,Left hand Bat,Slow Left arm Orthodox,PBKS
+Virender Sehwag,BATTERS,"2015,2014",False,Right hand Bat,Right arm Offbreak,PBKS
+Glenn Maxwell,ALLROUNDERS,"2015,2014",False,Right hand Bat,Right arm Offbreak,PBKS
+Thisara Perera,ALLROUNDERS,"2015,2014",False,Left hand Bat,Right arm Medium fast,PBKS
+Parvinder Awana,BOWLERS,"2015,2014,2013,2012",False,Right hand Bat,Right arm Medium,PBKS
+Beuran Hendricks,BOWLERS,"2015,2014",False,Left hand Bat,Left arm Fast medium,PBKS
+Yogesh Golwalkar,BOWLERS,2015,False,Left hand Bat,Legbreak,PBKS
+Karanveer Singh,BOWLERS,"2015,2014",False,Right hand Bat,Legbreak Googly,PBKS
+Shivam Sharma,BOWLERS,"2015,2014",False,Right hand Bat,Right arm Offbreak,PBKS
+Cheteshwar Pujara,BATTERS,2014,False,Right hand Bat,Legbreak,PBKS
+Lakshmipathy Balaji,BOWLERS,2014,False,Right hand Bat,Right arm Medium fast,PBKS
+Murali Kartik,BOWLERS,2014,False,Left hand Bat,Slow Left arm Orthodox,PBKS
+Adam Gilchrist,BATTERS,"2013,2012,2011",True,Left hand Bat,Right arm Offbreak,PBKS
+Siddharth Chitnis,BATTERS,"2013,2012,2011",False,Right hand Bat,Right arm Offbreak,PBKS
+Luke Pomersbach,BATTERS,"2013,2009,2008",False,Left hand Bat,Right arm Offbreak,PBKS
+Nitin Saini,BATTERS,"2013,2012,2011,2008",True,Right hand Bat,,PBKS
+Sunny Singh,BATTERS,"2013,2012,2011",False,Right hand Bat,Right arm Medium fast,PBKS
+Paul Valthaty,BATTERS,"2013,2012,2011",False,Right hand Bat,Right arm Medium,PBKS
+Azhar Mahmood,ALLROUNDERS,"2013,2012",False,Right hand Bat,Right arm Fast medium,PBKS
+Bipul Sharma,ALLROUNDERS,"2013,2012,2011,2010",False,Left hand Bat,Slow Left arm Orthodox,PBKS
+Piyush Chawla,ALLROUNDERS,"2013,2012,2011,2010,2009,2008",False,Left hand Bat,Legbreak,PBKS
+David Hussey,ALLROUNDERS,"2013,2012,2011",False,Right hand Bat,Right arm Offbreak,PBKS
+Michael Neser,ALLROUNDERS,2013,False,Right hand Bat,Right arm Medium fast,PBKS
+Bhargav Bhatt,BOWLERS,"2013,2012,2011",False,Left hand Bat,Slow Left arm Orthodox,PBKS
+Aniket Choudhary,BOWLERS,2013,False,Right hand Bat,Left arm Medium,PBKS
+Manpreet Gony,BOWLERS,2013,False,Right hand Bat,Right arm Medium,PBKS
+Harmeet Singh,BOWLERS,"2013,2012",False,Right hand Bat,Right arm Medium,PBKS
+Praveen Kumar,BOWLERS,"2013,2012,2011",False,Right hand Bat,Right arm Medium,PBKS
+Paras Dogra,BATTERS,"2012,2011",False,Right hand Bat,Legbreak,PBKS
+Amit Yadav,ALLROUNDERS,"2012,2011",False,Right hand Bat,Right arm Offbreak,PBKS
+Ben Cutting,ALLROUNDERS,2012,False,Right hand Bat,Right arm Fast medium,PBKS
+James Faulkner,ALLROUNDERS,2012,False,Right hand Bat,Left arm Fast medium,PBKS
+Abhishek Nayar,ALLROUNDERS,"2012,2011",False,Left hand Bat,Right arm Medium,PBKS
+Love Ablish,BOWLERS,"2012,2011,2010",False,Right hand Bat,Right arm Medium fast,PBKS
+Ryan Harris,BOWLERS,"2012,2011",False,Right hand Bat,Right arm Fast,PBKS
+Vikramjeet Malik,BOWLERS,"2012,2011,2010,2009",False,Right hand Bat,Right arm Medium,PBKS
+Ramesh Powar,BOWLERS,"2012,2010,2009,2008",False,Right hand Bat,Right arm Offbreak,PBKS
+Nathan Rimmington,BOWLERS,"2012,2011",False,Right hand Bat,Right arm Fast medium,PBKS
+Shalabh Srivastava,BOWLERS,"2012,2011,2010",False,Right hand Bat,Left arm Fast medium,PBKS
 Dinesh Karthik,BATTERS,2011,True,Right hand Bat,Right arm Offbreak,PBKS
-Shaun Marsh,BATTERS,"2011,2010,2009,2008",False,Left hand Bat,Slow Left arm Orthodox,PBKS
-David Miller,BATTERS,2011,False,Left hand Bat,Right arm Offbreak,PBKS
-Nitin Saini,BATTERS,"2011,2008",True,Right hand Bat,,PBKS
-Sunny Singh,BATTERS,2011,False,Right hand Bat,Right arm Medium fast,PBKS
-Paul Valthaty,BATTERS,2011,False,Right hand Bat,Right arm Medium,PBKS
-Amit Yadav,ALLROUNDERS,2011,False,Right hand Bat,Right arm Offbreak,PBKS
-Bipul Sharma,ALLROUNDERS,"2011,2010",False,Left hand Bat,Slow Left arm Orthodox,PBKS
-Piyush Chawla,ALLROUNDERS,"2011,2010,2009,2008",False,Left hand Bat,Legbreak,PBKS
-David Hussey,ALLROUNDERS,2011,False,Right hand Bat,Right arm Offbreak,PBKS
-Mandeep Singh,ALLROUNDERS,2011,False,Right hand Bat,Right arm Medium,PBKS
 Ryan McLaren,ALLROUNDERS,2011,False,Left hand Bat,Right arm Medium fast,PBKS
-Abhishek Nayar,ALLROUNDERS,2011,False,Left hand Bat,Right arm Medium,PBKS
-Love Ablish,BOWLERS,"2011,2010",False,Right hand Bat,Right arm Medium fast,PBKS
-Bhargav Bhatt,BOWLERS,2011,False,Left hand Bat,Slow Left arm Orthodox,PBKS
-Ryan Harris,BOWLERS,2011,False,Right hand Bat,Right arm Fast,PBKS
-Praveen Kumar,BOWLERS,2011,False,Right hand Bat,Right arm Medium,PBKS
-Vikramjeet Malik,BOWLERS,"2011,2010,2009",False,Right hand Bat,Right arm Medium,PBKS
-Nathan Rimmington,BOWLERS,2011,False,Right hand Bat,Right arm Fast medium,PBKS
-Shalabh Srivastava,BOWLERS,"2011,2010",False,Right hand Bat,Left arm Fast medium,PBKS
 Kumar Sangakkara,BATTERS,"2010,2009,2008",True,Left hand Bat,Right arm Offbreak,PBKS
 Adrian Barath,BATTERS,2010,False,Right hand Bat,Right arm Offbreak,PBKS
 Manvinder Bisla,BATTERS,2010,False,,,PBKS
@@ -30,19 +182,16 @@ Karan Goel,BATTERS,"2010,2009,2008",False,Left hand Bat,Right arm Offbreak,PBKS
 Mahela Jayawardene,BATTERS,"2010,2009,2008",False,Right hand Bat,Right arm Medium,PBKS
 Mohammad Kaif,BATTERS,2010,False,Right hand Bat,Right arm Offbreak,PBKS
 Tanmay Srivastava,BATTERS,"2010,2009,2008",False,Left hand Bat,Right arm Medium,PBKS
-Yuvraj Singh,BATTERS,"2010,2009,2008",False,Left hand Bat,Slow Left arm Orthodox,PBKS
 James Hopes,ALLROUNDERS,"2010,2009,2008",False,Right hand Bat,Right arm Medium,PBKS
 Irfan Pathan,ALLROUNDERS,"2010,2009,2008",False,Left hand Bat,Left arm Medium fast,PBKS
 Reetinder Sodhi,ALLROUNDERS,2010,False,Right hand Bat,Right arm Medium,PBKS
 Yusuf Abdulla,BOWLERS,"2010,2009",False,Left hand Bat,Left arm Fast medium,PBKS
 Amanpreet Singh,BOWLERS,"2010,2009",False,Right hand Bat,Right arm Medium fast,PBKS
-Ramesh Powar,BOWLERS,"2010,2009,2008",False,Right hand Bat,Right arm Offbreak,PBKS
 Sreesanth,BOWLERS,"2010,2009,2008",False,Right hand Bat,Right arm Fast medium,PBKS
 Rusty Theron,BOWLERS,2010,False,Right hand Bat,Right arm Medium fast,PBKS
 Simon Katich,BATTERS,"2009,2008",False,Left hand Bat,Left arm Wrist spin,PBKS
 Uday Kaul,BATTERS,"2009,2008",True,Left hand Bat,,PBKS
 Taruwar Kohli,BATTERS,2009,False,Right hand Bat,Right arm Medium,PBKS
-Luke Pomersbach,BATTERS,"2009,2008",False,Left hand Bat,Right arm Offbreak,PBKS
 Ravikant Shukla,BATTERS,2009,False,Left hand Bat,Right arm Medium,PBKS
 Sunny Sohal,BATTERS,"2009,2008",False,Right hand Bat,Legbreak,PBKS
 Ryan Ninan,ALLROUNDERS,2009,False,Right hand Bat,Right arm Offbreak,PBKS
@@ -53,7 +202,6 @@ Sahil Kukreja,BOWLERS,"2009,2008",False,Right hand Bat,,PBKS
 Wilkin Mota,BOWLERS,"2009,2008",False,Right hand Bat,Right arm Medium,PBKS
 Vikram Singh,BOWLERS,"2009,2008",False,Right hand Bat,Right arm Medium fast,PBKS
 Ramnaresh Sarwan,BATTERS,2008,False,Right hand Bat,Legbreak,PBKS
-Rishi Dhawan,ALLROUNDERS,2008,False,Right hand Bat,Right arm Medium fast,PBKS
 Brett Lee,BOWLERS,2008,False,Right hand Bat,Right arm Fast,PBKS
 Kyle Mills,BOWLERS,2008,False,Right hand Bat,Right arm Fast medium,PBKS
 Pankaj Dharmani,BOWLERS,2008,False,Right hand Bat,,PBKS

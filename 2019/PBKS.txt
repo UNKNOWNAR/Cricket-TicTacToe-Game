@@ -1,0 +1,233 @@
+BATTERS
+Mayank Agarawal, player portrait
+Mayank Agarawal
+Batter
+
+Age:
+27y 277d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Sarfaraz Khan, player portrait
+Sarfaraz Khan
+Middle order Batter
+
+Age:
+21y 29d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak
+DA Miller headshot
+David Miller
+Middle order Batter
+
+Age:
+29y 163d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Karun Nair player page headshot cutout, 2021
+Karun Nair
+Top order Batter
+
+Age:
+26y 349d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Nicholas Pooran player page headshot cutout, 2021
+Nicholas Pooran
+†
+Wicketkeeper Batter
+
+Age:
+23y 49d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Prabhsimran Singh, player page headshot cutout 2023
+Prabhsimran Singh
+†
+Wicketkeeper Batter
+
+Age:
+18y 102d
+Batting:
+Right hand Bat
+KL Rahul player page headshot cutout, 2021
+KL Rahul
+†
+Wicketkeeper Batter
+
+Age:
+26y 216d
+Batting:
+Right hand Bat
+ALLROUNDERS
+R Ashwin, player portrait
+Ravichandran Ashwin
+(c)
+Bowling Allrounder
+
+Age:
+32y 64d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Sam Curran player page headshot cutout, 2024
+Sam Curran
+Allrounder
+
+Age:
+20y 170d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium fast
+CH Gayle headshot
+Chris Gayle
+Allrounder
+
+Age:
+39y 60d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Moises Henriques player page headshot cutout, 2021
+Moises Henriques
+Allrounder
+
+Age:
+31y 292d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Mandeep Singh player page headshot cutout, 2021
+Mandeep Singh
+Allrounder
+
+Age:
+26y 337d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+BOWLERS
+Arshdeep Singh, player portrait
+Arshdeep Singh
+Bowler
+
+Age:
+19y 288d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium fast
+M Ashwin, player portrait
+Murugan Ashwin
+Bowler
+
+Age:
+28y 73d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+AC Ayachi
+Agnivesh Ayachi
+Bowler
+
+Age:
+23y 158d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Harpreet Brar, player page headshot cutout, 2024
+Harpreet Brar
+Bowler
+
+Age:
+23y 65d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Mohammed Shami, player portrait
+Mohammed Shami
+Bowler
+
+Age:
+28y 78d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Mujeeb cutout
+Mujeeb Ur Rahman
+Bowler
+
+Age:
+17y 237d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Darshan Nalkande, player portrait
+Darshan Nalkande
+Bowler
+
+Age:
+20y 47d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Ankit Rajpoot picked his career-best figures
+Ankit Rajpoot
+Bowler
+
+Age:
+24y 351d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Andrew Tye player page headshot cutout, 2021
+Andrew Tye
+Bowler
+
+Age:
+31y 343d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+Varun Chakravarthy player page headshot cutout 2021
+Varun Chakravarthy
+Bowler
+
+Age:
+27y 83d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Hardus Viljoen player page headshot cutout, 2021
+Hardus Viljoen
+Bowler
+
+Age:
+29y 259d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast

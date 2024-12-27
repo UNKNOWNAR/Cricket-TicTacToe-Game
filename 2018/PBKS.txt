@@ -1,0 +1,213 @@
+BATTERS
+Mayank Agarawal, player portrait
+Mayank Agarawal
+Batter
+
+Age:
+26y 346d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+AJ Finch headshot
+Aaron Finch
+Top order Batter
+
+Age:
+31y 72d
+Batting:
+Right hand Bat
+Bowling:
+Slow Left arm Orthodox
+Manzoor Dar
+Manzoor Dar
+Middle order Batter
+
+Age:
+24y 88d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+DA Miller headshot
+David Miller
+Middle order Batter
+
+Age:
+28y 232d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Karun Nair player page headshot cutout, 2021
+Karun Nair
+Top order Batter
+
+Age:
+26y 53d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Akshdeep Nath
+Akshdeep Nath
+Middle order Batter
+
+Age:
+24y 263d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+KL Rahul player page headshot cutout, 2021
+KL Rahul
+†
+Wicketkeeper Batter
+
+Age:
+25y 285d
+Batting:
+Right hand Bat
+Manoj Tiwary, player portrait
+Manoj Tiwary
+Batter
+
+Age:
+32y 75d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Yuvraj Singh, player page headshot cutout, 2024
+Yuvraj Singh
+Middle order Batter
+
+Age:
+36y 47d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+ALLROUNDERS
+R Ashwin, player portrait
+Ravichandran Ashwin
+(c)
+Bowling Allrounder
+
+Age:
+31y 133d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+CH Gayle headshot
+Chris Gayle
+Allrounder
+
+Age:
+38y 129d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Axar Patel player page headshot cutout 2021
+Axar Patel
+Allrounder
+
+Age:
+24y 8d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+P Sahu
+Pardeep Sahu
+Allrounder
+
+Age:
+32y 160d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Marcus Stoinis player page headshot cutout, 2021
+Marcus Stoinis
+Batting Allrounder
+
+Age:
+28y 165d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+BOWLERS
+Mayank Dagar player portrait
+Mayank Dagar
+Bowler
+
+Age:
+21y 78d
+Batting:
+Right hand Bat
+Bowling:
+Slow Left arm Orthodox
+Ben Dwarshuis, player portrait
+Ben Dwarshuis
+Bowler
+
+Age:
+23y 219d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Fast medium
+Mujeeb cutout
+Mujeeb Ur Rahman
+Bowler
+
+Age:
+16y 306d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Ankit Rajpoot picked his career-best figures
+Ankit Rajpoot
+Bowler
+
+Age:
+24y 55d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+MM Sharma headshot
+Mohit Sharma
+Bowler
+
+Age:
+29y 132d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Barinder Sran after getting his cap from MS Dhoni
+Barinder Sran
+Bowler
+
+Age:
+25y 49d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium
+Andrew Tye player page headshot cutout, 2021
+Andrew Tye
+Bowler
+
+Age:
+31y 47d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast

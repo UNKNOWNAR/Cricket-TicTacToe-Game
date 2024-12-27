@@ -1,27 +1,133 @@
 ,PlayerType,YearsPlayed,WicketKeeper,BattingStyle,BowlingStyle,Team
-MS Dhoni,BATTERS,"2011,2010,2009,2008",True,Right hand Bat,Right arm Medium,CSK
-Srikkanth Anirudha,BATTERS,"2011,2008",False,Right hand Bat,,CSK
-S Badrinath,BATTERS,"2011,2010,2009,2008",False,Right hand Bat,Right arm Offbreak,CSK
-George Bailey,BATTERS,"2011,2010,2009",False,Right hand Bat,Right arm Medium,CSK
-Faf du Plessis,BATTERS,2011,False,Right hand Bat,Legbreak,CSK
-Michael Hussey,BATTERS,"2011,2010,2008",False,Left hand Bat,Right arm Medium,CSK
-Abhinav Mukund,BATTERS,"2011,2008",False,Left hand Bat,Legbreak Googly,CSK
-Suresh Raina,BATTERS,"2011,2010,2009,2008",False,Left hand Bat,Right arm Offbreak,CSK
-Wriddhiman Saha,BATTERS,2011,True,Right hand Bat,,CSK
-Kuthethurshri Vasudevadas,BATTERS,2011,False,Left hand Bat,Legbreak,CSK
-Murali Vijay,BATTERS,"2011,2010,2009",False,Right hand Bat,Right arm Offbreak,CSK
-Ravichandran Ashwin,ALLROUNDERS,"2011,2010,2009,2008",False,Right hand Bat,Right arm Offbreak,CSK
-Dwayne Bravo,ALLROUNDERS,2011,False,Right hand Bat,Right arm Medium,CSK
-Joginder Sharma,ALLROUNDERS,"2011,2009,2008",False,Right hand Bat,Right arm Fast medium,CSK
-Yo Mahesh,ALLROUNDERS,2011,False,Right hand Bat,Right arm Medium fast,CSK
-Albie Morkel,ALLROUNDERS,"2011,2010,2009,2008",False,Left hand Bat,Right arm Medium fast,CSK
-Scott Styris,ALLROUNDERS,2011,False,Right hand Bat,Right arm Medium,CSK
-Ganapathi Vignesh,ALLROUNDERS,2011,False,Right hand Bat,Right arm Medium fast,CSK
-Doug Bollinger,BOWLERS,"2011,2010",False,Left hand Bat,Left arm Fast medium,CSK
-Ben Hilfenhaus,BOWLERS,2011,False,Right hand Bat,Right arm Fast medium,CSK
-Shadab Jakati,BOWLERS,"2011,2010,2009,2008",False,Left hand Bat,Slow Left arm Orthodox,CSK
-Nuwan Kulasekara,BOWLERS,2011,False,Right hand Bat,Right arm Fast medium,CSK
-Suraj Randiv,BOWLERS,2011,False,Right hand Bat,Right arm Offbreak,CSK
+Ruturaj Gaikwad,BATTERS,"2025,2024,2023,2022,2021,2020,2019",False,Right hand Bat,Right arm Offbreak,CSK
+C Andre Siddarth,BATTERS,2025,False,Right hand Bat,,CSK
+Vansh Bedi,BATTERS,2025,True,Right hand Bat,,CSK
+Devon Conway,BATTERS,"2025,2024,2023,2022",True,Left hand Bat,Right arm Medium,CSK
+MS Dhoni,BATTERS,"2025,2024,2023,2022,2021,2020,2019,2018,2015,2014,2013,2012,2011,2010,2009,2008",True,Right hand Bat,Right arm Medium,CSK
+Shaik Rasheed,BATTERS,"2025,2024,2023",False,Right hand Bat,Legbreak,CSK
+Rahul Tripathi,BATTERS,2025,False,Right hand Bat,Right arm Medium,CSK
+Ravichandran Ashwin,ALLROUNDERS,"2025,2015,2014,2013,2012,2011,2010,2009,2008",False,Right hand Bat,Right arm Offbreak,CSK
+Shivam Dube,ALLROUNDERS,"2025,2024,2023,2022",False,Left hand Bat,Right arm Medium,CSK
+Shreyas Gopal,ALLROUNDERS,2025,False,Right hand Bat,Legbreak,CSK
+Deepak Hooda,ALLROUNDERS,2025,False,Right hand Bat,Right arm Offbreak,CSK
+Anshul Kamboj,ALLROUNDERS,2025,False,Right hand Bat,Right arm Medium,CSK
+Jamie Overton,ALLROUNDERS,2025,False,Right hand Bat,Right arm Fast,CSK
+Rachin Ravindra,ALLROUNDERS,"2025,2024",False,Left hand Bat,Slow Left arm Orthodox,CSK
+Vijay Shankar,ALLROUNDERS,"2025,2014,2013",False,Right hand Bat,Right arm Medium,CSK
+Khaleel Ahmed,BOWLERS,2025,False,Right hand Bat,Left arm Fast medium,CSK
+Nathan Ellis,BOWLERS,2025,False,Right hand Bat,Right arm Fast medium,CSK
+Gurjapneet Singh,BOWLERS,2025,False,Right hand Bat,Left arm Medium fast,CSK
+Kamlesh Nagarkoti,BOWLERS,2025,False,Right hand Bat,Right arm Fast,CSK
+Noor Ahmad,BOWLERS,2025,False,Right hand Bat,Left arm Wrist spin,CSK
+Ramakrishna Ghosh,BOWLERS,2025,False,Right hand Bat,Right arm Medium fast,CSK
+Aravelly Avanish,BATTERS,2024,True,Left hand Bat,,CSK
+Ajinkya Rahane,BATTERS,"2024,2023",False,Right hand Bat,Right arm Medium,CSK
+Sameer Rizvi,BATTERS,2024,False,Right hand Bat,Right arm Offbreak,CSK
+Withdrawn,BATTERS,"2024,2018",False,Left hand Bat,Slow Left arm Orthodox,CSK
+Moeen Ali,ALLROUNDERS,"2024,2023,2022,2021",False,Left hand Bat,Right arm Offbreak,CSK
+Rajvardhan Hangargekar,ALLROUNDERS,"2024,2023,2022",False,Right hand Bat,Right arm Fast medium,CSK
+Ajay Mandal,ALLROUNDERS,"2024,2023",False,Left hand Bat,Slow Left arm Orthodox,CSK
+Daryl Mitchell,ALLROUNDERS,2024,False,Right hand Bat,Right arm Medium,CSK
+Mitchell Santner,ALLROUNDERS,"2024,2023,2022,2021,2020,2019",False,Left hand Bat,Slow Left arm Orthodox,CSK
+Nishant Sindhu,ALLROUNDERS,"2024,2023",False,Left hand Bat,Slow Left arm Orthodox,CSK
+Tushar Deshpande,BOWLERS,"2024,2023,2022",False,Left hand Bat,Right arm Medium,CSK
+Richard Gleeson,BOWLERS,2024,False,Right hand Bat,Right arm Fast medium,CSK
+Mustafizur Rahman,BOWLERS,2024,False,Left hand Bat,Left arm Fast medium,CSK
+Simarjeet Singh,BOWLERS,"2024,2023,2022",False,Right hand Bat,Right arm Medium fast,CSK
+Prashant Solanki,BOWLERS,"2024,2023,2022",False,Right hand Bat,Legbreak,CSK
+Shardul Thakur,BOWLERS,"2024,2021,2020,2019,2018",False,Right hand Bat,Right arm Medium,CSK
+Maheesh Theekshana,BOWLERS,"2024,2023,2022",False,Right hand Bat,Right arm Offbreak,CSK
+Ambati Rayudu,BATTERS,"2023,2022,2021,2020,2019,2018",False,Right hand Bat,Right arm Offbreak,CSK
+Subhranshu Senapati,BATTERS,"2023,2022",False,Right hand Bat,Right arm Medium,CSK
+Bhagath Varma,ALLROUNDERS,"2023,2022,2021",False,Right hand Bat,Right arm Offbreak,CSK
+Dwaine Pretorius,ALLROUNDERS,"2023,2022",False,Right hand Bat,Right arm Medium fast,CSK
+Ben Stokes,ALLROUNDERS,2023,False,Left hand Bat,Right arm Fast medium,CSK
+Akash Singh,BOWLERS,2023,False,Right hand Bat,Left arm Medium fast,CSK
+Sisanda Magala,BOWLERS,2023,False,Right hand Bat,Right arm Fast medium,CSK
+Matheesha Pathirana,BOWLERS,"2023,2022",False,Right hand Bat,Right arm Fast,CSK
+Hari Nishaanth,BATTERS,"2022,2021",False,Left hand Bat,Right arm Offbreak,CSK
+Narayan Jagadeesan,BATTERS,"2022,2021,2020,2019,2018",True,Right hand Bat,,CSK
+Robin Uthappa,BATTERS,"2022,2021",False,Right hand Bat,Right arm Medium,CSK
+BOWLERS,ALLROUNDERS,"2022,2020",False,,,CSK
+KM Asif,ALLROUNDERS,"2022,2021,2020,2019,2018",False,Right hand Bat,Right arm Medium,CSK
+Chris Jordan,ALLROUNDERS,2022,False,Right hand Bat,Right arm Fast medium,CSK
+Mukesh Choudhary,ALLROUNDERS,2022,False,Left hand Bat,Left arm Medium,CSK
+Faf du Plessis,BATTERS,"2021,2020,2019,2018,2015,2014,2013,2012,2011",False,Right hand Bat,Legbreak,CSK
+Cheteshwar Pujara,BATTERS,2021,False,Right hand Bat,Legbreak,CSK
+Dominic Drakes,ALLROUNDERS,2021,False,Left hand Bat,Left arm Medium fast,CSK
+Krishnappa Gowtham,ALLROUNDERS,2021,False,Right hand Bat,Right arm Offbreak,CSK
+Ravindra Jadeja,ALLROUNDERS,"2021,2020,2019,2018,2015,2014,2013,2012",False,Left hand Bat,Slow Left arm Orthodox,CSK
+Jason Behrendorff,BOWLERS,2021,False,Right hand Bat,Left arm Fast medium,CSK
+Deepak Chahar,BOWLERS,"2021,2020,2019,2018",False,Right hand Bat,Right arm Medium,CSK
+Josh Hazlewood,BOWLERS,"2021,2020",False,Left hand Bat,Right arm Fast medium,CSK
+Imran Tahir,BOWLERS,"2021,2020,2019,2018",False,Right hand Bat,Legbreak Googly,CSK
+Harishankar Reddy,BOWLERS,2021,False,Right hand Bat,Right arm Medium,CSK
+Sai Kishore,BOWLERS,"2021,2020",False,Left hand Bat,Slow Left arm Orthodox,CSK
+Karn Sharma,BOWLERS,"2021,2020,2019,2018",False,Left hand Bat,Legbreak Googly,CSK
+Murali Vijay,BATTERS,"2020,2019,2018,2013,2012,2011,2010,2009",False,Right hand Bat,Right arm Offbreak,CSK
+Piyush Chawla,ALLROUNDERS,2020,False,Left hand Bat,Legbreak,CSK
+Sam Curran,ALLROUNDERS,2020,False,Left hand Bat,Left arm Medium fast,CSK
+Monu Kumar,ALLROUNDERS,"2020,2019,2018",False,Right hand Bat,Right arm Medium,CSK
+Shane Watson,ALLROUNDERS,"2020,2019,2018",False,Right hand Bat,Right arm Fast medium,CSK
+Sam Billings,BATTERS,"2019,2018",True,Right hand Bat,,CSK
+Suresh Raina,BATTERS,"2019,2018,2015,2014,2013,2012,2011,2010,2009,2008",False,Left hand Bat,Right arm Offbreak,CSK
+Dhruv Shorey,BATTERS,"2019,2018",False,Right hand Bat,Right arm Offbreak,CSK
+Chaitanya Bishnoi,ALLROUNDERS,"2019,2018",False,Left hand Bat,Slow Left arm Orthodox,CSK
+Scott Kuggeleijn,ALLROUNDERS,2019,False,Right hand Bat,Right arm Fast medium,CSK
+David Willey,ALLROUNDERS,"2019,2018",False,Left hand Bat,Left arm Fast medium,CSK
+Harbhajan Singh,BOWLERS,"2019,2018",False,Right hand Bat,Right arm Offbreak,CSK
+Mohit Sharma,BOWLERS,"2019,2015,2014,2013",False,Right hand Bat,Right arm Medium,CSK
+Kshitiz Sharma,BATTERS,2018,False,Right hand Bat,Right arm Offbreak,CSK
+Kanishk Seth,ALLROUNDERS,2018,False,Right hand Bat,Left arm Medium,CSK
+Mitchell Santner portrait,ALLROUNDERS,2018,False,,,CSK
+Lungi Ngidi,BOWLERS,2018,False,Right hand Bat,Right arm Fast medium,CSK
+Mark Wood,BOWLERS,2018,False,Right hand Bat,Right arm Fast,CSK
+Ankush Bains,BATTERS,2015,True,Right hand Bat,,CSK
+Eklavya Dwivedi,BATTERS,2015,False,,,CSK
+Wicketkeeper,BATTERS,2015,False,Right hand Bat,,CSK
+Michael Hussey,BATTERS,"2015,2013,2012,2011,2010,2008",False,Left hand Bat,Right arm Medium,CSK
+Brendon McCullum,BATTERS,"2015,2014",True,Right hand Bat,"Right arm Medium, Right arm Offbreak",CSK
+Baba Aparajith,ALLROUNDERS,"2015,2014,2013",False,Right hand Bat,Right arm Offbreak,CSK
+Mithun Manhas,ALLROUNDERS,"2015,2014",False,Right hand Bat,Right arm Offbreak,CSK
+Irfan Pathan,ALLROUNDERS,2015,False,Left hand Bat,Left arm Medium fast,CSK
+Dwayne Smith,ALLROUNDERS,"2015,2014",False,Right hand Bat,Right arm Medium,CSK
+Kyle Abbott,BOWLERS,2015,False,Right hand Bat,Right arm Fast medium,CSK
+Samuel Badree,BOWLERS,"2015,2014",False,Right hand Bat,Legbreak,CSK
+Matt Henry,BOWLERS,"2015,2014",False,Right hand Bat,Right arm Fast medium,CSK
+Ronit More,BOWLERS,"2015,2014,2013",False,Right hand Bat,Right arm Medium,CSK
+Pawan Negi,BOWLERS,"2015,2014",False,Left hand Bat,Slow Left arm Orthodox,CSK
+Ashish Nehra,BOWLERS,"2015,2014",False,Right hand Bat,Left arm Medium fast,CSK
+Ishwar Pandey,BOWLERS,"2015,2014",False,Right hand Bat,Right arm Medium,CSK
+Pratyush Singh,BOWLERS,2015,False,Right hand Bat,Legbreak Googly,CSK
+Rahul Sharma,BOWLERS,2015,False,Right hand Bat,Legbreak Googly,CSK
+Andrew Tye,BOWLERS,2015,False,Right hand Bat,Right arm Medium fast,CSK
+John Hastings,ALLROUNDERS,2014,False,Right hand Bat,Right arm Fast medium,CSK
+David Hussey,ALLROUNDERS,2014,False,Right hand Bat,Right arm Offbreak,CSK
+Ben Hilfenhaus,BOWLERS,"2014,2013,2012,2011",False,Right hand Bat,Right arm Fast medium,CSK
+Srikkanth Anirudha,BATTERS,"2013,2012,2011,2008",False,Right hand Bat,,CSK
+S Badrinath,BATTERS,"2013,2012,2011,2010,2009,2008",False,Right hand Bat,Right arm Offbreak,CSK
+Wriddhiman Saha,BATTERS,"2013,2012,2011",True,Right hand Bat,,CSK
+Dwayne Bravo,ALLROUNDERS,"2013,2012,2011",False,Right hand Bat,Right arm Medium,CSK
+Akila Dananjaya,ALLROUNDERS,2013,False,Left hand Bat,"Right arm Offbreak, Legbreak",CSK
+Jason Holder,ALLROUNDERS,2013,False,Right hand Bat,Right arm Medium fast,CSK
+Albie Morkel,ALLROUNDERS,"2013,2012,2011,2010,2009,2008",False,Left hand Bat,Right arm Medium fast,CSK
+Chris Morris,ALLROUNDERS,2013,False,Right hand Bat,Right arm Fast medium,CSK
+Imtiaz Ahmed,BOWLERS,2013,False,Right hand Bat,Right arm Medium,CSK
+Shadab Jakati,BOWLERS,"2013,2012,2011,2010,2009,2008",False,Left hand Bat,Slow Left arm Orthodox,CSK
+Nuwan Kulasekara,BOWLERS,"2013,2012,2011",False,Right hand Bat,Right arm Fast medium,CSK
+Ben Laughlin,BOWLERS,2013,False,Right hand Bat,Right arm Fast medium,CSK
+Dirk Nannes,BOWLERS,2013,False,Right hand Bat,Left arm Fast,CSK
+Ankit Rajpoot,BOWLERS,2013,False,Right hand Bat,Right arm Medium,CSK
+Ravi Karthikeyan,BOWLERS,2013,False,Left hand Bat,Slow Left arm Orthodox,CSK
+George Bailey,BATTERS,"2012,2011,2010,2009",False,Right hand Bat,Right arm Medium,CSK
+Abhinav Mukund,BATTERS,"2012,2011,2008",False,Left hand Bat,Legbreak Googly,CSK
+Kuthethurshri Vasudevadas,BATTERS,"2012,2011",False,Left hand Bat,Legbreak,CSK
+Joginder Sharma,ALLROUNDERS,"2012,2011,2009,2008",False,Right hand Bat,Right arm Fast medium,CSK
+Yo Mahesh,ALLROUNDERS,"2012,2011",False,Right hand Bat,Right arm Medium fast,CSK
+Scott Styris,ALLROUNDERS,"2012,2011",False,Right hand Bat,Right arm Medium,CSK
+Ganapathi Vignesh,ALLROUNDERS,"2012,2011",False,Right hand Bat,Right arm Medium fast,CSK
+Doug Bollinger,BOWLERS,"2012,2011,2010",False,Left hand Bat,Left arm Fast medium,CSK
+Suraj Randiv,BOWLERS,"2012,2011",False,Right hand Bat,Right arm Offbreak,CSK
 Tim Southee,BOWLERS,2011,False,Right hand Bat,Right arm Medium fast,CSK
 Arun Karthik,BATTERS,"2010,2009,2008",True,Right hand Bat,Legbreak Googly,CSK
 Hemang Badani,BATTERS,2010,False,Left hand Bat,Slow Left arm Orthodox,CSK

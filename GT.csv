@@ -1,0 +1,61 @@
+,PlayerType,YearsPlayed,WicketKeeper,BattingStyle,BowlingStyle,Team
+Shubman Gill,BATTERS,"2025,2024,2023,2022",False,Right hand Bat,Right arm Offbreak,GT
+Anuj Rawat,BATTERS,2025,True,Left hand Bat,,GT
+Jos Buttler,BATTERS,2025,True,Right hand Bat,,GT
+Kumar Kushagra,BATTERS,2025,True,Right hand Bat,,GT
+Sherfane Rutherford,BATTERS,2025,False,Left hand Bat,Right arm Fast medium,GT
+Sai Sudharsan,BATTERS,"2025,2024,2023,2022",False,Left hand Bat,Legbreak,GT
+M Shahrukh Khan,BATTERS,"2025,2024",False,Right hand Bat,Right arm Offbreak,GT
+Karim Janat,ALLROUNDERS,2025,False,Right hand Bat,Right arm Medium,GT
+Mahipal Lomror,ALLROUNDERS,2025,False,Left hand Bat,Slow Left arm Orthodox,GT
+Glenn Phillips,ALLROUNDERS,2025,False,Right hand Bat,Right arm Offbreak,GT
+Rashid Khan,ALLROUNDERS,"2025,2024,2023,2022",False,Right hand Bat,Legbreak Googly,GT
+Nishant Sindhu,ALLROUNDERS,2025,False,Left hand Bat,Slow Left arm Orthodox,GT
+Manav Suthar,ALLROUNDERS,"2025,2024",False,Left hand Bat,Slow Left arm Orthodox,GT
+Rahul Tewatia,ALLROUNDERS,"2025,2024,2023,2022",False,Left hand Bat,Legbreak,GT
+Washington Sundar,ALLROUNDERS,2025,False,Left hand Bat,Right arm Offbreak,GT
+Arshad Khan,BOWLERS,2025,False,Left hand Bat,Left arm Medium,GT
+Gerald Coetzee,BOWLERS,2025,False,Right hand Bat,Right arm Fast,GT
+Gurnoor Brar,BOWLERS,"2025,2024",False,Left hand Bat,Right arm Fast,GT
+Kulwant Khejroliya,BOWLERS,2025,False,Left hand Bat,Left arm Medium fast,GT
+Mohammed Siraj,BOWLERS,2025,False,Right hand Bat,Right arm Fast,GT
+Prasidh Krishna,BOWLERS,2025,False,Right hand Bat,Right arm Fast medium,GT
+Kagiso Rabada,BOWLERS,2025,False,Left hand Bat,Right arm Fast,GT
+Sai Kishore,BOWLERS,"2025,2024,2023,2022",False,Left hand Bat,Slow Left arm Orthodox,GT
+Ishant Sharma,BOWLERS,2025,False,Right hand Bat,Right arm Fast medium,GT
+Jayant Yadav,BOWLERS,"2025,2024,2023,2022",False,Right hand Bat,Right arm Offbreak,GT
+David Miller,BATTERS,"2024,2023,2022",False,Left hand Bat,Right arm Offbreak,GT
+Wriddhiman Saha,BATTERS,"2024,2023,2022",True,Right hand Bat,,GT
+BR Sharath,BATTERS,2024,True,Right hand Bat,,GT
+Matthew Wade,BATTERS,"2024,2023,2022",True,Left hand Bat,Right arm Medium,GT
+Robin Minz,BATTERS,2024,False,,,GT
+Withdrawn,BATTERS,2024,False,Left hand Bat,Slow Left arm Orthodox,GT
+Azmatullah Omarzai,ALLROUNDERS,2024,False,Right hand Bat,Right arm Medium fast,GT
+Abhinav Manohar,ALLROUNDERS,"2024,2023,2022",False,Right hand Bat,Legbreak Googly,GT
+Vijay Shankar,ALLROUNDERS,"2024,2023,2022",False,Right hand Bat,Right arm Medium,GT
+Spencer Johnson,BOWLERS,2024,False,Left hand Bat,Left arm Fast,GT
+Kartik Tyagi,BOWLERS,2024,False,Right hand Bat,Right arm Fast,GT
+Josh Little,BOWLERS,"2024,2023",False,Right hand Bat,Left arm Fast medium,GT
+Darshan Nalkande,BOWLERS,"2024,2023,2022",False,Right hand Bat,Right arm Fast medium,GT
+Noor Ahmad,BOWLERS,"2024,2023,2022",False,Right hand Bat,Left arm Wrist spin,GT
+Sandeep Warrier,BOWLERS,2024,False,Right hand Bat,Right arm Medium,GT
+Mohit Sharma,BOWLERS,"2024,2023",False,Right hand Bat,Right arm Medium,GT
+Umesh Yadav,BOWLERS,2024,False,Right hand Bat,Right arm Fast,GT
+Srikar Bharat,BATTERS,2023,True,Right hand Bat,,GT
+Urvil Patel,BATTERS,2023,True,Right hand Bat,,GT
+ALLROUNDERS,BATTERS,2023,False,,,GT
+Hardik Pandya,BATTERS,2023,False,Right hand Bat,Right arm Medium fast,GT
+Dasun Shanaka,BATTERS,2023,False,Right hand Bat,Right arm Medium,GT
+Odean Smith,BATTERS,2023,False,Right hand Bat,Right arm Fast medium,GT
+Alzarri Joseph,BOWLERS,"2023,2022",False,Right hand Bat,Right arm Fast,GT
+Mohammed Shami,BOWLERS,"2023,2022",False,Right hand Bat,Right arm Fast,GT
+Pradeep Sangwan,BOWLERS,"2023,2022",False,Right hand Bat,Left arm Medium,GT
+Shivam Mavi,BOWLERS,2023,False,Right hand Bat,Right arm Fast medium,GT
+Yash Dayal,BOWLERS,"2023,2022",False,Right hand Bat,Left arm Medium fast,GT
+Gurkeerat Singh Mann,BATTERS,2022,False,Right hand Bat,Right arm Offbreak,GT
+Rahmanullah Gurbaz,BATTERS,2022,True,Right hand Bat,Right arm Medium,GT
+"Hardik Pandya, player portrait",BATTERS,2022,False,,,GT
+(c),BATTERS,2022,False,Right hand Bat,Right arm Medium fast,GT
+Dominic Drakes,BATTERS,2022,False,Left hand Bat,Left arm Medium fast,GT
+Varun Aaron,BOWLERS,2022,False,Right hand Bat,Right arm Fast,GT
+Lockie Ferguson,BOWLERS,2022,False,Right hand Bat,Right arm Fast,GT

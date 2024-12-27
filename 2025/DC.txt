@@ -1,0 +1,213 @@
+BATTERS
+Abishek Porel, player portrait
+Abishek Porel
+†
+Wicketkeeper Batter
+
+Age:
+22y 14d
+Batting:
+Left hand Bat
+Harry Brook, player page headshot cutout, 2024,
+Harry Brook
+Batter
+
+Age:
+25y 252d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+F du Plessis headshot
+Faf du Plessis
+Middle order Batter
+
+Age:
+40y 110d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak
+Jake Fraser-McGurk, player portrait
+Jake Fraser-McGurk
+Batter
+
+Age:
+22y 203d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Karun Nair player page headshot cutout, 2021
+Karun Nair
+Top order Batter
+
+Age:
+32y 330d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+KL Rahul player page headshot cutout, 2021
+KL Rahul
+†
+Wicketkeeper Batter
+
+Age:
+32y 196d
+Batting:
+Right hand Bat
+Sameer Rizvi player portrait
+Sameer Rizvi
+Batter
+
+Age:
+20y 330d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Tristan Stubbs, player page headshot cutout 2022
+Tristan Stubbs
+Batter
+
+Age:
+24y 78d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+ALLROUNDERS
+Donovan Ferreira, player portrait
+Donovan Ferreira
+Allrounder
+
+Age:
+26y 102d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Ajay Mandal portrait
+Ajay Mandal
+Allrounder
+
+Age:
+28y 249d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+L Manvanth Kumar
+Manvanth Kumar
+Allrounder
+
+Age:
+20y 294d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Fast medium
+Axar Patel player page headshot cutout 2021
+Axar Patel
+Allrounder
+
+Age:
+30y 285d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Ashutosh Sharma, player page headshot cutout, 2024
+Ashutosh Sharma
+Batting Allrounder
+
+Age:
+26y 46d
+Batting:
+Right hand Bat
+BOWLERS
+Dushmantha Chameera player page headshot cutout, 2021
+Dushmantha Chameera
+Bowler
+
+Age:
+32y 294d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Kuldeep Yadav player page headshot cutout, 2021
+Kuldeep Yadav
+Bowler
+
+Age:
+29y 322d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Wrist spin
+Mukesh Kumar player page headshot cutout, 2024
+Mukesh Kumar
+Bowler
+
+Age:
+31y 19d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+T Natarajan player page headshot cutout, 2021
+T Natarajan
+Bowler
+
+Age:
+33y 210d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium
+MM Sharma headshot
+Mohit Sharma
+Bowler
+
+Age:
+36y 43d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Mitchell Starc, player portrait
+Mitchell Starc
+Bowler
+
+Age:
+34y 275d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Fast
+V Nigam
+Vipraj Nigam
+Age:
+20y 95d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak
+M Tiwari
+Madhav Tiwari
+Age:
+21y 33d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+T Vijay
+Tripurana Vijay
+Age:
+23y 56d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak

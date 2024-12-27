@@ -1,0 +1,251 @@
+BATTERS
+Steven Smith, player page headshot cutout, 2024
+Steven Smith
+(c)
+Top order Batter
+
+Age:
+30y 200d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Anuj Rawat, player page headshot cutout 2023
+Anuj Rawat
+†
+Wicketkeeper Batter
+
+Age:
+20y 63d
+Batting:
+Left hand Bat
+Jos Buttler cutout
+Jos Buttler
+†
+Wicketkeeper Batter
+
+Age:
+29y 102d
+Batting:
+Right hand Bat
+Yashasvi Jaiswal, player page headshot cutout 2022
+Yashasvi Jaiswal
+Opening Batter
+
+Age:
+17y 356d
+Batting:
+Left hand Bat
+Bowling:
+Legbreak
+AA Joshi
+Aniruddha Joshi
+Middle order Batter
+
+Age:
+32y 42d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+DA Miller headshot
+David Miller
+Middle order Batter
+
+Age:
+30y 192d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Riyan Parag, player page headshot cutout 2023
+Riyan Parag
+Top order Batter
+
+Age:
+18y 39d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak, Legbreak
+Sanju Samson player page headshot cutout, 2021
+Sanju Samson
+†
+Wicketkeeper Batter
+
+Age:
+25y 38d
+Batting:
+Right hand Bat
+Robin Uthappa player page headshot cutout, 2021
+Robin Uthappa
+Batter
+
+Age:
+34y 38d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Manan Vohra, player portrait
+Manan Vohra
+Opening Batter
+
+Age:
+26y 154d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+ALLROUNDERS
+Tom Curran player page headshot cutout, 2021
+Tom Curran
+Allrounder
+
+Age:
+24y 282d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Shreyas Gopal player page headshot cutout, 2021
+Shreyas Gopal
+Allrounder
+
+Age:
+26y 106d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak
+Mahipal Lomror, player portrait
+Mahipal Lomror
+Allrounder
+
+Age:
+20y 33d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Shashank Singh, player page headshot cutout, 2024
+Shashank Singh
+Batting Allrounder
+
+Age:
+28y 28d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium, Right arm Offbreak
+Ben Stokes player page headshot cutout, 2021
+Ben Stokes
+Allrounder
+
+Age:
+28y 198d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Fast medium
+Rahul Tewatia player page headshot cutout, 2021
+Rahul Tewatia
+Bowling Allrounder
+
+Age:
+26y 213d
+Batting:
+Left hand Bat
+Bowling:
+Legbreak
+BOWLERS
+Varun Aaron player page headshot cutout, 2021
+Varun Aaron
+Bowler
+
+Age:
+30y 51d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Akash Singh portrait
+Akash Singh
+Bowler
+
+Age:
+17y 237d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Medium fast
+Jofra Archer cutout
+Jofra Archer
+Bowler
+
+Age:
+24y 262d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Kartik Tyagi, player page headshot cutout 2022
+Kartik Tyagi
+Bowler
+
+Age:
+19y 41d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Mayank Markande, player page headshot cutout 2023
+Mayank Markande
+Bowler
+
+Age:
+22y 38d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak
+Ankit Rajpoot picked his career-best figures
+Ankit Rajpoot
+Bowler
+
+Age:
+26y 15d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Oshane Thomas player page headshot cutout, 2021
+Oshane Thomas
+Bowler
+
+Age:
+22y 304d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Fast
+Andrew Tye player page headshot cutout, 2021
+Andrew Tye
+Bowler
+
+Age:
+33y 7d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+Jaydev Unadkat, player portrait
+Jaydev Unadkat
+Bowler
+
+Age:
+28y 62d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Medium

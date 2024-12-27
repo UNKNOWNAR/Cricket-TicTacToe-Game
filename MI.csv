@@ -1,45 +1,194 @@
 ,PlayerType,YearsPlayed,WicketKeeper,BattingStyle,BowlingStyle,Team
-Sachin Tendulkar,BATTERS,"2011,2010,2009,2008",False,Right hand Bat,"Right arm Offbreak, Legbreak Googly",MI
-Aiden Blizzard,BATTERS,2011,False,Left hand Bat,Left arm Medium,MI
-Davy Jacobs,BATTERS,2011,True,Right hand Bat,Right arm Medium,MI
+Robin Minz,BATTERS,2025,False,,,MI
+Wicketkeeper,BATTERS,"2025,2021,2020,2019,2018,2015,2014,2014,2014,2013,2013,2012,2012,2011,2010,2010",False,Right hand Bat,Legbreak Googly,MI
+Naman Dhir,BATTERS,"2025,2024",False,Right hand Bat,Right arm Offbreak,MI
+Ryan Rickelton,BATTERS,2025,True,Left hand Bat,,MI
+Rohit Sharma,BATTERS,"2025,2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011",False,Right hand Bat,Right arm Offbreak,MI
+Krishnan Shrijith,BATTERS,2025,True,Left hand Bat,Right arm Offbreak,MI
+Raj Bawa,ALLROUNDERS,2025,False,Left hand Bat,Right arm Medium fast,MI
+Will Jacks,ALLROUNDERS,2025,False,Right hand Bat,Right arm Offbreak,MI
+Hardik Pandya,ALLROUNDERS,"2025,2021,2020,2019,2018,2017,2016,2015",False,Right hand Bat,Right arm Medium fast,MI
+Mitchell Santner,ALLROUNDERS,2025,False,Left hand Bat,Slow Left arm Orthodox,MI
+Tilak Varma,ALLROUNDERS,"2025,2024,2023,2022",False,Left hand Bat,Right arm Offbreak,MI
+Trent Boult,BOWLERS,"2025,2021,2020",False,Right hand Bat,Left arm Fast medium,MI
+Deepak Chahar,BOWLERS,2025,False,Right hand Bat,Right arm Medium,MI
+AM Ghazanfar,BOWLERS,2025,False,Right hand Bat,Right arm Offbreak,MI
+Karn Sharma,BOWLERS,"2025,2017",False,Left hand Bat,Legbreak Googly,MI
+Reece Topley,BOWLERS,2025,False,Right hand Bat,Left arm Fast medium,MI
+Lizaad Williams,BOWLERS,2025,False,Left hand Bat,Right arm Medium fast,MI
+Ashwani Kumar,BOWLERS,2025,False,Left hand Bat,Left arm Medium,MI
+Bevon Jacobs,BOWLERS,2025,False,Right hand Bat,Right arm Medium,MI
+Vignesh Puthur,BOWLERS,2025,False,Right hand Bat,Slow Left arm Orthodox,MI
+Satyanarayana Raju,BOWLERS,2025,False,Right hand Bat,Right arm Medium fast,MI
+Tim David,BATTERS,"2024,2023,2022",False,Right hand Bat,Right arm Offbreak,MI
+Harvik Desai,BATTERS,2024,True,Right hand Bat,,MI
+Ishan Kishan,BATTERS,"2024,2023,2022,2021,2020,2019,2018",True,Left hand Bat,Legbreak,MI
+Shivalik Sharma,BATTERS,2024,False,Left hand Bat,Legbreak Googly,MI
+Nehal Wadhera,BATTERS,"2024,2023",False,Left hand Bat,Legbreak,MI
+Vishnu Vinod,BATTERS,"2024,2023",True,Right hand Bat,,MI
+Withdrawn,BATTERS,"2024,2024",False,Right hand Bat,Left arm Fast medium,MI
+"Hardik Pandya, player portrait",BATTERS,2024,False,,,MI
+(c),BATTERS,2024,False,Right hand Bat,Right arm Medium fast,MI
+Dewald Brevis,BATTERS,"2024,2023,2022",False,Right hand Bat,Legbreak,MI
+Piyush Chawla,BATTERS,"2024,2023,2021",False,Left hand Bat,Legbreak,MI
+Shreyas Gopal,BATTERS,"2024,2016,2015,2014",False,Right hand Bat,Legbreak,MI
+Anshul Kamboj,BATTERS,2024,False,Right hand Bat,Right arm Medium,MI
+Mohammad Nabi,BATTERS,2024,False,Right hand Bat,Right arm Offbreak,MI
+Shams Mulani,BATTERS,"2024,2023",False,Left hand Bat,Slow Left arm Orthodox,MI
+Romario Shepherd,BATTERS,2024,False,Right hand Bat,Right arm Fast medium,MI
+Gerald Coetzee,BOWLERS,2024,False,Right hand Bat,Right arm Fast,MI
+Kumar Kartikeya,BOWLERS,"2024,2023,2022",False,Right hand Bat,"Slow Left arm Orthodox, Left arm Wrist spin",MI
+Akash Madhwal,BOWLERS,"2024,2023",False,Right hand Bat,Right arm Medium fast,MI
+Kwena Maphaka,BOWLERS,2024,False,Left hand Bat,Left arm Fast,MI
+Nuwan Thushara,BOWLERS,2024,False,Right hand Bat,Right arm Medium fast,MI
+Luke Wood,BOWLERS,2024,False,Left hand Bat,Left arm Fast medium,MI
+"Dilshan Madushanka, player page headshot cutout 2022",BOWLERS,2024,False,,,MI
+Ramandeep Singh,BATTERS,"2023,2022",False,Right hand Bat,Right arm Medium,MI
+Tristan Stubbs,BATTERS,"2023,2022",False,Right hand Bat,Right arm Offbreak,MI
+Cameron Green,ALLROUNDERS,2023,False,Right hand Bat,Right arm Fast medium,MI
+Raghav Goyal,BOWLERS,2023,False,Left hand Bat,Left arm Wrist spin,MI
+Duan Jansen,BOWLERS,2023,False,Right hand Bat,Left arm Fast,MI
+Chris Jordan,BOWLERS,2023,False,Right hand Bat,Right arm Fast medium,MI
+Riley Meredith,BOWLERS,"2023,2022",False,Right hand Bat,Right arm Fast,MI
+Sandeep Warrier,BOWLERS,2023,False,Right hand Bat,Right arm Medium,MI
+Hrithik Shokeen,BOWLERS,"2023,2022",False,Right hand Bat,Right arm Offbreak,MI
+Anmolpreet Singh,BATTERS,"2022,2021,2020,2019",False,Right hand Bat,Right arm Offbreak,MI
+Rahul Buddhi,BATTERS,2022,False,Left hand Bat,Right arm Offbreak,MI
+Aryan Juyal,BATTERS,2022,True,Right hand Bat,,MI
+ALLROUNDERS,BATTERS,2022,False,,,MI
+Fabian Allen,BATTERS,2022,False,Right hand Bat,Slow Left arm Orthodox,MI
+Kieron Pollard,BATTERS,"2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010",False,Right hand Bat,Right arm Medium,MI
+Daniel Sams,BATTERS,2022,False,Right hand Bat,Left arm Fast medium,MI
+Sanjay Yadav,BATTERS,2022,False,Left hand Bat,Slow Left arm Orthodox,MI
+Jofra Archer,BOWLERS,2022,False,Right hand Bat,Right arm Fast,MI
+Murugan Ashwin,BOWLERS,2022,False,Right hand Bat,Legbreak Googly,MI
+Basil Thampi,BOWLERS,2022,False,Right hand Bat,Right arm Fast medium,MI
+Jasprit Bumrah,BOWLERS,"2022,2021,2020,2019,2018,2017,2016,2015,2014,2013",False,Right hand Bat,Right arm Fast,MI
+Mayank Markande,BOWLERS,"2022,2019,2018",False,Right hand Bat,Legbreak,MI
+Jaydev Unadkat,BOWLERS,2022,False,Right hand Bat,Left arm Medium,MI
+Quinton de Kock,BATTERS,"2021,2020,2019",True,Left hand Bat,,MI
+Chris Lynn,BATTERS,"2021,2020",False,Right hand Bat,Slow Left arm Orthodox,MI
+Aditya Tare,BATTERS,"2021,2020,2019,2018,2015,2014,2013,2012,2011,2010",False,,,MI
+Saurabh Tiwary,BATTERS,"2021,2020,2018,2017,2010,2009,2008",False,Left hand Bat,,MI
+Suryakumar Yadav,BATTERS,"2021,2020,2019,2018,2013,2012,2011",False,Right hand Bat,"Right arm Medium, Right arm Offbreak",MI
+Nathan Coulter-Nile,ALLROUNDERS,"2021,2020,2013",False,Right hand Bat,Right arm Fast,MI
+Marco Jansen,ALLROUNDERS,2021,False,Right hand Bat,Left arm Medium fast,MI
+James Neesham,ALLROUNDERS,2021,False,Left hand Bat,Right arm Medium fast,MI
+Krunal Pandya,ALLROUNDERS,"2021,2020,2019,2018,2017,2016",False,Left hand Bat,Slow Left arm Orthodox,MI
+Anukul Roy,ALLROUNDERS,"2021,2020,2019,2018",False,Left hand Bat,Slow Left arm Orthodox,MI
+Rahul Chahar,BOWLERS,"2021,2020,2019,2018",False,Right hand Bat,Legbreak Googly,MI
+Roosh Kalaria,BOWLERS,2021,False,Right hand Bat,Left arm Medium,MI
+Dhawal Kulkarni,BOWLERS,"2021,2020,2013,2012,2011,2010,2009,2008",False,Right hand Bat,Right arm Medium,MI
+Simarjeet Singh,BOWLERS,2021,False,Right hand Bat,Right arm Medium fast,MI
+Jayant Yadav,BOWLERS,"2021,2020,2019",False,Right hand Bat,Right arm Offbreak,MI
+Yudhvir Singh,BOWLERS,2021,False,Right hand Bat,Right arm Medium fast,MI
+Sherfane Rutherford,BATTERS,2020,False,Left hand Bat,Right arm Fast medium,MI
+Prince Balwant Rai,ALLROUNDERS,2020,False,Right hand Bat,Legbreak Googly,MI
+Digvijay Deshmukh,BOWLERS,2020,False,Right hand Bat,Right arm Fast medium,MI
+Mitchell McClenaghan,BOWLERS,"2020,2019,2018,2017,2016,2015",False,Left hand Bat,Left arm Fast medium,MI
+Mohsin Khan,BOWLERS,"2020,2018",False,Left hand Bat,Left arm Medium fast,MI
+James Pattinson,BOWLERS,2020,False,Left hand Bat,Right arm Fast medium,MI
+Siddhesh Lad,BATTERS,"2019,2018,2017,2016,2015",False,Right hand Bat,Right arm Offbreak,MI
+Evin Lewis,BATTERS,"2019,2018",False,Left hand Bat,,MI
+Yuvraj Singh,BATTERS,2019,False,Left hand Bat,Slow Left arm Orthodox,MI
+Ben Cutting,ALLROUNDERS,"2019,2018",False,Right hand Bat,Right arm Fast medium,MI
+Beuran Hendricks,BOWLERS,2019,False,Left hand Bat,Left arm Fast medium,MI
+Pankaj Jaswal,BOWLERS,2019,False,Right hand Bat,Right arm Medium,MI
+Rasikh Salam,BOWLERS,2019,False,Right hand Bat,Right arm Medium,MI
+Barinder Sran,BOWLERS,2019,False,Left hand Bat,Left arm Medium,MI
+Sharad Lumba,BATTERS,2018,False,Right hand Bat,Right arm Offbreak,MI
+Akila Dananjaya,ALLROUNDERS,2018,False,Left hand Bat,"Right arm Offbreak, Legbreak",MI
+Jean-Paul Duminy,ALLROUNDERS,"2018,2010,2009",False,Left hand Bat,Right arm Offbreak,MI
+Tajinder Singh,ALLROUNDERS,2018,False,Right hand Bat,Right arm Offbreak,MI
+Adam Milne,BOWLERS,2018,False,Right hand Bat,Right arm Fast,MI
+Mustafizur Rahman,BOWLERS,2018,False,Left hand Bat,Left arm Fast medium,MI
+MD Nidheesh,BOWLERS,2018,False,Right hand Bat,Right arm Medium,MI
+Pradeep Sangwan,BOWLERS,2018,False,Right hand Bat,Left arm Medium,MI
+Jos Buttler,BATTERS,"2017,2016",True,Right hand Bat,,MI
+Asela Gunaratne,BATTERS,2017,False,Right hand Bat,Right arm Medium fast,MI
+Parthiv Patel,BATTERS,"2017,2016,2015",True,Left hand Bat,Right arm Offbreak,MI
+Nicholas Pooran,BATTERS,2017,True,Left hand Bat,Right arm Offbreak,MI
+Nitish Rana,BATTERS,"2017,2016,2015",False,Left hand Bat,"Right arm Medium, Right arm Offbreak, Legbreak",MI
+Ambati Rayudu,BATTERS,"2017,2016,2015,2014,2013,2012,2011,2010",False,Right hand Bat,Right arm Offbreak,MI
+Jitesh Sharma,BATTERS,"2017,2016",True,Right hand Bat,,MI
+"Shreyas Gopal player page headshot cutout, 2021",BATTERS,2017,False,Right hand Bat,Legbreak,MI
+Krishnappa Gowtham,BATTERS,2017,False,Right hand Bat,Right arm Offbreak,MI
+Harbhajan Singh,BOWLERS,"2017,2016,2015,2014,2013,2012,2011,2010,2009,2008",False,Right hand Bat,Right arm Offbreak,MI
+Kulwant Khejroliya,BOWLERS,2017,False,Left hand Bat,Left arm Medium fast,MI
+Deepak Punia,BOWLERS,"2017,2016",False,Right hand Bat,Right arm Medium,MI
+Tim Southee,BOWLERS,"2017,2016",False,Right hand Bat,Right arm Medium fast,MI
+Jagadeesha Suchith,BOWLERS,"2017,2016,2015",False,Left hand Bat,Slow Left arm Orthodox,MI
+Vinay Kumar,BOWLERS,"2017,2016,2015",False,Right hand Bat,Right arm Medium,MI
+Unmukt Chand,BATTERS,"2016,2015",True,Right hand Bat,Right arm Offbreak,MI
+Martin Guptill,BATTERS,2016,False,Right hand Bat,Right arm Offbreak,MI
+Corey Anderson,ALLROUNDERS,"2016,2015,2014",False,Left hand Bat,Left arm Medium fast,MI
+Kishore Kamath,ALLROUNDERS,2016,False,Right hand Bat,Legbreak,MI
+Marchant de Lange,BOWLERS,"2016,2015,2014",False,Right hand Bat,Right arm Fast,MI
+Nathu Singh,BOWLERS,2016,False,Right hand Bat,Right arm Medium,MI
+Jerome Taylor,BOWLERS,2016,False,Right hand Bat,Right arm Fast,MI
+Akshay Wakhare,BOWLERS,"2016,2015",False,Right hand Bat,Right arm Offbreak,MI
+Aiden Blizzard,BATTERS,"2015,2013,2012,2011",False,Left hand Bat,Left arm Medium,MI
+Alex Hales,BATTERS,2015,False,Right hand Bat,Right arm Medium,MI
+Colin Munro,BATTERS,2015,False,Left hand Bat,Right arm Medium fast,MI
+Lendl Simmons,BATTERS,"2015,2014",False,Right hand Bat,Right arm Medium fast,MI
+Ben Hilfenhaus,BOWLERS,2015,False,Right hand Bat,Right arm Fast medium,MI
+Abhimanyu Mithun,BOWLERS,2015,False,Right hand Bat,Right arm Medium,MI
+Pragyan Ojha,BOWLERS,"2015,2014,2013,2012",False,Left hand Bat,Slow Left arm Orthodox,MI
+Pawan Suyal,BOWLERS,"2015,2014,2013,2012,2011",False,Right hand Bat,Left arm Medium,MI
+Ben Dunk,BATTERS,2014,True,Left hand Bat,Right arm Offbreak,MI
+Chidhambaram Gautam,BATTERS,2014,False,,,MI
+Michael Hussey,BATTERS,2014,False,Left hand Bat,Right arm Medium,MI
+Sushant Marathe,BATTERS,"2014,2013,2012",False,,,MI
+Apoorv Wankhade,BATTERS,"2014,2012",False,Right hand Bat,Right arm Medium,MI
+Josh Hazlewood,BOWLERS,2014,False,Left hand Bat,Right arm Fast medium,MI
+Praveen Kumar,BOWLERS,2014,False,Right hand Bat,Right arm Medium,MI
+Krishmar Santokie,BOWLERS,2014,False,Left hand Bat,Left arm Medium,MI
+Phillip Hughes,BATTERS,2013,False,Left hand Bat,,MI
+Dinesh Karthik,BATTERS,"2013,2012",True,Right hand Bat,Right arm Offbreak,MI
+Sachin Tendulkar,BATTERS,"2013,2012,2011,2010,2009,2008",False,Right hand Bat,"Right arm Offbreak, Legbreak Googly",MI
+Amitoze Singh,ALLROUNDERS,"2013,2012",False,Right hand Bat,Right arm Medium,MI
+Rishi Dhawan,ALLROUNDERS,2013,False,Right hand Bat,Right arm Medium fast,MI
+James Franklin,ALLROUNDERS,"2013,2012,2011",False,Left hand Bat,Left arm Medium,MI
+Jalaj Saxena,ALLROUNDERS,2013,False,Right hand Bat,"Right arm Offbreak, Legbreak Googly",MI
+Glenn Maxwell,ALLROUNDERS,2013,False,Right hand Bat,Right arm Offbreak,MI
+Jacob Oram,ALLROUNDERS,2013,False,Left hand Bat,Right arm Fast medium,MI
+Axar Patel,ALLROUNDERS,2013,False,Left hand Bat,Slow Left arm Orthodox,MI
+Dwayne Smith,ALLROUNDERS,"2013,2012,2008",False,Right hand Bat,Right arm Medium,MI
+Abu Nechim,BOWLERS,"2013,2012,2011,2010",False,Right hand Bat,Right arm Medium fast,MI
+Yuzvendra Chahal,BOWLERS,"2013,2012,2011",False,Right hand Bat,Legbreak Googly,MI
+Munaf Patel,BOWLERS,"2013,2012,2011",False,Right hand Bat,Right arm Medium fast,MI
+Javed Khan,BOWLERS,2013,False,Right hand Bat,Right arm Fast medium,MI
+Herschelle Gibbs,BATTERS,2012,False,Right hand Bat,Right arm Bowler,MI
+Davy Jacobs,BATTERS,"2012,2011",True,Right hand Bat,Right arm Medium,MI
+Richard Levi,BATTERS,2012,False,Right hand Bat,Right arm Medium,MI
+Jaydev Shah,BATTERS,"2012,2009",False,Left hand Bat,Right arm Offbreak,MI
+Tirumalasetti Suman,BATTERS,"2012,2011",False,Right hand Bat,Right arm Offbreak,MI
+Thisara Perera,ALLROUNDERS,2012,False,Left hand Bat,Right arm Medium fast,MI
+Kuldeep Yadav,BOWLERS,2012,False,Left hand Bat,Left arm Wrist spin,MI
+Robin Peterson,BOWLERS,2012,False,Left hand Bat,Slow Left arm Orthodox,MI
+Rahul Shukla,BOWLERS,"2012,2010",False,Right hand Bat,Right arm Medium,MI
+RP Singh,BOWLERS,2012,False,Right hand Bat,Left arm Fast medium,MI
+Sujit Nayak,BOWLERS,2012,False,Left hand Bat,Slow Left arm Orthodox,MI
 Sarul Kanwar,BATTERS,2011,False,Right hand Bat,Right arm Medium fast,MI
-Ambati Rayudu,BATTERS,"2011,2010",False,Right hand Bat,Right arm Offbreak,MI
-Rohit Sharma,BATTERS,2011,False,Right hand Bat,Right arm Offbreak,MI
-Tirumalasetti Suman,BATTERS,2011,False,Right hand Bat,Right arm Offbreak,MI
-Aditya Tare,BATTERS,"2011,2010",False,,,MI
-Wicketkeeper,BATTERS,"2011,2010,2010",False,Right hand Bat,,MI
-Suryakumar Yadav,BATTERS,2011,False,Right hand Bat,"Right arm Medium, Right arm Offbreak",MI
-James Franklin,ALLROUNDERS,2011,False,Left hand Bat,Left arm Medium,MI
 Moises Henriques,ALLROUNDERS,2011,False,Right hand Bat,Right arm Fast medium,MI
-Kieron Pollard,ALLROUNDERS,"2011,2010",False,Right hand Bat,Right arm Medium,MI
 Rajagopal Sathish,ALLROUNDERS,"2011,2010",False,Right hand Bat,Right arm Medium,MI
 Andrew Symonds,ALLROUNDERS,2011,False,Right hand Bat,"Right arm Medium, Right arm Offbreak",MI
-Abu Nechim,BOWLERS,"2011,2010",False,Right hand Bat,Right arm Medium fast,MI
-Yuzvendra Chahal,BOWLERS,2011,False,Right hand Bat,Legbreak Googly,MI
 Dilhara Fernando,BOWLERS,"2011,2010,2009,2008",False,Right hand Bat,Right arm Fast medium,MI
-Harbhajan Singh,BOWLERS,"2011,2010,2009,2008",False,Right hand Bat,Right arm Offbreak,MI
-Dhawal Kulkarni,BOWLERS,"2011,2010,2009,2008",False,Right hand Bat,Right arm Medium,MI
 Ali Murtaza,BOWLERS,"2011,2010",False,Left hand Bat,Slow Left arm Orthodox,MI
-Munaf Patel,BOWLERS,2011,False,Right hand Bat,Right arm Medium fast,MI
-Pawan Suyal,BOWLERS,2011,False,Right hand Bat,Left arm Medium,MI
 Santosh Yadav,BOWLERS,2011,False,Left hand Bat,Right arm Offbreak,MI
 Shikhar Dhawan,BATTERS,"2010,2009",False,Left hand Bat,Right arm Offbreak,MI
 Chandan Madan,BATTERS,2010,False,,,MI
-Saurabh Tiwary,BATTERS,"2010,2009,2008",False,Left hand Bat,,MI
 "Dwayne Bravo player page headshot cutout, 2021",BATTERS,"2010,2009",False,Right hand Bat,Right arm Medium,MI
-Jean-Paul Duminy,BATTERS,"2010,2009",False,Left hand Bat,Right arm Offbreak,MI
 Sanath Jayasuriya,BATTERS,"2010,2009,2008",False,Left hand Bat,Slow Left arm Orthodox,MI
 Ryan McLaren,BATTERS,"2010,2009",False,Left hand Bat,Right arm Medium fast,MI
 Abhishek Nayar,BATTERS,"2010,2009,2008",False,Left hand Bat,Right arm Medium,MI
 Zaheer Khan,BOWLERS,"2010,2009",False,Right hand Bat,Left arm Fast medium,MI
 Ishan Malhotra,BOWLERS,2010,False,Right hand Bat,Right arm Medium fast,MI
-Rahul Shukla,BOWLERS,2010,False,Right hand Bat,Right arm Medium,MI
 Syed Shahabuddin,BOWLERS,2010,False,Right hand Bat,Right arm Medium fast,MI
 Mohammad Ashraful,BATTERS,2009,False,Right hand Bat,"Right arm Offbreak, Legbreak",MI
 Ajinkya Rahane,BATTERS,"2009,2008",False,Right hand Bat,Right arm Medium,MI
 Luke Ronchi,BATTERS,"2009,2008",True,Right hand Bat,,MI
 Pinal Shah,BATTERS,"2009,2008",True,Right hand Bat,,MI
-Jaydev Shah,BATTERS,2009,False,Left hand Bat,Right arm Offbreak,MI
 Kyle Mills,BOWLERS,2009,False,Right hand Bat,Right arm Fast medium,MI
 Chetanya Nanda,BOWLERS,2009,False,Right hand Bat,Legbreak,MI
 Rohan Raje,BOWLERS,"2009,2008",False,Right hand Bat,Right arm Fast medium,MI
@@ -55,7 +204,6 @@ Robin Uthappa,BATTERS,2008,False,Right hand Bat,Right arm Medium,MI
 Dwayne Bravo,ALLROUNDERS,2008,False,Right hand Bat,Right arm Medium,MI
 Gaurav Dhiman,ALLROUNDERS,2008,False,Right hand Bat,Right arm Fast medium,MI
 Shaun Pollock,ALLROUNDERS,2008,False,Right hand Bat,Right arm Fast medium,MI
-Dwayne Smith,ALLROUNDERS,2008,False,Right hand Bat,Right arm Medium,MI
 Ashish Nehra,BOWLERS,2008,False,Right hand Bat,Left arm Medium fast,MI
 Andre Nel,BOWLERS,2008,False,Right hand Bat,Right arm Fast medium,MI
 Rajesh Pawar,BOWLERS,2008,False,Left hand Bat,Slow Left arm Orthodox,MI

@@ -13,5 +13,5 @@ Sunrises Hyderabad ---> SRH
 Deccan Chargers ---> DCG
 Kochi Tuskers Kerala ---> KTK
 Pune Warriors India ---> PWI
-Rising Pune Supergiants ---> RPS
+Rising Pune Supergiants ---> RPSG
 Gujrat Lions ---> GL

@@ -1,0 +1,292 @@
+BATTERS
+V Kohli headshot
+Virat Kohli
+(c)
+Top order Batter
+
+Age:
+32y 105d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+KS Bharat, player portrait
+Srikar Bharat
+†
+Wicketkeeper Batter
+
+Age:
+27y 138d
+Batting:
+Right hand Bat
+Tim David, player page headshot cutout 2022
+Tim David
+Middle order Batter
+
+Age:
+24y 339d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+AB de Villiers headshot
+AB de Villiers
+†
+Wicketkeeper Batter
+
+Age:
+37y 1d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Mohammed Azharuddeen portrait
+Mohammed Azharuddeen
+†
+Wicketkeeper Batter
+
+Age:
+26y 333d
+Batting:
+Right hand Bat
+Devdutt Padikkal player page headshot cutout, 2021
+Devdutt Padikkal
+Top order Batter
+
+Age:
+20y 226d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Rajat Patidar, player portrait
+Rajat Patidar
+Top order Batter
+
+Age:
+27y 262d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Sachin Baby player portrait
+Sachin Baby
+Batter
+
+Age:
+32y 62d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Finn Allen portrait
+Finn Allen
+Withdrawn
+Top order Batter
+
+Age:
+21y 302d
+Batting:
+Right hand Bat
+Josh Phillipe player page headshot cutout, 2021
+Josh Philippe
+†
+Withdrawn
+Wicketkeeper Batter
+
+Age:
+23y 262d
+Batting:
+Right hand Bat
+ALLROUNDERS
+Dan Christian player page headshot cutout, 2024
+Dan Christian
+Allrounder
+
+Age:
+37y 290d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Pavan Deshpande player portrait
+Pavan Deshpande
+Allrounder
+
+Age:
+31y 155d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+George Garten page headshot cutout, 2021
+George Garton
+Bowling Allrounder
+
+Age:
+23y 309d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Fast
+Glenn Maxwell, player portrait
+Glenn Maxwell
+Batting Allrounder
+
+Age:
+32y 127d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Suyash Prabhudessai, player page headshot cutout 2023
+Suyash Prabhudessai
+Batting Allrounder
+
+Age:
+23y 74d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Shahbaz Ahmed, player page headshot cutout 2022
+Shahbaz Ahmed
+Allrounder
+
+Age:
+26y 69d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Scott Kuggeleijn player page headshot cutout, 2021
+Scott Kuggeleijn
+Withdrawn
+Bowling Allrounder
+
+Age:
+29y 46d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Daniel Sams player page headshot cutout, 2021
+Daniel Sams
+Withdrawn
+Allrounder
+
+Age:
+28y 114d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Fast medium
+Washington Sundar player page headshot cutout, 2021
+Washington Sundar
+Withdrawn
+Bowling Allrounder
+
+Age:
+21y 136d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Notes: *Withdrawn for the second leg
+
+BOWLERS
+Akash Deep player portrait
+Akash Deep
+Bowler
+
+Age:
+24y 65d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Yuzvendra Chahal player page headshot cutout, 2021
+Yuzvendra Chahal
+Bowler
+
+Age:
+30y 210d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Kyle Jamieson player page headshot cutout, 2021
+Kyle Jamieson
+Bowler
+
+Age:
+26y 50d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Mohammed Siraj player page headshot cutout, 2021
+Mohammed Siraj
+Bowler
+
+Age:
+26y 342d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Harshal Patel, player page headshot cutout, 2024
+Harshal Patel
+Bowler
+
+Age:
+30y 87d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Navdeep Saini player page headshot cutout, 2021
+Navdeep Saini
+Bowler
+
+Age:
+28y 87d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Dushmantha Chameera player page headshot cutout, 2021
+Dushmantha Chameera
+Withdrawn
+Bowler
+
+Age:
+29y 38d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Notes: * Withdrawal On 11th October
+
+Kane Richardson player page headshot cutout, 2021
+Kane Richardson
+Withdrawn
+Bowler
+
+Age:
+30y 6d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Adam Zampa player page headshot cutout, 2021
+Adam Zampa
+Withdrawn
+Bowler
+
+Age:
+28y 324d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googlys

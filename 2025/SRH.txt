@@ -1,0 +1,201 @@
+BATTERS
+Travis Head player page headshot cutout, 2021
+Travis Head
+Top order Batter
+
+Age:
+30y 307d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Ishan Kishan player page headshot cutout 2021
+Ishan Kishan
+†
+Wicketkeeper Batter
+
+Age:
+26y 105d
+Batting:
+Left hand Bat
+Bowling:
+Legbreak
+Heinrich Klaasen player page headshot cutout, 2021
+Heinrich Klaasen
+†
+Wicketkeeper Batter
+
+Age:
+33y 93d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Sachin Baby player portrait
+Sachin Baby
+Batter
+
+Age:
+35y 318d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+ALLROUNDERS
+Abhishek Sharma, player page headshot cutout 2023
+Abhishek Sharma
+Allrounder
+
+Age:
+24y 57d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Brydon Carse, player page headshot cutout, 2021
+Brydon Carse
+Bowling Allrounder
+
+Age:
+29y 92d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+A Manohar
+Abhinav Manohar
+Batting Allrounder
+
+Age:
+30y 45d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Kamindu Mendis player page headshot cutout 2021
+Kamindu Mendis
+Allrounder
+
+Age:
+26y 31d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak, Slow Left arm Orthodox
+Nitish Kumar Reddy, player portrait
+Nitish Kumar Reddy
+Batting Allrounder
+
+Age:
+21y 158d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+Atharva Taide, player page headshot cutout 2023
+Atharva Taide
+Batting Allrounder
+
+Age:
+24y 188d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+BOWLERS
+Rahul Chahar player page headshot cutout 2021
+Rahul Chahar
+Bowler
+
+Age:
+25y 88d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+Pat Cummins, player portrait
+Pat Cummins
+Bowler
+
+Age:
+31y 176d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Eshan Malinga
+Eshan Malinga
+Bowler
+
+Age:
+23y 270d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Fast medium
+Mohammed Shami, player portrait
+Mohammed Shami
+Bowler
+
+Age:
+34y 58d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Harshal Patel, player page headshot cutout, 2024
+Harshal Patel
+Bowler
+
+Age:
+33y 343d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Simarjeet Singh player portrait
+Simarjeet Singh
+Bowler
+
+Age:
+26y 288d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+Jaydev Unadkat, player portrait
+Jaydev Unadkat
+Bowler
+
+Age:
+33y 13d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Medium
+Adam Zampa player page headshot cutout, 2021
+Adam Zampa
+Bowler
+
+Age:
+32y 214d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+AU Verma
+Aniket Verma
+Age:
+22y 269d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast
+Zeeshan Ansari
+Zeeshan Ansari
+Age:
+24y 320d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly

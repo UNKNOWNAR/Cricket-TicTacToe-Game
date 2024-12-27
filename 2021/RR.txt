@@ -1,0 +1,297 @@
+BATTERS
+Sanju Samson player page headshot cutout, 2021
+Sanju Samson
+† (c)
+Wicketkeeper Batter
+
+Age:
+26y 99d
+Batting:
+Right hand Bat
+Anuj Rawat, player page headshot cutout 2023
+Anuj Rawat
+†
+Wicketkeeper Batter
+
+Age:
+21y 124d
+Batting:
+Left hand Bat
+Yashasvi Jaiswal, player page headshot cutout 2022
+Yashasvi Jaiswal
+Opening Batter
+
+Age:
+19y 52d
+Batting:
+Left hand Bat
+Bowling:
+Legbreak
+Evin Lewis player page headshot cutout, 2021
+Evin Lewis
+Opening Batter
+
+Age:
+29y 53d
+Batting:
+Left hand Bat
+DA Miller headshot
+David Miller
+Middle order Batter
+
+Age:
+31y 253d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Riyan Parag, player page headshot cutout 2023
+Riyan Parag
+Top order Batter
+
+Age:
+19y 100d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak, Legbreak
+Manan Vohra, player portrait
+Manan Vohra
+Opening Batter
+
+Age:
+27y 215d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Jos Buttler cutout
+Jos Buttler
+†
+Withdrawn
+Wicketkeeper Batter
+
+Age:
+30y 163d
+Batting:
+Right hand Bat
+Notes: * Withdrawn for the second leg
+
+ALLROUNDERS
+Shivam Dube, player page headshot cutout, 2024
+Shivam Dube
+Allrounder
+
+Age:
+27y 237d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Medium
+Shreyas Gopal player page headshot cutout, 2021
+Shreyas Gopal
+Allrounder
+
+Age:
+27y 167d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak
+Liam Livingstone cutout
+Liam Livingstone
+Batting Allrounder
+
+Age:
+27y 198d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak, Legbreak
+Mahipal Lomror, player portrait
+Mahipal Lomror
+Allrounder
+
+Age:
+21y 94d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Chris Morris player page headshot cutout, 2021
+Chris Morris
+Bowling Allrounder
+
+Age:
+33y 294d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Glenn Phillips portrait
+Glenn Phillips
+Allrounder
+
+Age:
+24y 74d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Rahul Tewatia player page headshot cutout, 2021
+Rahul Tewatia
+Bowling Allrounder
+
+Age:
+27y 274d
+Batting:
+Left hand Bat
+Bowling:
+Legbreak
+Ben Stokes player page headshot cutout, 2021
+Ben Stokes
+Withdrawn
+Allrounder
+
+Age:
+29y 259d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Fast medium
+Notes: * Withdrawn for the second leg
+
+BOWLERS
+Akash Singh portrait
+Akash Singh
+Bowler
+
+Age:
+18y 298d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Medium fast
+KC Cariappa player portrait
+KC Cariappa
+Bowler
+
+Age:
+26y 311d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak
+Kartik Tyagi, player page headshot cutout 2022
+Kartik Tyagi
+Bowler
+
+Age:
+20y 102d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Mayank Markande, player page headshot cutout 2023
+Mayank Markande
+Bowler
+
+Age:
+23y 99d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak
+Mustafizur Rahman player page headshot cutout, 2021
+Mustafizur Rahman
+Bowler
+
+Age:
+25y 165d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Fast medium
+Chetan Sakariya, player portrait
+Chetan Sakariya
+Bowler
+
+Age:
+22y 356d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium fast
+Tabraiz Shamsi player page headshot cutout, 2021
+Tabraiz Shamsi
+Bowler
+
+Age:
+31y
+Batting:
+Right hand Bat
+Bowling:
+Left arm Wrist spin
+Oshane Thomas player page headshot cutout, 2021
+Oshane Thomas
+Bowler
+
+Age:
+24y
+Batting:
+Left hand Bat
+Bowling:
+Right arm Fast
+Jaydev Unadkat, player portrait
+Jaydev Unadkat
+Bowler
+
+Age:
+29y 123d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Medium
+K Yadav
+Kuldip Yadav
+Bowler
+
+Age:
+24y 126d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Fast medium
+Jofra Archer cutout
+Jofra Archer
+Withdrawn
+Bowler
+
+Age:
+25y 323d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Gerald Coetzee, player page headshot cutout 2022
+Gerald Coetzee
+Withdrawn
+Bowler
+
+Age:
+20y 139d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Andrew Tye player page headshot cutout, 2021
+Andrew Tye
+Withdrawn
+Bowler
+
+Age:
+34y 68d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium fast

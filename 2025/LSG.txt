@@ -1,0 +1,228 @@
+BATTERS
+Abdul Samad, player page headshot cutout 2022
+Abdul Samad
+Batter
+
+Age:
+23y 3d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak
+Ayush Badoni, player portrait
+Ayush Badoni
+Batter
+
+Age:
+24y 333d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+Matthew Breetzke, player portrait
+Matthew Breetzke
+Batter
+
+Age:
+25y 363d
+Batting:
+Right hand Bat
+Aryan Juyal portrait
+Aryan Juyal
+†
+Wicketkeeper Batter
+
+Age:
+22y 355d
+Batting:
+Right hand Bat
+Aiden Markram player page headshot cutout, 2021
+Aiden Markram
+Opening Batter
+
+Age:
+30y 27d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Offbreak
+DA Miller headshot
+David Miller
+Middle order Batter
+
+Age:
+35y 143d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+Rishabh Pant player page headshot cutout, 2021
+Rishabh Pant
+†
+Wicketkeeper Batter
+
+Age:
+27y 27d
+Batting:
+Left hand Bat
+Nicholas Pooran player page headshot cutout, 2021
+Nicholas Pooran
+†
+Wicketkeeper Batter
+
+Age:
+29y 29d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Offbreak
+ALLROUNDERS
+Y Chaudhary
+Yuvraj Chaudhary
+Batting Allrounder
+
+Age:
+23y 25d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+Rajvardhan Hangargekar, player page headshot cutout 2022
+Rajvardhan Hangargekar
+Bowling Allrounder
+
+Age:
+21y 356d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Arshin Kulkarni, player portrait
+Arshin Kulkarni
+Allrounder
+
+Age:
+19y 259d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Mitchell Marsh, player page headshot cutout, 2021
+Mitchell Marsh
+Allrounder
+
+Age:
+33y 11d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Medium
+Shahbaz Ahmed, player page headshot cutout 2022
+Shahbaz Ahmed
+Allrounder
+
+Age:
+29y 325d
+Batting:
+Left hand Bat
+Bowling:
+Slow Left arm Orthodox
+BOWLERS
+Akash Deep player portrait
+Akash Deep
+Bowler
+
+Age:
+27y 321d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Akash Singh portrait
+Akash Singh
+Bowler
+
+Age:
+22y 188d
+Batting:
+Right hand Bat
+Bowling:
+Left arm Medium fast
+Avesh Khan player page headshot cutout, 2021
+Avesh Khan
+Bowler
+
+Age:
+27y 323d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast medium
+Shamar Joseph, player portrait
+Shamar Joseph
+Bowler
+
+Age:
+25y 61d
+Batting:
+Left hand Bat
+Bowling:
+Right arm Fast
+Mohsin Khan won the match award
+Mohsin Khan
+Bowler
+
+Age:
+26y 108d
+Batting:
+Left hand Bat
+Bowling:
+Left arm Medium fast
+Prince Yadav
+Prince Yadav
+Bowler
+
+Age:
+22y 324d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+Ravi Bishnoi, player page headshot cutout 2022
+Ravi Bishnoi
+Bowler
+
+Age:
+24y 56d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak Googly
+M Siddharth, player portrait
+Manimaran Siddharth
+Bowler
+
+Age:
+26y 120d
+Batting:
+Right hand Bat
+Bowling:
+Slow Left arm Orthodox
+Mayank Yadav player page headshot cutout, 2024
+Mayank Yadav
+Bowler
+
+Age:
+22y 136d
+Batting:
+Right hand Bat
+Bowling:
+Right arm Fast
+DS Rathi
+Digvesh Rathi
+Age:
+24y 321d
+Batting:
+Right hand Bat
+Bowling:
+Legbreak
